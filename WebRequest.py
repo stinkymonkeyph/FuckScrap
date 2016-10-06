@@ -5,7 +5,6 @@ Web Scanner
 
 """
 
-
 import requests
 
 
