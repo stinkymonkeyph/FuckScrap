@@ -13,9 +13,9 @@ class Crawler:
         self.page_links_final = str()
         self.page_links_count = int()
 
-    def request_set(self):
+    def request_set(self, url_request):
 
-        self.url_request = "http://" + str(input("Enter URL (e.g. www.noobs.com) : "))
+        self.url_request = url_request
 
     def request_send(self):
 
@@ -34,8 +34,6 @@ class Crawler:
 
     def link_enumerate(self):
 
-        print("--enumerating anchor tags . . .\n")
-
         self.page_links_count = 0
 
         for link in self.page_links:
@@ -43,13 +41,14 @@ class Crawler:
             link = "&nbsp;&nbsp;<p>" + str(self.page_links_count) + ")&nbsp;" + link + "</p>"
             self.page_links_final = str(self.page_links_final) + str(link)
             self.page_links_count += 1
-        print("--end of enumeration--")
 
     def recon_save(self):
 
         file = open("ReconFolder/ReconResults/ReconResults.html", "w")
+
         content = "<html><b><center><h3>Target : {0}</h3><h5>FuckScrap V.1</h5></center></b><hr>--<b>Found {1} URLs</b> \
                   --<br>{2}<html>". \
                   format(self.url_request, str(self.page_links_count), str(self.page_links_final))
+
         file.write(content)
         file.close()
