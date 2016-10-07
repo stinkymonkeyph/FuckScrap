@@ -1,6 +1,3 @@
-"""
-Web Scanner
-"""
 
 import requests
 from lxml import html
@@ -48,12 +45,3 @@ class Crawler:
                   format(self.url_request, str(self.page_links_count), str(self.page_links_final))
         file.write(content)
         file.close()
-
-
-Crawler = Crawler()
-Crawler.request_set()
-Crawler.request_send()
-Crawler.request_save()
-Crawler.get_href()
-Crawler.href_enumerate()
-Crawler.recon_save()
