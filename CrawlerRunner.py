@@ -1,6 +1,6 @@
-import WebRequest
+import WebCrawler
 
-Crawler = WebRequest.Crawler()
+Crawler = WebCrawler.Crawler()
 Crawler.request_set()
 Crawler.request_send()
 Crawler.request_save()
