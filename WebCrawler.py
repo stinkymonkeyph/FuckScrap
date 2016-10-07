@@ -12,6 +12,8 @@ class Crawler:
         self.page_links = str()
         self.page_links_final = str()
         self.page_links_count = int()
+        self.stylesheets_links = str()
+        self.stylesheets_links_count = int()
 
     def request_set(self, url_request):
 
@@ -30,17 +32,35 @@ class Crawler:
     def link_get(self):
 
         self.page_request = html.fromstring(self.url_html.text)
-        self.page_links = [anchor.attrib['href'] for anchor in self.page_request.cssselect('a')]
+        self.page_links = set([anchor.attrib['href'] for anchor in self.page_request.cssselect('a')])
 
     def link_enumerate(self):
 
         self.page_links_count = 0
 
         for link in self.page_links:
-            print("\t(" + str(self.page_links_count) + ") " + link + "\n")
-            link = "&nbsp;&nbsp;<p>" + str(self.page_links_count) + ")&nbsp;" + link + "</p>"
-            self.page_links_final = str(self.page_links_final) + str(link)
-            self.page_links_count += 1
+
+            if link != '#' and link != '/':
+
+                print("\t(" + str(self.page_links_count) + ") " + link + "\n")
+                link = "&nbsp;&nbsp;<p>" + str(self.page_links_count) + ")&nbsp;" + link + "</p>"
+                self.page_links_final = str(self.page_links_final) + str(link)
+                self.page_links_count += 1
+
+    def stylesheets_links_get(self):
+
+        self.stylesheets_links = [linkrel.attrib['href'] for linkrel in self.page_request.cssselect('link')]
+
+    def stylesheets_links_enumerate(self):
+
+        self.stylesheets_links_count = 0
+
+        for link in self.stylesheets_links:
+
+            if link != '#':
+
+                print("\t(" + str(self.stylesheets_links_count) + ") " + link + "\n")
+                self.stylesheets_links_count += 1
 
     def recon_save(self):
 
