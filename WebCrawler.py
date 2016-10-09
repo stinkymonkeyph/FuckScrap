@@ -1,5 +1,6 @@
 
 import requests
+import validators
 from lxml import html
 
 
@@ -34,9 +35,10 @@ class Crawler:
 
     def link_enumerate(self):
         self.page_links_count = 0
-
         for link in self.page_links:
             if link != '#' and link != '/':
+                if not validators.url(link):
+                    link = self.url_request+link
                 print("\t(" + str(self.page_links_count) + ") " + link + "\n")
                 link = "&nbsp;&nbsp;<p>" + str(self.page_links_count) + ")&nbsp;" + link + "</p>"
                 self.page_links_final = str(self.page_links_final) + str(link)
@@ -50,7 +52,6 @@ class Crawler:
 
     def linkrel_links_enumerate(self):
         self.linkrel_links_count = 0
-
         for link in self.linkrel_links:
             if link != '#':
                 print("\t(" + str(self.linkrel_links_count) + ") " + link + "\n")
@@ -64,6 +65,5 @@ class Crawler:
         content = "<html><b><center><h3>Target : {0}</h3><h5>FuckScrap V.1</h5></center></b><hr>--<b>Found {1} URLs</b> \
                   --<br>{2}<html>". \
                   format(self.url_request, str(self.page_links_count), str(self.page_links_final))
-
         file.write(content)
         file.close()
