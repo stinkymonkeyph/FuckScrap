@@ -12,8 +12,8 @@ class Crawler:
         self.page_links = str()
         self.page_links_final = str()
         self.page_links_count = int()
-        self.stylesheets_links = str()
-        self.stylesheets_links_count = int()
+        self.linkrel_links = str()
+        self.linkrel_links_count = int()
         self.scripts_links = str()
         self.scripts_links_count = str()
 
@@ -45,16 +45,19 @@ class Crawler:
     def link_page_counts(self):
         return self.page_links_count
 
-    def stylesheets_links_get(self):
-        self.stylesheets_links = [linkrel.attrib['href'] for linkrel in self.page_request.cssselect('link')]
+    def linkrel_links_get(self):
+        self.linkrel_links = [linkrel.attrib['href'] for linkrel in self.page_request.cssselect('link')]
 
-    def stylesheets_links_enumerate(self):
-        self.stylesheets_links_count = 0
+    def linkrel_links_enumerate(self):
+        self.linkrel_links_count = 0
 
-        for link in self.stylesheets_links:
+        for link in self.linkrel_links:
             if link != '#':
-                print("\t(" + str(self.stylesheets_links_count) + ") " + link + "\n")
-                self.stylesheets_links_count += 1
+                print("\t(" + str(self.linkrel_links_count) + ") " + link + "\n")
+                self.linkrel_links_count += 1
+
+    def linkrel_links_counts(self):
+        return self.linkrel_links_count;
 
     def recon_save(self):
         file = open("ReconFolder/ReconResults/ReconResults.html", "w")
