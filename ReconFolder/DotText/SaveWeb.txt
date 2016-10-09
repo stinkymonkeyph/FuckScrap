@@ -1,757 +1,300 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<link rel="icon" type="image/png" href="/favicon.ico"/>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Mindanao State University - Iligan Institute of Technology</title>
-<meta name="description" content="Andres Bonifacio Avenue, Tibanga, 9200 Iligan City, Philippines | Telephone: +63 (063) 492 1173"/>
-<meta name="keywords" content="msu-iit, msuiit, mindanao university, university of the philippines, iligan institute of technology, mindanao state university, msu, msu.edu.ph, msu system, philipine university"/>
-<meta name="application-name" content="Official Web Site of Mindanao State University-Iligan Institute of Technology"/>
-<meta name="author" content="MSU-IIT Webteam"/>
-<meta name="robots" content="all"/>
-<meta property="og:title" content="Official website of the Mindanao State University - Iligan Institute of Technology"/>
-<meta property="og:type" content="university"/>
-<meta property="og:url" content="http://www.msuiit.edu.ph/index.php"/>
-<meta property="og:image" content="http://www.msuiit.edu.ph/assets/img/msuiit-logo-275x280.png"/>
-<link href="/assets/css/A.bootstrap.min.css,,q08262015b+template.min.css+class.min.css,,q09152016+style.min.css,,q10062016+fonts.min.css,Mcc.0-BPru7CHH.css.pagespeed.cf.UqPG0mY9hf.css" rel="stylesheet"/>
-<link rel="apple-touch-icon" href="/assets/img/xapple-touch-icon.png.pagespeed.ic.uTZH34bpdh.png">
-<link rel="apple-touch-icon-precomposed" href="/assets/img/xapple-touch-icon-precomposed.png.pagespeed.ic.uTZH34bpdh.png">
- 
- 
-<!--[if lt IE 9]>
-<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]--> </head>
-<body>
-<div id="iit-wrap">
- 
-<div id="iit-content">
- 
-<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-55802968-1','auto');ga('send','pageview');</script> 
-<div id="header-top">
-<nav class="navbar navbar-default" role="navigation">
-<div class="container">
-<div class="navbar-header">
-<ul class="nav navbar-nav">
-<li class="active"><a href="/admissions/index.php">Apply</a></li>
-<li><a href="/about/visitor-info/index.php">Visit IIT</a></li>
-<li><a href="/giving/index.php">Giving</a></li>
-<li><a href="/alumni-friends/index.php">Alumni</a></li>
-<li><a href="/redirect.php?page=my.iit">My.IIT</a></li>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><title>Mindanao State University - Marawi City | The Flagship Campus of the MSU System</title><meta http-equiv='Content-Type' content='text/html' charset=utf-8> <meta name='description' content='The Mindanao State University Main Campus - Marawi Official Website. The MSU Main Campus - Marawi is the largest and the flagship campus of the MSU System. It is a leading institution in producing top  graduates and renowned for its excellence and promoting cultural integration in the Philippines, particularly in MINSUPALA (Mindanao-Sulu-Palawan) Region. The MSU Main Campus - Marawi is the largest and the flagship campus of the MSU System. It is a leading institution in producing top  graduates and renowned for its excellence and promoting cultural integration in the Philippines, particularly in MINSUPALA (Mindanao-Sulu-Palawan) Region.'/> <meta name='keywords' content='mindanao state university, university, msu, msu-marawi, msu-main, graduate studies, graduate schools, top performing schools, nursing schools higher education, higher institution, marawi city, lanao del sur, philippines, engineering schools, ict, mindanao, sulu, palawan, minsupala schools, main campus, opendns'/> <meta name='author' content='Information Systems Deparment, yanix et al'/> <meta name='charset' content='utf-8'/> <meta name='owner' content='Information Systems Department, MSU Marawi'/> <meta name='copyright' content='MSU Main Campus - Marawi,College of Information Technology, Information Systems Department, 2010'/>  <link rel='stylesheet' type='text/css' href='http://www.msumain.edu.ph/themes/reset.css'/> <link rel='stylesheet' type='text/css' href='http://www.msumain.edu.ph/themes/2012/defaultSearchEngineStyle-min.css'/> <link rel='stylesheet' type='text/css' href='http://www.msumain.edu.ph/themes/2012/gallery-menu-styles-min.css'/> <script type='text/javascript' language='Javascript' src='http://www.msumain.edu.ph/themes/2012/jquery-a-min.js'></script> <script type='text/javascript' language='Javascript' src='http://www.msumain.edu.ph/themes/2012/jquery-min-dimensions.js'></script> <script type='text/javascript' language='Javascript' src='http://www.msumain.edu.ph/themes/2012/jquery-min-easing.js'></script> <script type='text/javascript' language='Javascript' src='http://www.msumain.edu.ph/themes/2012/jquery-min-zcarousellite.js'></script> <script type='text/javascript' language='Javascript' src='http://www.msumain.edu.ph/themes/2012/jquery-vticker-min.js'></script> <script type='text/javascript' language='Javascript' src='http://www.msumain.edu.ph/themes/2012/jqueryAccordion.js'></script> <script type='text/javascript' language='Javascript' src='http://www.msumain.edu.ph/themes/2012/scripts-animation-gallery.js'></script> <script type='text/javascript' language='Javascript' src='http://www.msumain.edu.ph/themes/2012/scripts-browser-animation-min.js'></script> <link rel='stylesheet' type='text/css' href='http://www.msumain.edu.ph/themes/2012/styles-min.css'/><link rel='shortcut icon' type='image/x-icon' href='http://www.msumain.edu.ph/themes/msulogo.ico'/></head><body> <div id="outerbody">
+         <div id="header">
+    <div id="headerTop">
+          &nbsp;
+    </div>
+    <div id="headerBody">
+        <div id="headerExtraMenus">
+            <a href="http://www.msumain.edu.ph/details.php/news" name="Top"><h3>News</h3></a>
+            <a href="http://www.msumain.edu.ph/details.php/bulletin"><h3>Bulletin</h3></a>
+            <a href="http://www.msumain.edu.ph/calendar.php"><h3>Calendar</h3></a>
+            <a href="http://www.msumain.edu.ph/gallery.php"><h3>Gallery</h3></a>
+            <span id="headerDate">
+                <a href="calendar.php">Today is Sunday, October 09, 2016</a>
+            </span>
+        </div>
+        <div id="transparentHeaderTop">&nbsp;</div>
+        <div id="headerBannerBody">
+            <div id="headerBanner">
+                <h1 id="pageTitle">&nbsp;</h1> 
+            </div>
+        </div>
+        <div id="headerExtraPanel">
+            <div id="headerAkanLogin">
+                <label><b>LOG IN</b></label>
+                <a href="http://www.msumain.edu.ph/apps/akan/" title="Online Service for MSU-Marawi Students" id="student-akan"><span>Student AKAN</span></a>
+                <a href="http://www.msumain.edu.ph/apps/empAkan/" title ="Employee Akan - Online Service for MSU-Marawi Employee" id="employee-akan"><span>Employee AKAN</span></a>
+                <a href="https://mail.google.com/a/msumain.edu.ph" title="MSU Email service using Google Services" id="msu-mail"><span>MSU Email</span></a>
+            </div>
+            <div id="headerSearchPanel">
+                <form method="get" action="http://www.msumain.edu.ph/search.php" name="searchForm" >
+                    <div>
+                        <input type="text"   name="q" size="25" id="q" maxlength="255" value="" class="headerTextBox"/>
+                        <input type="button" value="Search" class="headerButton" onclick="checkSearchForm();"/>
+                    </div>
+                </form>
+            </div>            
+        </div>   
+        <div id="transparentHeaderBottom">&nbsp;</div> 
+    </div>
+</div>         <div id="menupanel">
+             <ul id='navmenu-h' ><li class='mmenu'><a class='navmain-menu' id='first-nav' href='http://www.msumain.edu.ph/index.php'><h3>Home</h3></a></li><li class='mmenu'><a class='navmain-menu'  href='http://www.msumain.edu.ph/details.php/admissions'><h3>Admissions</h3></a><ul  class='sbmenu'><li><a href='http://www.msumain.edu.ph/details.php/admissions'>Office of Admissions</a></li><li><a href='http://www.msumain.edu.ph/details.php/admissions/msumain-admission-requirements'>Admission Requirements</a></li><li><a href='http://www.msumain.edu.ph/details.php/admissions/admission-and-registration-in-the-undergraduate-programs'>Admission and Registration in the Undergraduate Programs</a></li><li><a href='http://www.msumain.edu.ph/details.php/admissions/scholarship-and-study-grant-programs'>Scholarship and Study Grant Programs</a></li><li><a href='http://www.msumain.edu.ph/details.php/admissions/pre-university-center'>Pre-University Center</a></li><li><a href='http://www.msumain.edu.ph/details.php/admissions/enrollment-flow'>Enrollment Flow</a></li><li><a href='http://www.msumain.edu.ph/apps/SASE/'>SASE / CET</a></li></ul></li><li class='mmenu'><a class='navmain-menu'  href='http://www.msumain.edu.ph/details.php/academics'><h3>Academics</h3></a><ul  class='sbmenu'><li><a href='http://www.msumain.edu.ph/details.php/academics/college-and-schools'>Colleges and Schools</a></li><li><a href='http://www.msumain.edu.ph/details.php/academics/academic-rules-policies-system-and-requirements'>Academic Rules, Policies, System and Requirements</a></li><li><a href='http://www.msumain.edu.ph/details.php/academics/undergraduate-programs'>Undergraduate Programs</a></li><li><a href='http://www.msumain.edu.ph/details.php/academics/basic-education'>Basic Education</a></li><li><a href='http://www.msumain.edu.ph/details.php/academics/vocational-and-technology-programs'>Vocational and Technology Programs</a></li><li><a href='http://www.msumain.edu.ph/details.php/academics/graduate-programs'>Graduate Programs</a></li><li><a href='http://www.msumain.edu.ph/details.php/university-registrar'>University Registrar</a></li><li><a href='http://www.msumain.edu.ph/details.php/administration/contact-directory'>Contact Us</a></li></ul></li><li class='mmenu'><a class='navmain-menu'  href='http://www.msumain.edu.ph/details.php/faculty-staff'><h3>Employee</h3></a><ul  class='sbmenu'><li><a href='http://www.msumain.edu.ph/details.php/faculty-staff'>Human Resource Development Office</a></li><li><a href='http://www.msumain.edu.ph/details.php/faculty-staff/faculty-directory'>Faculty Directory</a></li><li><a href='http://www.msumain.edu.ph/details.php/faculty-staff/staff-directory'>Staff Directory</a></li><li><a href='http://www.msumain.edu.ph/apps/empAkan/'>Employee Akan</a></li><li><a href='http://www.msumain.edu.ph/details.php/faculty-staff/employee-downloads'>Downloads</a></li></ul></li><li class='mmenu'><a class='navmain-menu'  href='http://www.msumain.edu.ph/details.php/student'><h3>Student</h3></a><ul  class='sbmenu'><li><a href='http://www.msumain.edu.ph/details.php/academics/undergraduate-programs'>Academic Programs</a></li><li><a href='http://www.msumain.edu.ph//library'>University Library</a></li><li><a href='http://www.msumain.edu.ph/details.php/student/athletics'>Athletics</a></li><li><a href='http://www.msumain.edu.ph/details.php/student/student-arts-and-culture'>Arts and Culture</a></li><li><a href='http://www.msumain.edu.ph/details.php/student/student-organizations'>Student Organizations</a></li><li><a href='http://www.msumain.edu.ph/details.php/student/student-publication-overview'>Student Publications</a></li><li><a href='http://www.msumain.edu.ph/details.php/student/housing-management-division'>Univesity Dormitory</a></li><li><a href='http://www.msumain.edu.ph/details.php/student/university-infirmary'>University Infirmary</a></li><li><a href='http://www.msumain.edu.ph/apps/studentAkan'>Student Akan</a></li><li><a href='http://www.msumain.edu.ph/details.php/student/division-of-student-affairs'>Division of Student Affairs</a></li><li><a href='http://www.msumain.edu.ph/apps/onlineter'>Online TER</a></li><li><a href='http://www.msumain.edu.ph/details.php/student/student-downloads'>Downloads</a></li></ul></li><li class='mmenu'><a class='navmain-menu'  href='http://www.msumain.edu.ph/details.php/about-msu'><h3>About MSU</h3></a><ul  class='sbmenu'><li><a href='http://www.msumain.edu.ph/details.php/about-msu/history'>History</a></li><li><a href='http://www.msumain.edu.ph/details.php/about-msu/philosophy-vision-mission-and-purpose'>Philosophy, Vision, Mission and Purpose</a></li><li><a href='http://www.msumain.edu.ph/details.php/about-msu/the-msu-seal-and-the-hymn'>The MSU Seal and the Hymn</a></li><li><a href='http://www.msumain.edu.ph/details.php/administration/office-of-the-president'>Past Presidents</a></li><li><a href='http://www.msumain.edu.ph/details.php/about-msu/msu-charter'>MSU Charter</a></li><li><a href='http://www.msumain.edu.ph/details.php/about-msu/msu-system'>MSU System</a></li><li><a href='http://www.msumain.edu.ph/details.php/about-msu/other-facilities'>Facilities</a></li><li><a href='http://www.msumain.edu.ph/cit/index.php/ict-center/ict-privacy-statements'>Privacy Statements, Disclaimer, Terms and Use</a></li></ul></li><li class='mmenu'><a class='navmain-menu'  href='http://www.msumain.edu.ph/details.php/research-and-extension'><h3>Research</h3></a><ul  class='sbmenu'><li><a href='http://www.msumain.edu.ph/details.php/research-and-extension/the-office-of-vice-chancellor-for-research-and-extension'>The Office of Vice Chancellor for Research and Extension</a></li><li><a href='http://www.msumain.edu.ph/details.php/research-and-extension/the-mamitua-saber-research-center-formerly-university-research-center'>The Mamitua Saber Research Center</a></li><li><a href='http://www.msumain.edu.ph/details.php/research-and-extension/the-aga-khan-museum'>The Aga Khan Museum</a></li><li><a href='http://www.msumain.edu.ph/cit/index.php/ict-center'>ICT Center</a></li></ul></li><li class='mmenu'><a class='navmain-menu'  href='http://www.msumain.edu.ph/details.php/administration'><h3>Admin</h3></a><ul  class='sbmenu'><li><a href='http://www.msumain.edu.ph/details.php/administration/office-of-the-president'>Office of the President</a></li><li><a href='http://www.msumain.edu.ph/details.php/office-of-the-university-secretary'>Office of the University Secretary</a><ul class='sbmenu'><li><a href='http://www.msumain.edu.ph/apps/usecdocs/'>USecDOKS</a></li></ul></li><li><a href='http://www.msumain.edu.ph/details.php/administration/composition-of-board-of-regents'>Composition of the Board of Regents</a></li><li><a href='http://www.msumain.edu.ph/details.php/administration/academic-units-of-marawi-campus'>Academic Units of Marawi Campus</a></li><li><a href='http://www.msumain.edu.ph/details.php/administration/semi-academic-units-of-marawi-campus'>Semi-Academic Units of Marawi Campus</a></li><li><a href='http://www.msumain.edu.ph/details.php/administration/administrative-units-of-marawi-campus'>Administrative Units of Marawi Campus</a></li><li><a href='http://www.msumain.edu.ph/details.php/administration/research-and-extension-services-of-marawi-campus'>Research and Extension Services of Marawi Campus</a></li><li><a href='http://www.msumain.edu.ph/details.php/bulletin/invitation-to-bid'>Invitation to Bid</a></li><li><a href='http://www.msumain.edu.ph/details.php/administration/directory-of-offices'>Directory of Offices</a></li><li><a href='http://www.msumain.edu.ph/details.php/administration/contact-directory'>Contacts</a></li></ul></li><li class='mmenu'><a class='navmain-menu'  href='http://www.msumain.edu.ph/library/'><h3>Library</h3></a></li></ul>         </div>
+         <div id="insidebody">
+            <div id="leftpanel" >
+                      
+       
+            <div class="leftcontainer">
+        <div id="firstpane" class="left_menu_list">
+           <p class="left_menu_head" title="Frequently Visited MSU Web Applications and Services"><span class="left_menu_head_inside">Online Services</span></p>
+             <div class="left_menu_body">
+                <ul class="posts">
+                    <!--<li><a href="http://www.msumain.edu.ph/details.php/administration/transparency-seal" title="Philippine Transparency Seal for MSU Main - Marawi Campus">-->
+					<li><a href="http://www.msu.edu.ph/transparency-seal.php#msumain" title="Philippine Transparency Seal for MSU System">
+					<img id="transparency-seal" src='http://www.msumain.edu.ph/themes/2012/images/transparency.jpg' /></a></li>
+                    <li><a href="http://www.msumain.edu.ph/system/downloads/admin/MSU Main Citizens Charter.pdf" title="Citizen's Charter of MSU Main - Marawi Campus"><img id="citizens-charter" src='http://www.msumain.edu.ph/themes/2012/images/citizenscharter.jpg' /></a></li>
+                    <li><a href="http://www.msumain.edu.ph/apps/SASE/" title="Download Report of Rating Online" id="sase-cet"><span>SASE/CET Results</span></a></li>
+                    <li><a href="http://www.msumain.edu.ph/apps/onlineter/" title="Online Teacher Efficiency Rating" id="online-ter"><span>Online TER</span></a></li>
+                    <li><a href="http://www.msumain.edu.ph/library/opac/" title="Online Public Access Catalog" id="msu-opac"><span>MSU OPAC</span></a></li>
+                    <li><a href="http://www.msumain.edu.ph/apps.php?name=emp" title="Employee Profiles' Directory" id="employee-profile"><span>Employee Profiles</span></a></li>
+                    <li><a href="http://www.msumain.edu.ph/apps.php?name=grad" title="Graduate Profiles' Directory" id="employee-profile"><span>Graduate Profiles</span></a></li>
+                    <li><a href="http://www.msumain.edu.ph/apps.php?name=honor" title="Dean's Honors Listers Directory" id="employee-profile"><span>Dean&#39;s Listers</span></a></li>
+                    <li><a href="http://www.msumain.edu.ph/gallery.php" title="View MSU Photos" id="msu-gallery"><span>MSU Gallery</span></a></li>
+                    <li><a href="http://www.msumain.edu.ph/apps/usecdocs" title="MSU-University Secretary Document Online Keeping System" id="msu-gallery"><span>USecDOKS</span></a></li>
+                    <li><a target="_blank" title="Mindanao Varsitarian: Official Student Publication of Mindanao State University Main Campus" href="http://www.themindanaovarsitarian.weebly.com" id="mv-publication">
+                        <span>MV Publication</span>
+                    </a></li>
+                </ul>
+             </div>
+        </div>
+    </div>    
+        <div class="leftcontainer">
+          <div id="secondpane" class="left_menu_list">
+               <p class="left_menu_head" title="MSU Main List of Holidays, Schedules, Events and Activities"><span class="left_menu_head_inside">Events and Activities</span></p>
+                 <div class="left_menu_body">
+                    <ul class="posts">
+                        <li><a href="http://www.msumain.edu.ph/calendar.php" title="Official University Calendar" id="msu-calendar"><span>MSU Calendar</span></a></li>
+                                            </ul>
+                 </div>
+            </div>
+        </div>
+        
+        
+    <div class="leftcontainer">  
+        <div id="thirdpane" class="left_menu_list">
+            <p class="left_menu_head" title="The Mindanao State University System's Campuses"><span class="left_menu_head_inside">MSU Campuses</span></p>
+            <div class="left_menu_body">
+                <ul class="posts">
+                    <li><a href="http://www.msu.edu.ph" title="About Mindanao State University System" id="msu-marawi"><span>MSU System</span></a></li>                       
+                    <li><a href="http://www.msumain.edu.ph/index.php" title="About Mindanao State University Marawi Campus" id="msu-marawi"><span>MSU Marawi</span></a></li>                       
+                    <li><a href="http://www.msuiit.edu.ph" title="About MSU Iligan Institute of Technology" id="msu-iit"><span>MSU IIT</span></a></li>
+                    <li><a href="http://www.msunaawan.edu.ph" title="About MSU Naawan Campus" id="msu-naawan"><span>MSU Naawan</span></a></li>
+                    <li><a href="http://www.msugensan.edu.ph" title="About MSU General Santos City Campus" id="msu-gensan"><span>MSU GenSan</span></a></li>
+                    <li><a href="http://www.msumaguindanao.edu.ph" title="About MSU Maguindanao Campus" id="msu-maguindanao"><span>MSU Maguindanao</span></a></li>
+                    <li><a href="http://www.msutawi-tawi.edu.ph" title="About MSU Tawi-Tawi Campus" id="msu-tawi"><span>MSU Tawi-Tawi</span></a></li>
+                    <li><a href="http://www.msubuug.com" title="About MSU Buug Campus" id="msu-buug"><span>MSU Buug</span></a></li>
+                    <li><a href="" title="About MSU Maigo Campus" id="msu-maigo"><span>MSU Maigo</span></a></li>
+                    <li><a href="" title="About MSU LNAC Campus" id="msu-lnac"><span>MSU LNAC</span></a></li>
+                    <li><a href="" title="About MSU LNCAT Campus" id="msu-lncat"><span>MSU LNCAT</span></a></li>
+                    <li><a href="" title="About MSU Sulu Campus" id="msu-sulu"><span>MSU Sulu</span></a></li>
+                    <li><a href="" title="About MSU Lopez Jaena" id="msu-lopez"><span>MSU Lopez Jaena</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+     <div class="leftcontainer">
+        <div id="fourthpane" class="left_menu_list">
+           <p class="left_menu_head" title="MSU Main Colleges and Schools"><span class="left_menu_head_inside">Colleges and Schools</span></p>
+             <div class="left_menu_body">
+                <div class='posts'><ul><li><a href='http://www.msumain.edu.ph/aggie/index.php' title='College of Agriculture'>College of Agriculture</a></li><li><a href='http://www.msumain.edu.ph/cbaa/index.php' title='College of Business Administration and Accountancy'>College of Business Administration and Accountancy</a></li><li><a href='http://www.msumain.edu.ph/ced/index.php' title='College of Education'>College of Education</a></li><li><a href='http://www.msumain.edu.ph/coe/index.php' title='College of Engineering'>College of Engineering</a></li><li><a href='http://www.msumain.edu.ph/cof/index.php' title='College of Fisheries'>College of Fisheries</a></li><li><a href='http://www.msumain.edu.ph/cfes/index.php' title='College of Forestry and Environmental Studies'>College of Forestry and Environmental Studies</a></li><li><a href='http://www.msumain.edu.ph/charm/index.php' title='College of Hotel and Restaurant Management'>College of Hotel and Restaurant Management</a></li><li><a href='http://www.msumain.edu.ph/chs/index.php' title='College of Health Sciences'>College of Health Sciences</a></li><li><a href='http://www.msumain.edu.ph/cit/index.php' title='College of Information Technology'>College of Information Technology</a></li><li><a href='http://www.msumain.edu.ph/law/index.php' title='College of Law'>College of Law</a></li><li><a href='http://www.msumain.edu.ph/cnsm/index.php' title='College of Natural Sciences and Mathematics'>College of Natural Sciences and Mathematics</a></li><li><a href='http://www.msumain.edu.ph/medicine/index.php' title='College of Medicine'>College of Medicine</a></li><li><a href='http://www.msumain.edu.ph/cpa/index.php' title='College of Public Affairs'>College of Public Affairs</a></li><li><a href='http://www.msumain.edu.ph/cssh/index.php' title='College of Social Sciences and Humanities'>College of Social Sciences and Humanities</a></li><li><a href='http://www.msumain.edu.ph/ised/index.php' title='Institute of Science Education'>Institute of Science Education</a></li><li><a href='http://www.msumain.edu.ph/graduate-school/index.php' title='Graduate School'>Graduate School</a></li><li><a href='http://www.msumain.edu.ph/cspear/index.php' title='College of Sports, Physical Education and Recreation'>College of Sports, Physical Education and Recreation</a></li><li><a href='http://www.msumain.edu.ph/kfciaas/index.php' title='King Faisal Center for Islamic, Arabic and Asian Studies'>King Faisal Center for Islamic, Arabic and Asian Studies</a></li></ul></div>            </div>
+        </div>
+    </div>      
+     
+
+            </div>   
+            <div class="verticalSpacer1">&nbsp;</div>
+            <div id="contentpanel" >            
+               <div id="picgallery">
+                       <div id="hgallery">
+        <div class="wrap">
+            <div id="slide-holder">
+                <div id="slide-runner">
+                    <a href="http://www.msumain.edu.ph/details.php/bulletin/general-announcements/calendar-of-activities-1st-sem-2016-2016" title="Mindanano State University - Main Campus Calendar of Activities 1st Sem 2016-2017" class="open">
+                                    <img src="http://www.msumain.edu.ph/images/photosOfTheDay/CalendarofActivities2016-2017.jpg" class="slide" alt="" id="slide-img-1" />
+                                 </a><a href="http://www.msumain.edu.ph/details.php/news/university-news/investiture-of-the-7th-president-msu-system" title="Investiture of the 7th President, MSU System HABIB WATAMAMA MACAAYONG, DPA" class="open">
+                                    <img src="http://www.msumain.edu.ph/images/photosOfTheDay/investiture.jpg" class="slide" alt="" id="slide-img-2" />
+                                 </a>                    <div id="slide-controls">
+                            <p id="slide-client" class="text"><strong>Story: </strong><span></span></p>
+                            <p id="slide-desc" class="text"></p>
+                            <p id="slide-nav"></p>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+                    if(!window.slider)	
+                        var slider={};
+                        slider.data=[{"id":"slide-img-1","client":"Calendar of Activities 1st Sem 2016-2017","desc":""}, {"id":"slide-img-2","client":"Investiture of the 7th President, MSU System","desc":""}];
+            </script>
+        </div>
+    </div>
+                </div>
+               <div id="articlecontent">
+                  <div class="articleMainPanel">
+                     <div class="articleContentPanel">
+                            <h3 class="articleHeader">
+    <a title='Read all the latest news and updates in MSU Main' href='details.php/news'>&nbsp;&nbsp;&nbsp;&nbsp;MSU News</a><span class="rss-wrapper"><a href="http://www.msumain.edu.ph/rss.php/news" target="_blank" title="Subscribe MSU News RSS Feeds"><img src="http://www.msumain.edu.ph/themes/2012/images/feed-icon.png" alt="RSS"></a></span></h3>
+        <div id="bulletinPaneBody">
+            <div  class="previous" >
+            <img alt=""  src="http://www.msumain.edu.ph/themes/2012/images/bulletin-arrow-previous.png"/>
+        </div>  
+    <div id='bulletinPane'><ul><li><p><h3><a href='http://www.msumain.edu.ph/details.php/news/university-news/msu-system-conducts-curricular-conference-for-it-education-and-computer-related-courses'> MSU System conducts curricular conference for IT education and computer-related courses</a></h3><div class='intro'><p>(<i>Saturday, August 27, 2016</i>) MSU System conducts curricular conference for IT educationÂ and computer-related courses
+by Prof. Janice F. Wade, Faculty, CIT
+In line with the goal of the Mindanao State University System to prime itself for integration into the ASEAN community and commit its efforts to t... <a href='http://www.msumain.edu.ph/details.php/news/university-news/msu-system-conducts-curricular-conference-for-it-education-and-computer-related-courses'><span class='readMoreNews'>Read More</span></a></p></div></p></li><li><p><h3><a href='http://www.msumain.edu.ph/details.php/news/university-news/msu-main-campus-conducts-senior-high-school-echo-training-seminar'> MSU Main Campus conducts Senior High School echo training-seminar</a></h3><div class='intro'><p>(<i>Saturday, August 27, 2016</i>) MSU Main Campus conducts Senior High School echo training-seminar
+by Dr. Johara D. Alangca-Azis, Special Assistant, OVCAAUniversity
+To enhance the senior high school teachersâ capability towards effective implementation of the K-12 enhanced basic education program (EBEP)... <a href='http://www.msumain.edu.ph/details.php/news/university-news/msu-main-campus-conducts-senior-high-school-echo-training-seminar'><span class='readMoreNews'>Read More</span></a></p></div></p></li><li><p><h3><a href='http://www.msumain.edu.ph/details.php/news/university-news/msu-signs-cooperation-agreement-with-tesda-to-strengthen-pres-duterte-s-poverty-alleviation-programs'> MSU signs cooperation agreement with TESDA to strengthen Pres. Duterteâs poverty alleviation programs</a></h3><div class='intro'><p>(<i>Saturday, August 27, 2016</i>) MSU signs cooperation agreement with TESDA to strengthenÂ Pres. Duterteâs poverty alleviation programs
+Â 
+Being the biggest university in Mindanao, and second biggest in the country (the University of the Philippines ranks No. 1), the relative importance of Mindanao Stat... <a href='http://www.msumain.edu.ph/details.php/news/university-news/msu-signs-cooperation-agreement-with-tesda-to-strengthen-pres-duterte-s-poverty-alleviation-programs'><span class='readMoreNews'>Read More</span></a></p></div></p></li><li><p><h3><a href='http://www.msumain.edu.ph/details.php/news/university-news/investiture-of-the-7th-president-msu-system'> Investiture of the 7th President, MSU System</a></h3><div class='intro'><p>(<i>Saturday, August 27, 2016</i>) Investiture of the 7th President, MSU System HABIB WATAMAMA MACAAYONG, DPA
+In a well-attended ceremony, Pres. Macaayongâs investiture was solemnized by Alumni Regent Dr. DatumanongÂ Sarangani in behalf of CHED Chairman Patricia Licuanan. It was witnessed, by all of the Ch... <a href='http://www.msumain.edu.ph/details.php/news/university-news/investiture-of-the-7th-president-msu-system'><span class='readMoreNews'>Read More</span></a></p></div></p></li><li><p><h3><a href='http://www.msumain.edu.ph/details.php/news/university-news/news-bor-2'> BOR elects New Deans </a></h3><div class='intro'><p>(<i>Wednesday, June 17, 2015</i>) A new set of deans for the various colleges/academic units was elected by the Mindanao State University - Board of Regents (BOR) in its recent 231st Meeting held at the Commission on Higher Education (CHED) Chairpersonâs Conference Room, HEDC Building, C.P. Garcia Avenue, U... <a href='http://www.msumain.edu.ph/details.php/news/university-news/news-bor-2'><span class='readMoreNews'>Read More</span></a></p></div></p></li></ul></div> 
+    <div class="next" id="nextBulletinImage">
+        <img alt=""  src="http://www.msumain.edu.ph/themes/2012/images/bulletin-arrow.png" />
+    </div>   
+    </div>
+                            
+                     </div>
+                     <div class="articleContentPanel">
+                        <div class='topStoryContent'><h3 class='articleHeader'>Quick Links</h3>
+            <div class='quickLinks'><div class='topStoryContent'>
+<h6>PROSPECTIVE STUDENTS</h6>
+<ul>
+<li><a href="apps/SASE/"><strong>SASE Results</strong></a>, <a href="system/downloads/students/List%20of%20Courses%20Offered.pdf" style="color: #1f4f82;"><strong>List of Courses Offered</strong></a>, <a href="details.php/admissions/pre-university-center">Pre-University Center</a>, <a href="details.php/academics/undergraduate-programs">Academic Programs</a>, <a href="details.php/admissions/scholarship-and-study-grant-programs">Scholarship and Study Grant Programs</a>, <a href="details.php/admissions/msumain-admission-requirements"><strong>Admission Requirements</strong></a>, <a href="details.php/about-msu"><strong>About Us</strong></a>, <a href="details.php/admissions/enrollment-flow" style="color: #1f4f82;"><strong>Enrollment Flow and Procedures</strong></a></li>
 </ul>
-</div>
-<div class="navbar-right">
-<ul class="nav navbar-nav">
-<li><a href="/redirect.php?page=old-site">old website <span class="glyphicon glyphicon-send"></span></a></li>
+<h6>CURRENT STUDENTS</h6>
+<ul>
+<li><a href="apps/studentAkan/"><strong>Student Akan</strong></a>, <a href="calendar.php">University Calendar</a>, <a href="details.php/student/housing-management-division">Housing Managemet Division</a>, <a href="details.php?details.php?sectid=45"><strong>Library</strong></a>, <a href="details.php/admissions/msumain-admission-requirements">Admission Requirements</a>, <a href="details.php/university-registrar">University Registrar</a>, <a href="details.php/student/guidance-and-counseling">Guidance and Counseling</a>, <a href="details.php/student/student-downloads"><strong>Student Downloads</strong></a>, <a href="details.php/admissions/enrollment-flow" style="color: #1f4f82;"><strong>Enrollment Flow and Procedures, </strong></a><strong><a href="system/downloads/students/Re-Admission%20Form.pdf" target="_blank" style="color: #1f4f82;">Re-Admission Form, </a><a href="system/downloads/students/Shifting%20Form.pdf" target="_blank" style="color: #1f4f82;">Shifting Form</a></strong></li>
 </ul>
-<form action="/search.php" id="search-form" class="pull-right" accept-charset="UTF-8">
-<h2 class="hidden">Search form</h2>
-<label class="hidden" for="search-field">Search term</label>
-<input type="hidden" name="cx" value="011287823681852205185:zo2m2ytb2ms"/>
-<input type="hidden" name="cof" value="FORID:11"/>
-<input class="input-medium input-small pull-right" name="q" value="" size="25" title="IIT Google search" accesskey="0" maxlength="40" placeholder="Search web or people" type="text" id="search-field"/>
-<input class="pull-right" type="submit" id="search-btn" name="sa" value="Search" aria-label="Search"/>
-</form>
-</div>
-</div>
-</nav>
-</div>
- 
-<div id="header-logo" class="clear-fix hidden-print" role="banner">
-<p class="visible-print"><img class="img-responsive msuiit-logo" src="/assets/img/msuiit-logo-275x280.png.pagespeed.ce.Hr5pw4dR_S.png" alt="MSU-IIT Seal of Excellence"/> Mindanao State University - Iligan Institute of Technology</p>
-<a id="logo" href="/"><img class="img-responsive visible-xs" src="/assets/img/xiit-logo.png.pagespeed.ic.R_m4meRvWj.png" alt=""></a>
-</div>
- 
-<div id="header-menu">
-<div class="no-padding">
-<div class="nav navbar" role="navigation">
-<div class="container no-padding">
-<button id="header-collapse-button" type="button" class="navbar-toggle" data-toggle="collapse" data-target=".header-collapse">
-<span class="sr-only"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-<div class="collapse navbar-collapse header-collapse">
-<ul class="nav nav-justified">
-<li class="visible-xs">
-<form id="search-form-xs" method="get" action="/search.php" accept-charset="UTF-8">
+<h6>ALUMNI AND EMPLOYEES</h6>
+<ul>
+<li><a href="apps/empAkan/"><strong>Employee Akan</strong></a>, <a href="details.php/faculty-staff">Human Resource Development Office</a>, <a href="details.php/faculty-staff/employee-downloads"><strong>Employee Downloads</strong></a>, <a href="details.php/administration">Administration</a>, <a href="system/downloads/students/List%20of%20Courses%20Offered.pdf" style="color: #1f4f82;"><strong>List of Courses Offered</strong></a></li>
+</ul>
+<h6>PARENTS AND VISITORS</h6>
+<ul>
+<li><a href="details.php/about-msu"><strong>About Us</strong></a>, <strong><a href="details.php/administration/transparency-seal" style="color: #1f4f82;">Philippine Transparency Seal</a></strong>, <strong><a href="system/downloads/admin/MSU%20Main%20Citizens%20Charter.pdf">Citizen's Charter</a></strong>, <strong><a href="http://www.ched.gov.ph/chedwww/index.php/eng/Information/Performance-Based-Bonus" target="_blank">PBB Information Materials</a></strong>, <a href="details.php/administration">Administration</a>, <a href="details.php/student/student-arts-and-culture">Arts and Literature</a>, <a href="details.php/student/athletics">Athletics</a>, <a href="details.php/about-msu/other-facilities">Facilities</a>, <a href="details.php/admissions/msumain-admission-requirements"><strong>Admission Requirements</strong></a>, <a href="details.php/academics/undergraduate-programs">Academic Programs</a>, <strong><a href="details.php/bulletin/invitation-to-bid">Invitation to Bid</a></strong></li>
+</ul>
+<h6>OTHERS</h6>
+<ul class="no-underline">
+<li><a href="http://www.gov.ph/" target="_blank" title="Official Gazzette of the Republic of the Philippines"><img src="themes/2012/images/pilipinas.png" alt="Flag of the Philippines" /></a> <a href="http://www.ched.gov.ph/" target="_blank" title="Official Website of Comission on Higher Education"><img src="themes/2012/images/ched-logo1.jpg" alt="Logo of Commision on Higher Education" /> </a><a href="http://www.prc.gov.ph/" target="_blank" title="Official Website of Professional License Regulation Comission"><img src="themes/2012/images/PRC-logo-philippines.jpg" alt="Logo of Professional License Regulation Comission" /></a></li>
+</ul></div></div></div>                     </div>
+                     <div class="articleContentPanel">
+                        <h3 class='articleHeader'> A Daily Dose of Meranao Words and Phrases</h3><div class='topStoryContent'><div class='topStoryDetails'><p>
+<table style="width: 100%;">
+<thead>
+<tr><th>Meranao</th><th>English</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>Koman tano!</td>
+<td>Let us eat!</td>
+</tr>
+<tr>
+<td>Antona-a i ngaran ka?</td>
+<td>What is your name?</td>
+</tr>
+<tr>
+<td>Anda ka mababaling?</td>
+<td>Where do you live?</td>
+</tr>
+<tr>
+<td>Pira ini?</td>
+<td>How much is this?</td>
+</tr>
+<tr>
+<td>So osto a?</td>
+<td>Is that so?</td>
+</tr>
+<tr>
+<td>Aydaw!</td>
+<td>Ouch!</td>
+</tr>
+<tr>
+<td>Ngkainoto?</td>
+<td>Why is that?</td>
+</tr>
+</tbody>
+</table>
+<p>Â </p></p></div></div>                     </div>
+                     <div class="articleContentPanel">
+                        <h3 class='articleHeader'>Publications</h3><div class='topStoryContent'><div class='topStoryDetails'><p>
 <div>
-<input type="hidden" name="cx" value="011287823681852205185:zo2m2ytb2ms"/>
-<input type="hidden" name="cof" value="FORID:11"/>
-<input type="text" id="search-field-xs" name="q" class="form-control" placeholder="Search web or people..."/>
-<input type="hidden" name="sa"/>
-<a href="#"><i class="glyphicon glyphicon-search"></i></a>
-</div>
-</form>
-</li>
-<li><a href="/about/">About</a></li>
-<li><a href="/admissions/">Admissions</a></li>
-<li><a href="/academics/">Academics</a></li>
-<li><a href="/faculty-staff/">Faculty &amp; Staff</a></li>
-<li><a href="/research/">Research</a></li>
-<li><a href="/campus-life/">Campus Life</a></li>
-<li><a href="/offices/">Offices <span class="hidden-xs hidden-sm hidden-md">&amp; Resources</span></a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
- 
-<div class="container">
- 
-<div class="row">
-<div id="carousel-container" class="col-lg-12 col-md-12 col-sm-12">
- 
-<div id="carousel-homepage" class="carousel slide" data-ride="carousel" data-interval="10000">
- 
-<ol class="carousel-indicators">
-<li data-target="#carousel-homepage" data-slide-to="0" class="active"></li>
-<li data-target="#carousel-homepage" data-slide-to="1"></li>
-<li data-target="#carousel-homepage" data-slide-to="2"></li>
-<li data-target="#carousel-homepage" data-slide-to="3"></li>
-</ol>
- 
-<div class="carousel-inner">
-<div class="item active"><a title="Read more" href="https://www.msuiit.edu.ph/academics/colleges/ced/ids/admission/index.php" target="_blank"><img class="img-responsive" src="/assets/images/announcements/2016/xids-admission-poster3.jpg.pagespeed.ic.sVs98qAQBj.jpg" alt="Top announcement/event"></a></div><div class="item "><a title="Read more" href="https://www.msuiit.edu.ph/offices/cit/mindanao-startup-challenge.php" target="_blank"><img class="img-responsive" src="/offices/cit/assets/xcit-startup-challenge.png,q07042016.pagespeed.ic.aNHkh5rMaU.png" alt="Top announcement/event"></a></div><div class="item "><a title="Read more" href="https://www.msuiit.edu.ph/offices/opi/downloads/gazette-april-2016.pdf" target="_blank"><img class="img-responsive" src="/assets/images/announcements/2016/xgazette-april.jpg.pagespeed.ic.iWsaZu-mpK.jpg" alt="Top announcement/event"></a></div><div class="item "><a title="Read more" href="https://msuiit.edu.ph/academics/schools/sgs/dhei/index.php" target="_blank"><img class="img-responsive" src="/assets/images/announcements/2016/xdhei-banner.jpg.pagespeed.ic.6QRayMsGWS.jpg" alt="Top announcement/event"></a></div>
-</div>
- 
-<a class="left carousel-control visible-xs visible-sm" href="#carousel-homepage" data-slide="prev">
-<span class="glyphicon glyphicon-chevron-left"></span>
-</a>
-<a class="right carousel-control visible-xs visible-sm" href="#carousel-homepage" data-slide="next">
-<span class="glyphicon glyphicon-chevron-right"></span>
-</a>
-</div>
- 
-</div>
-</div>
- 
-</div>
- 
- 
-<div id="quick-nav-container">
- 
-<div class="container">
- 
-<div class="row">
-<div class="col-lg-12">
- 
-<div class="row">
- 
-<div class="quick-nav">
-<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-<div class="row">
-<div class="col-lg-12 col-md-12 col-sm-12">
-<h3 class="hidden-xs">Prospective Students</h3>
-<div class="quick-nav-title navbar-toggle" data-toggle="collapse" data-target="#quick-nav-1">
-<h4 class="pull-left">Prospective Students</h4>
-<span class="pull-right glyphicon glyphicon-plus"></span>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="quick-nav-icon col-lg-3 col-md-3 col-sm-2 col-xs-2 hidden-xs">
-<img class="" src="assets/img/xcrest-prospective-student.png.pagespeed.ic.lN1L5-c8Zt.png" alt="Prospective Student"/>
-</div>
-<div class="quick-nav-link col-lg-9 col-md-9 col-sm-9 col-xs-12">
-<div class="collapse navbar-collapse" id="quick-nav-1">
-<ul>
-<li><a href="/admissions/index.php">Undergraduate</a></li>
-<li><a href="/academics/schools/sgs/index.php">Graduate</a></li>
-<li><a href="/offices/admissions/sase.php">MSU SASE</a></li>
-<li><a href="/campus-life/index.php">At IIT</a></li>
- 
-<li><a href="/academics/index.php">Colleges &amp; Schools</a></li>
-</ul>
-</div>
- 
-<div id="findcourse">
-<form name="search-student" method="get" action="search.php" id="livesearch-form" autocomplete="off">
-<div id="find-course-container" class="row">
-<div class="col-lg-12">
-<h4 class="section-header"><label>Find a Course</label></h4>
-<input id="livesearch-input" type="text" class="form-control" placeholder="Search">
-<div id="livesearch-result" class="livesearch-result"></div>
-</div>
-</div>
-</form>
-</div>
- 
-</div>
-</div>
-</div>
-</div>
- 
- 
-<div class="quick-nav">
-<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-<div class="row">
-<div class="col-lg-12 col-md-12 col-sm-12">
-<h3 class="hidden-xs">Current Students</h3>
- 
-<div class="quick-nav-title navbar-toggle" data-toggle="collapse" data-target="#quick-nav-2">
-<h4 class="pull-left">Current Students</h4>
-<span class="pull-right glyphicon glyphicon-plus"></span>
-</div>
- 
-</div>
-</div>
-<div class="row">
-<div class="quick-nav-icon col-lg-3 col-md-3 col-sm-2 col-xs-2 hidden-xs">
-<img src="assets/img/xcrest-student.png.pagespeed.ic.ipAUT2X5_J.png" alt="Current Student"/>
-</div>
-<div class="quick-nav-link col-lg-9 col-md-9 col-sm-9 col-xs-12">
- 
-<div class="collapse navbar-collapse" id="quick-nav-2">
-<ul>
-<li><a href="/offices/registrar/course-offering.php">Course Offering</a></li>
-<li><a href="/offices/registrar/honors-list.php">Honor's List</a></li>
-<li><a href="/offices/registrar/deans-list.php">Dean's List</a></li>
-<li><a href="/offices/library/services.php#elib">eLibraries</a></li>
-<li><a href="/offices/registrar/downloads.php">Downloads</a></li>
-</ul>
-</div>
- 
-</div>
-</div>
-</div>
-</div>
- 
- 
-<div class="quick-nav">
-<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-<div class="row">
-<div class="col-lg-12 col-md-12 col-sm-12">
-<h3 class="hidden-xs">Faculty &amp; Staff</h3>
-<div class="quick-nav-title navbar-toggle" data-toggle="collapse" data-target="#quick-nav-3">
-<h4 class="pull-left">Faculty &amp; Staff</h4>
-<span class="pull-right glyphicon glyphicon-plus"></span>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="quick-nav-icon col-lg-3 col-md-3 col-sm-2 col-xs-2 hidden-xs">
-<img src="assets/img/xcrest-faculty.png.pagespeed.ic.BkYNQazdE_.png" alt="Faculty and Staff"/>
-</div>
-<div class="quick-nav-link col-lg-9 col-md-9 col-sm-9 col-xs-12">
-<div class="collapse navbar-collapse" id="quick-nav-3">
-<ul>
-<li><a href="/offices/oc/index.php">Administration</a></li>
- 
-<li><a href="/offices/index.php">Offices &amp; Departments</a></li>
-<li><a href="/faculty-staff/downloads.php">Downloads</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
- 
- 
-<div class="quick-nav">
-<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-<div class="row">
-<div class="col-lg-12 col-md-12 col-sm-12">
-<h3 class="hidden-xs">Alumni &amp; Friends</h3>
-<div class="quick-nav-title navbar-toggle container-fluid" data-toggle="collapse" data-target="#quick-nav-4">
-<h4 class="pull-left">Alumni &amp; Friends</h4>
-<span class="pull-right glyphicon glyphicon-plus"></span>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="quick-nav-icon col-lg-3 col-md-3 col-sm-2 col-xs-2 hidden-xs">
-<img src="assets/img/xcrest-alumni.png.pagespeed.ic.C_b2b0BzZj.png" alt="Alumni and Friends"/>
-</div>
-<div class="quick-nav-link col-lg-9 col-md-9 col-sm-9 col-xs-12">
-<div class="collapse navbar-collapse" id="quick-nav-4">
-<ul>
-<li><a href="/offices/registrar/index.php">Documents &amp; Records</a></li>
-<li><a href="/jobs/index.php">Jobs Database</a></li>
-<li><a href="http://www1.msuiit.edu.ph/alumni-friends/registry/">Registry</a></li>
- 
-<li><a href="/alumni-friends/index.php">Give to IIT</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
- 
-</div>
- 
-</div>
-</div>
- 
-</div>
- 
-</div>
- 
- 
-<div class="container">
- 
-<div class="row">
- 
-<div class="col-lg-4  col-md-4 col-xs-12">
- 
- 
- 
- 
-<div class="row">
-<div id="events-container-homepage" class="col-lg-12 col-md-12 col-sm-6 col-xs-12">
-<h2 class="section-header"><a href="events/index.php">Events</a></h2>
-<div id="homepage-acad-calendar">
-<a href="/offices/registrar/academic-calendar.php"><span class="glyphicon glyphicon-calendar"></span> MSU-IIT Academic Calendar</a>
-</div>
-<div class="events-calendar" id="homepage-events">
-<div class="row event-item">
-<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-<a href="events/details.php?id=237">
-<div class="day">
-Thu. </div>
-<div class="date">
-<p>Sep. 15 </p>
-</div>
-</a>
-</div>
-<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-<h5><a href="events/details.php?id=237">Eid'l Adha Celebration</a></h5>
-<p>08:00 AM - 12:00 AM <p>MSU-IIT Lawn (near the flagpole)</p></p>
-</div>
-</div>
-<div class="row event-item">
-<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-<a href="events/details.php?id=236">
-<div class="day">
-Mon. </div>
-<div class="date">
-<p>Aug. 22 </p>
-</div>
-</a>
-</div>
-<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-<h5><a href="events/details.php?id=236">Bamboo Charcoal Production</a></h5>
-<p>08:30 AM - 04:30 PM <p><strong>Bamboo Technology Resource Center</strong></p></p>
-</div>
-</div>
-<div class="row event-item">
-<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-<a href="events/details.php?id=235">
-<div class="day">
-Thu. </div>
-<div class="date">
-<p>Aug. 18 </p>
-</div>
-</a>
-</div>
-<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-<h5><a href="events/details.php?id=235">Pottery Production Using Slip Casting Process</a></h5>
-<p>09:00 AM - 04:00 PM <p><strong>Ceramic Training Center, MSU-IIT</strong></p></p>
-</div>
-</div>
-<div class="row event-item">
-<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-<a href="events/details.php?id=234">
-<div class="day">
-Wed. </div>
-<div class="date">
-<p>Aug. 17 </p>
-</div>
-</a>
-</div>
-<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-<h5><a href="events/details.php?id=234">Iligan Innovation Convergence 2016</a></h5>
-<p>10:00 AM - 05:00 PM <p><strong>COE Amphitheater, MSU-IIT</strong></p></p>
-</div>
-</div>
-<div class="row event-item">
-<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-<a href="events/details.php?id=233">
-<div class="day">
-Tue. </div>
-<div class="date">
-<p>Aug. 16 </p>
-</div>
-</a>
-</div>
-<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-<h5><a href="events/details.php?id=233">Impact Sourcing and Freelancers’ Forum</a></h5>
-<p>10:00 AM - 05:00 PM <p>Mini Theater, MSU-IIT</p></p>
-</div>
-</div>
-</div>
-<br>
-<a href="jobs/index.php?company=msu-iit"><img src="/assets/img/xcareers.jpg.pagespeed.ic.lpTMxbP0rQ.jpg" class="img-responsive" alt="Careers at MSU-IIT"></a>
-<br>
-</div>
-<div class="col-lg-8 col-md-8 col-sm-6 col-xs-6 visible-sm">
- 
-<div class="row news-homepage">
-<a href="/news/index.php"><h2 class="section-header">News</h2></a>
-<hr class="heading-bar hr-homepage"/>
- 
-<div class="news-homepage-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
-<a href="news/news-detail.php?id=842"><img alt="Philippines’ first Culture and Arts Studies Center established in MSU-IIT" src="/assets/images/news/2016/x3c13527c4f55ef32cc82e788d697a910.jpg.pagespeed.ic.MxliWncSET.jpg"/></a>
-<div class="news-homepage-item-content">
- 
-<h5><a href="news/news-detail.php?id=842">Philippines’ first Culture and Arts Studies Center...</a></h5>
-</div>
-</div>
-<div class="news-homepage-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
-<a href="news/news-detail.php?id=841"><img alt="CED to conduct workshop on STEM Education for teachers" src="/assets/images/news/2016/x5a00600e00aff6905bcdef8ca512ab35.jpg.pagespeed.ic.CtuOhcxSGE.jpg"/></a>
-<div class="news-homepage-item-content">
- 
-<h5><a href="news/news-detail.php?id=841">CED to conduct workshop on STEM Education...</a></h5>
-</div>
-</div>
- 
-<div class="news-homepage-item col-xs-12 visible-sm">
-<div class="more-news news-item-content">
-<h4>More News...</h4>
-<ul>
-<li><a href="news/section.php?catid=1">Science &amp; Engineering</a></li>
-<li><a href="news/section.php?catid=2">Education</a></li>
-<li><a href="news/section.php?catid=3">Campus &amp; Community</a></li>
-<li><a href="news/section.php?catid=4">Arts &amp; Culture</a></li>
-</ul>
-</div>
-</div>
-</div>
- 
-</div>
-</div>
- 
-</div>
- 
- 
-<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
- 
-<div class="row hidden-sm news-homepage">
-<a href="/news/index.php"><h2 class="section-header">News</h2></a>
-<hr class="heading-bar  hr-homepage"/>
- 
-<div class="news-homepage-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
-<a href="news/news-detail.php?id=842"><img alt="Philippines’ first Culture and Arts Studies Center established in MSU-IIT" src="/assets/images/news/2016/x3c13527c4f55ef32cc82e788d697a910.jpg.pagespeed.ic.MxliWncSET.jpg"/></a>
-<div class="news-homepage-item-content">
- 
-<h5><a href="news/news-detail.php?id=842">Philippines’ first Culture and Arts Studies Center established in MSU-IIT</a></h5>
-</div>
-</div>
-<div class="news-homepage-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
-<a href="news/news-detail.php?id=841"><img alt="CED to conduct workshop on STEM Education for teachers" src="/assets/images/news/2016/x5a00600e00aff6905bcdef8ca512ab35.jpg.pagespeed.ic.CtuOhcxSGE.jpg"/></a>
-<div class="news-homepage-item-content">
- 
-<h5><a href="news/news-detail.php?id=841">CED to conduct workshop on STEM Education for teachers</a></h5>
-</div>
-</div>
-<div class="news-homepage-item col-lg-4 col-md-4 col-sm-6 hidden-xs">
-<a href="news/news-detail.php?id=838"><img alt="CED is a founding member of Philippine Teacher Education Network" src="/assets/images/news/2016/x5ac495f8e72cea64d88758709f6b8fa1.jpg.pagespeed.ic.3e9zBgHofa.jpg"/></a>
-<div class="news-homepage-item-content">
- 
-<h5><a href="news/news-detail.php?id=838">CED is a founding member of Philippine Teacher Education Network</a></h5>
-</div>
-</div>
- 
-<div class="news-homepage-item col-xs-6 visible-sm">
-<div class="more-news news-item-content">
-<h4>More News...</h4>
-<ul>
-<li><a href="news/index.php">Education</a></li>
-<li><a href="news/index.php">Arts &amp; Culture</a></li>
-<li><a href="news/index.php">Science &amp; Engineering</a></li>
-<li><a href="news/index.php">Campus &amp; Community</a></li>
-</ul>
-</div>
-</div>
-</div>
- 
- 
-<div class="row">
-<hr class="heading-bar  hr-homepage"/>
-<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-<div class="culture-homepage" id="culture-1">
-<a href="campus-life/arts-culture/index.php">
-<img class="img-responsive" src="assets/img/homepage/xculture-arts.png,q110314.pagespeed.ic.chbJzGCYd4.jpg" alt="Arts and Culture"/>
-<h4>Arts &amp; Culture</h4>
-</a>
-</div>
-</div>
-<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-<div class="culture-homepage" id="culture-2">
-<a href="academics/facilities/index.php">
-<img class="img-responsive" src="assets/img/homepage/xculture-science.png,q110314.pagespeed.ic.QujwejtrHa.jpg" alt="Facilities"/>
-<h4>Facilities</h4>
-</a>
-</div>
-</div>
-<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-<div class="culture-homepage" id="culture-3">
-<a href="offices/admissions/scholarships.php">
-<img class="img-responsive" src="assets/img/homepage/xculture-scholar.png,q110314.pagespeed.ic.H0CYLrFoid.jpg" alt="Scholarships"/>
-<h4>Scholarship Programs</h4>
-</a>
-</div>
-</div>
-<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-<div class="culture-homepage" id="culture-4">
-<a href="offices/sdo/index.php">
-<img class="img-responsive" src="assets/img/homepage/xculture-athletics.png,q110314.pagespeed.ic.q7rvrvItdu.jpg" alt="Sports and Athletics"/>
-<h4>Sports &amp; Athletics</h4>
-</a>
-</div>
-</div>
-</div>
- 
-<div class="row">
-<hr class="heading-bar hr-homepage"/>
- 
-<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-<div id="social-media-module">
-<div class="row">
-<div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
-<div class="twitter-icon">
-<a href="https://twitter.com/iitwebteam" title="MSU-IIT Twitter page"><img class="img-responsive" src="assets/img/homepage/twitter-logo-75x61.png.pagespeed.ce.dY1DKoBZ3c.png" alt="MSU-IIT Twitter page"></a>
-</div>
-<div class="twitter">
-<div class="spinner">
-<div class="bounce1 blue"></div>
-<div class="bounce2 blue"></div>
-<div class="bounce3 blue"></div>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-<p class="other-social-media">
-<a href="https://plus.google.com/u/0/112856074816940698831/posts?hl=en&amp;pli=1" target="_blank"><img class="social-icons" src="assets/img/homepage/xgplus-icon.png.pagespeed.ic.HJ78scrGcO.png" alt="Google Plus page"></a>
-<a href="https://www.facebook.com/ilitech" target="_blank"><img class="social-icons" src="assets/img/homepage/xfb-icon.png.pagespeed.ic.v0tW5xCCGA.png" alt="Facebook page"></a>
-</p>
-</div>
-</div>
-</div>
-</div>
- 
-<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-<h4 class="no-margin"><a href="jobs/index.php">Jobs</a></h4>
-<ul>
-<li><a href="jobs/detail.php?id=571">CADET ENGINEER</a></li>
-<li><a href="jobs/detail.php?id=570">CADET PROCESS OPERATOR</a></li>
-<li><a href="jobs/detail.php?id=568">Customer Service Representative/Teller</a></li>
-</ul>
-</div>
-<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-<p></p>
-<ul>
-<li><a href="jobs/detail.php?id=569">LECTURER (Math/Chem)</a></li>
-<li><a href="jobs/detail.php?id=567">LABORATORY ANALYST</a></li>
-<li><a href="jobs/detail.php?id=566">Service Connection Engineer</a></li>
-</ul>
-</div>
-</div>
-</div>
- 
-</div>
- 
-<div class="row">
-<hr class="heading-bar hr-homepage"/>
- 
-<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-<div id="more-announcement">
-<h3 class="section-header"><a href="announcements/index.php">Announcements</a></h3>
-<ul>
-<li><span class="glyphicon glyphicon-bullhorn"></span> <a href="announcements/detail.php?id=1052">Supply of Dental Chairs and Ultrasonic Scalers for Clinic</a></li>
-<li><span class="glyphicon glyphicon-bullhorn"></span> <a href="announcements/detail.php?id=1051">Supply of Various Construction Materials for PPD Building Phase 1-D</a></li>
-<li><span class="glyphicon glyphicon-bullhorn"></span> <a href="announcements/detail.php?id=1050">Supply and Delivery of Incubator-Shaker, Orbital and Direct Drive Oil-Sealed Rotary Vacuum Pump for DOST-PCHRD</a></li>
-</ul>
-</div>
-</div>
- 
- 
-<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-<a href="publications/index.php"><img id="publication-module" class="img-responsive" src="/assets/img/homepage/xpublications-a.png.pagespeed.ic.MLbBX9LRxn.jpg" alt="MSU-IIT Publications"/></a>
-</div>
- 
- 
-<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-<div id="myiit-module">
-<div class="hidden-xs">
-<img class="img-responsive" src="assets/img/homepage/xmyiit.png.pagespeed.ic.5_OMumaatK.jpg" alt="My.IIT">
-<span>
-<a href="redirect.php?page=my.iit.login">Login</a> | <a href="redirect.php?page=my.iit.signup">Sign Up</a>
-</span>
-</div>
-<div class="visible-xs">
-<a href="redirect.php?page=my.iit.login" title="Logon to My.IIT"><img class="img-responsive" src="assets/img/homepage/xmyiit.png.pagespeed.ic.5_OMumaatK.jpg" alt="My.IIT"></a>
-</div>
-</div>
-</div>
- 
-</div>
- 
-<div class="row">
-<hr class="heading-bar hr-homepage no-margin-bottom"/>
-<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-<div class="campus-ads-section">
-<a href="campus-life/">
-<img class="img-responsive" src="assets/img/homepage/xlife-campus.png.pagespeed.ic.764A_Cl3Bx.jpg" alt="Life at Campus"/>
-<h4>Life at Campus</h4>
-</a>
-</div>
-</div>
-<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-<div class="campus-ads-section">
-<a href="alumni-friends/">
-<img class="img-responsive" src="assets/img/homepage/xalumni-friends-thumb.png.pagespeed.ic.SZJAfcXNIK.jpg" alt="Alumni and Friends"/>
-<h4>Alumni &amp; Friends</h4>
-</a>
-</div>
-</div>
-<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-<div class="campus-ads-section">
-<a href="research/index.php">
-<img class="img-responsive" src="assets/img/homepage/xresearch-extension.png.pagespeed.ic.CtzbibPDhI.jpg" alt="Research and Extension"/>
-<h4>Research &amp; Extension Programs</h4>
-</a>
-</div>
-</div>
-<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-<div class="campus-ads-section">
-<a href="centers-institutes/">
-<img class="img-responsive" src="assets/img/homepage/xcenters-institutes.png.pagespeed.ic.8jZ4YXLh7A.jpg" alt="Centers and Institute"/>
-<h4>Centers &amp; Institutes</h4>
-</a>
-</div>
-</div>
-</div>
- 
-</div>
- 
-</div>
- 
-</div>
- 
- 
-<div id="psuedo-footer">
- 
-<div class="container">
-<div class="row">
-<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-<div class="directory-homepage">
-<div id="seal-excellence">
-<a href="/index.php"><img class="img-responsive msuiit-logo" src="/assets/img/msuiit-logo-275x280.png.pagespeed.ce.Hr5pw4dR_S.png" alt="MSU-IIT Seal of Excellence"/></a>
-<h4>Seal of Excellence</h4>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-<div class="directory-homepage hidden-print">
-<div class="directory-list">
-<h5>DIRECTORY</h5>
-<ul>
- <li><a href="/academics/colleges/index.php">Colleges</a>, <a href="/academics/schools/index.php">Schools</a>, <a href="/offices/index.php">Offices</a>, <a href="/offices/library/services.php#elib">eLibraries</a></li>
-</ul>
-<h5>Services</h5>
-<ul>
-<li><a href="/redirect.php?page=my.iit">My.IIT</a>, <a href="/redirect.php?page=clearance">Online Clearance</a>, <a href="/redirect.php?page=leave">Leave Management</a></li>
-<li><a href="/redirect.php?page=to">Travel Order</a>, <a href="/jobs/index.php">Jobs</a>, <a href="/announcements/index.php?catid=10">Invitations to Bid</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-<div class="no-margin hidden-print">
-<div class="row">
-<hr class="visible-xs no-margin-bottom">
- 
-<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 contact-us-homepage">
-<h5><a href="/offices/admissions/index.php">Admissions</a></h5>
-<ul>
-<li><span class="glyphicon glyphicon-envelope"></span> <a href="/cdn-cgi/l/email-protection#b2d3d6dfdbc1c1dbdddcc1f2d59cdfc1c7dbdbc69cd7d6c79cc2da8dc1c7d0d8d7d1c68ff1dddcc6d3d1c6978082d4c0dddf978082ffe1e79ffbfbe6978082e5d7d0Xsite"><span class="__cf_email__" data-cfemail="d6b7b2bbbfa5a5bfb9b8a596b1f8bba5a3bfbfa2f8b3b2a3f8a6be">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></li>
-<li><span class="glyphicon glyphicon-phone-alt"></span> +63 (063) 223 8641</li>
-</ul>
-<h5><a href="/offices/registrar/index.php">Registrar</a></h5>
-<ul>
-<li><span class="glyphicon glyphicon-envelope"></span> <a href="/cdn-cgi/l/email-protection#9ceef9fbf5efe8eefdeedcfbb2f1efe9f5f5e8b2f9f8e9b2ecf4a3efe9fef6f9ffe8a1dff3f2e8fdffe8b9aeacfaeef3f1b9aeacd1cfc9b1d5d5c8b9aeaccbf9feefXite"><span class="__cf_email__" data-cfemail="90e2f5f7f9e3e4e2f1e2d0f7befde3e5f9f9e4bef5f4e5bee0f8">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></li>
-<li><span class="glyphicon glyphicon-phone-alt"></span> +63 (063) 223 3794</li>
-</ul>
-</div>
-<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 contact-us-homepage">
-<h5><a href="/offices/gcc/index.php">Guidance Counselors</a></h5>
-<ul>
-<li><span class="glyphicon glyphicon-envelope"></span> <a href="/cdn-cgi/l/email-protection#ef889a868b8e818c8aaf88c1829c9a86869bc18a8b9ac19f87d09c9a8d858a8c9bd2ac80819b8e8c9bcadddf899d8082cadddfa2bcbac2a6a6bbcadddfb88a8d9c86Xte"><span class="__cf_email__" data-cfemail="0c6b7965686d626f694c6b22617f7965657822696879227c64">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></li>
-<li><span class="glyphicon glyphicon-phone-alt"></span> +63 (063) 225 4634 / 221 4050</li>
-</ul>
-<h5><a href="/webteam.php">Webteam</a></h5>
-<ul>
-<li><span class="glyphicon glyphicon-envelope"></span> <a href="/cdn-cgi/l/email-protection#9cebf9fee8f9fdf1dcfbb2f1efe9f5f5e8b2f9f8e9b2ecf4a3efe9fef6f9ffe8a1dff3f2e8fdffe8b9aeacfaeef3f1b9aeacd1cfc9b1d5d5c8b9aeaccbf9feeff5e8Xe"><span class="__cf_email__" data-cfemail="4b3c2e293f2e2a260b2c6526383e22223f652e2f3e653b23">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></li>
-</ul>
-</div>
- 
-<div class="clearfix"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
- 
-</div>
- 
-<footer>
-<div id="footer-top">
-<div class="container">
-<div class="row">
-<div id="footer-top-left" class="col-lg-8 col-md-6 col-sm-8 col-xs-12">
-<div id="footer-title" class="pull-left">
-<h4><a href="/index.php">Mindanao State University<br/>Iligan Institute of Technology</a></h4>
-</div>
-<div id="footer-address" class="pull-left">
-<p>Andres Bonifacio Avenue, Tibanga, <br>9200 Iligan City, Philippines<br/>Telephone: +63 (063) 492 1173</p>
-</div>
-<div class="clearfix"></div>
-</div>
-<div class="col-lg-4 visible-lg hidden-print">
-<div class="row">
-<div class="col-lg-offset-3 col-md-offset-3 col-lg-6 col-md-6">
-<div id="transparency-seal">
-<p class="pull-right"><a href="/redirect.php?page=transparency-seal">Transparency Seal</a><br>
-<a href="/redirect.php?page=citizen-charter">Citizen's Charter</a></p>
-</div>
-</div>
-<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-<a href="/redirect.php?page=transparency-seal"><img class="img-responsive transparency-seal" src="/assets/img/xtransparency_seal-150x149.png.pagespeed.ic.gWwtx7Isgp.png" alt="Transparency Seal"></a>
-</div>
-</div>
-</div>
-</div>
-<div class="row">
-<div id="footer-nav" class="col-lg-8 col-md-12 col-sm-12 col-lg-offset-2 hidden-xs hidden-print">
-<ul class="nav nav-pills nav-justified">
-<li><a href="/legalities/index.php#privacy">PRIVACY STATEMENT</a></li>
-<li><a href="/legalities/index.php#copyright">COPYRIGHT</a></li>
-<li><a href="/legalities/index.php#policy">Usage Policy</a></li>
-<li><a href="/legalities/index.php#terms-condition">Terms and Conditions</a></li>
-<li><a href="/legalities/index.php#disclaimer">Disclaimer</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div id="footer-bottom">
-<div class="container">
-<div class="row">
-<div class="col-lg-12">
-<p id="footer-copyright">&copy; 2014 MSU-Iligan Institute of Technology <small class="pull-right php-exec-time hidden-xs hidden-print">PHP exec. time: 380 ms</small></p>
-</div>
-</div>
-</div>
-</div>
-</footer><script src="/assets/js/jquery-1.11.1.min.js.pagespeed.jm.YSzgc-BSX9.js"></script>
-<script src="/assets/js/bootstrap.min.js+app.js,q09212014+scrollbar,_jquery.slimscroll.min.js.pagespeed.jc.R_N2SBWxMR.js"></script><script>eval(mod_pagespeed_YKp7BcUjUD);</script>  
-<script>eval(mod_pagespeed_SRZuiVJ817);</script>
-<script>eval(mod_pagespeed_$6QZEXvlSW);</script>
-<script type="text/javascript">$(function(){$('.events-calendar').slimscroll({railDraggable:true,height:572,railVisible:false,allowPageScroll:true});});</script>
-<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
-</html>
+<p><a href="system/downloads/publication/Newsletter%202016.pdf"><img src="images/imagesForGenericContents/newsletter2016.JPG" alt="MSU Marawi Annual Report 2011" style="float: left; width: 160px; height: 210px; padding: 3px;" /></a>Â <a href="system/downloads/publication/MSU%20Main%20News%20Letter%202013.pdf"><img src="images/imagesForGenericContents/newsletter.png" alt="MSU Newsletter 2012" style="float: left; width: 160px; height: 210px; padding: 3px;" /></a></p>
+<p style="clear: both; height: 3px;">Â </p>
+</div></p></div></div>                     </div>   
+                  </div>
+                  <div class="verticalSpacer">&nbsp;</div>
+                  <div class="articleMainPanel">
+                     <div class="articleContentPanel">
+                        <h3 class="articleHeader">Top Story</h3>
+                        <div class='topStoryContent'><div class='topStoryDetails'><h3><a href='http://www.msumain.edu.ph/details.php/news/university-news/investiture-of-the-7th-president-msu-system'>Investiture of the 7th President, MSU System</a></h3><p><p style="text-align: center;"><strong>Investiture of the 7th President, MSU System HABIB WATAMAMA MACAAYONG, DPA</strong></p>
+<p>In a well-attended ceremony, Pres. Macaayongâs investiture was solemnized by Alumni Regent Dr. DatumanongÂ <span style="font-size: 12.16px; line-height: 1.3em;">Sarangani in behalf of CHED Chairman Patricia Licuanan. It was witnessed, by all of the Chancellors of the MSUÂ </span><span style="font-size: 12.16px; line-height: 1.3em;">Campuses, including all the Directors/Superintendents of the Campus Supervised Institutions (CSI), members of theÂ </span><span style="font-size: 12.16px; line-height: 1.3em;">Board of Regents, faculty, students, and staff. Likewise, in attendance were local, regional and national leaders in variousÂ </span><span style="font-size: 12.16px; line-height: 1.3em;">capacities.</span></p>
+</p></div></div>                     </div>
+                     <div class="articleContentPanel">                     
+                            <h3 class="articleHeader"><a title='Read all the latest posts and annoucements in MSU Main Bulletin' href='http://www.msumain.edu.ph/details.php/bulletin'>    &nbsp;&nbsp;&nbsp;&nbsp;MSU Bulletin</a><span class="rss-wrapper"><a href="http://www.msumain.edu.ph/rss.php/bulletin" target="_blank" title="Subscribe MSU News RSS Feeds"><img src="themes/2012/images/feed-icon.png" alt="RSS"></a></span></h3> 
+    <div class='newsAccordion' id='newsList'><h5 title='General Announcements'>General Announcements</h5><div><p><ul class='bulletin-topics'><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/general-announcements/calendar-of-activities-1st-sem-2016-2016' title='Calendar of Activities 1st Sem 2016-2017'><b>Calendar of Activities 1st Sem 2016-2017</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/general-announcements/enrollment-schedule-1st-semester-2016-2017' title='Enrollment Schedule 1st Semester 2016-2017'><b>Enrollment Schedule 1st Semester 2016-2017</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/general-announcements/mindanao-state-university-senior-high-school-pre-enrollment' title='Mindanao State University - Senior High School Pre Enrollment'><b>Mindanao State University - Senior High School Pre Enrollment</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/general-announcements/senior-high-school' title='Mindanao State University System - Senior High School Entrance Examination'><b>Mindanao State University System - Senior High School Entrance Examination</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/general-announcements/pre-enrollment-2nd-semester-2015' title='Schedule of Pre-Enrollment for Second Semester, AY 2015 - 2016'><b>Schedule of Pre-Enrollment for Second Semester, AY 2015 - 2016</b></a></li></ul><p style='text-align:right; margin-right: 10px;' class='more-bulletin'><a href='http://www.msumain.edu.ph/details.php/bulletin/general-announcements'>Read More</a></p></p></div><h5 title='Arts and Culture'>Arts and Culture</h5><div><p><ul class='bulletin-topics'><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/arts-and-culture/bulletin-photo-video-contes' title='MSU Main Photo and Video Contest'><b>MSU Main Photo and Video Contest</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/arts-and-culture/bulletin-mascot-design' title='Sari, the Sarimanok: A Mascot Design Competition'><b>Sari, the Sarimanok: A Mascot Design Competition</b></a></li></ul><p style='text-align:right; margin-right: 10px;' class='more-bulletin'><a href='http://www.msumain.edu.ph/details.php/bulletin/arts-and-culture'>Read More</a></p></p></div><h5 title='Board, Bar and Certification Examinations' Passers'>Board, Bar and Certification Examinations' Passers</h5><div><p><ul class='bulletin-topics'><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/board-bar-and-certification-examinations-passers/bulletin-top-notchers' title='MSU System top ten placers statistics, 2008 - 2012'><b>MSU System top ten placers statistics, 2008 - 2012</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/board-bar-and-certification-examinations-passers/bulletin-social-work' title='MSU Main - Marawi tops anew  in Social Worker Board Exam'><b>MSU Main - Marawi tops anew  in Social Worker Board Exam</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/board-bar-and-certification-examinations-passers/bulletin-chemical-board-passers' title='Chemical Engineer Board Passers'><b>Chemical Engineer Board Passers</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/board-bar-and-certification-examinations-passers/bulletin-civil-engineer-passers' title='November 2010 Civil Engineer Board Exam Results'><b>November 2010 Civil Engineer Board Exam Results</b></a></li></ul><p style='text-align:right; margin-right: 10px;' class='more-bulletin'><a href='http://www.msumain.edu.ph/details.php/bulletin/board-bar-and-certification-examinations-passers'>Read More</a></p></p></div><h5 title='Conferences and Seminars'>Conferences and Seminars</h5><div><p><ul class='bulletin-topics'><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/conferences-and-seminars/extremism-and-moderation-from-islamic-perspective' title='Conference on Extremism and Moderation from Islamic Perspective'><b>Conference on Extremism and Moderation from Islamic Perspective</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/conferences-and-seminars/bulletin-research-summit-2' title='First MSUS Research and Innovation Summit Program'><b>First MSUS Research and Innovation Summit Program</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/conferences-and-seminars/bulletin-final-schedule-for-srs' title='MSUSRS 2013: 1st MSU System Research Summit Final Schedule'><b>MSUSRS 2013: 1st MSU System Research Summit Final Schedule</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/conferences-and-seminars/bulletin-first-srs' title='MSUSRS 2013: 1st MSU System Research Summit'><b>MSUSRS 2013: 1st MSU System Research Summit</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/conferences-and-seminars/bulletin-rp-us-relations' title='Symposium on RP-US Relations in MSU Marawi in Celebration of the Filipino-American Friendship Day 2011'><b>Symposium on RP-US Relations in MSU Marawi in Celebration of the Filipino-American Friendship Day 2011</b></a></li></ul><p style='text-align:right; margin-right: 10px;' class='more-bulletin'><a href='http://www.msumain.edu.ph/details.php/bulletin/conferences-and-seminars'>Read More</a></p></p></div><h5 title='Invitation to Bid'>Invitation to Bid</h5><div><p><ul class='bulletin-topics'><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/invitation-to-bid/consolidated-equpment' title='Request for Quotation: Supply and Delivery of Consolidated Equipment for MSU System'><b>Request for Quotation: Supply and Delivery of Consolidated Equipment for MSU System</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/invitation-to-bid/admin-water-system' title='Invitation to Bid: Proposed Construction of Various Infrastructure and Water System Projects for the different Campuses of MSU System'><b>Invitation to Bid: Proposed Construction of Various Infrastructure and Water System Projects for the different Campuses of MSU System</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/invitation-to-bid/admin-delivery-of-supply' title='Invitation to Apply for Eligibility and to Bid: SUPPLY AND DELIVERY OF CONSOLIDATED EQUIPMENT FOR MSU SYSTEM - Two Stage Bidding'><b>Invitation to Apply for Eligibility and to Bid: SUPPLY AND DELIVERY OF CONSOLIDATED EQUIPMENT FOR MSU SYSTEM - Two Stage Bidding</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/invitation-to-bid/admin-purchase-lan' title='Invitation to Bid: Purchase of Local Area Network (LAN)'><b>Invitation to Bid: Purchase of Local Area Network (LAN)</b></a></li><li class='fullStory'><a href='http://www.msumain.edu.ph/details.php/bulletin/invitation-to-bid/invitation-to-bid-local-area-network-lan-and-various-infrastructure-projects' title='Invitation to Bid: Local Area Network (LAN) and Various Infrastructure Projects'><b>Invitation to Bid: Local Area Network (LAN) and Various Infrastructure Projects</b></a></li></ul><p style='text-align:right; margin-right: 10px;' class='more-bulletin'><a href='http://www.msumain.edu.ph/details.php/bulletin/invitation-to-bid'>Read More</a></p></p></div></div>                     </div>
+                     <div class="articleContentPanel">
+                        <h3 class="articleHeader">President's Corner</h3>
+                        <div class='topStoryContent'><div class='presidentCorner'><h5>President of Mindanao State University System</h5><div id='sub'>Dr. Habib W. Macaayong, Ph.D.</div></div><div class='topStoryDetails'><br/><h5>NO ENTRIES TODAY</h5><br/></div></div>                     </div>
+                     <div class="articleContentPanel">
+                                
+    <h3 class='articleHeader'>Social Networks</h3>
+        <div class='topStoryContent'>
+            <div class='social-network-details'>
+                <div class="left_menu_body">
+                    <ul class="posts">
+                        <li style="text-align: center;"><div class="fb-like-box" data-href="https://www.facebook.com/MSUMarawi" data-width="340" data-show-faces="true" data-stream="false" data-show-border="false" data-header="true"></div></li>                     
+                        <li><a href="http://www.globalmsuans.net/" title="MSU Alumni in Ning.com" target="_blank">Global MSUANS</a></li>
+                        <li><a href="http://twitter.com/#!/msumain" title="" target="_blank">MSU Marawi Twitter</a></li>
+                     </ul>
+                </div>
+            </div>
+        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>    
+         <div id="msuFooter">
+    <div id="msuFooterContent">
+        <a href="index.php" id="footer-pic"><span>&nbsp;</span></a>
+        <div id="msuFooterLeft">
+            <p><a href="http://www.msumain.edu.ph/" style="color:#d9980c; text-decoration: none;">
+                    http://www.msumain.edu.ph/
+                    </a>
+                <br>
+                The Official Website of Mindanao State University Main Campus <br>
+                <p style="margin-top: 3px;"><b>Marawi-Main Office:</b> 9700 Marawi City, Lanao del Sur<br>
+                Telefax: 0918-9180-530</p>
+                <p style="margin-top: 3px;"><b style="margin-top: 3px;">Manila Office:</b> 12th Floor Antonio Building<br/>
+                T.M. Kalaw Corner Jorge Bocobo St., Ermita, Metro Manila<br>
+                Tel. (02) 526-4325 / 524-8222</p>                
+            </p>
+        </div>        
+        <div id="miscFooter">
+            <p>For web related comments and suggestions, <br/>please email us at <b><a href="mailto:webteam@msumain.edu.ph">webteam@msumain.edu.ph</a></b><br/>Information Systems Department, MSU Main            
+            <ul>
+                    <li><a href="http://www.msumain.edu.ph/index.php">Home</a></li>
+                    <li><a href="http://www.msumain.edu.ph/details.php/administration/contact-directory">Contacts</a></li>
+                    <li><a href="http://www.msumain.edu.ph/cit/index.php/ict-center/ict-privacy-statements">Privacy Statement</a></li>
+                    <li><a href="http://www.msumain.edu.ph/cit/index.php/ict-center/ict-terms-and-condition">Terms and Agreements</a></li>
+                    <li><a href="http://www.msumain.edu.ph/details.php/academics">Academics</a></li>
+                    <li><a href="http://www.msumain.edu.ph/details.php/admissions">Admissions</a></li>
+                    <li><a href="http://www.msumain.edu.ph/cit/index.php/ict-center/ict-disclaimer" name="Bottom">Disclaimer</a></li>
+            </ul>
+            <div>(Your IP Adress: 112.198.90.143)</div>
+            <p>All rights reserved &copy 2012 MSU Main Campus - Marawi</p>
+        </div>
+    </div>
+</div>
+<div id="back-to-top"><a href="">&#9650; Back To Top</a></div>         <div id="fb-root"></div>
+         <script type="text/javascript" src="http://www.msumain.edu.ph/themes/2012/facebook/facebook.js"></script>
+   </div>  
+</body></html>
