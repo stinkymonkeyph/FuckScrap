@@ -14,8 +14,10 @@ class Crawler:
         self.page_links_final = str()
         self.page_links_count = int()
         self.linkrel_links = str()
+        self.linkrel_links_final = str()
         self.linkrel_links_count = int()
         self.script_links = str()
+        self.script_links_final = str()
         self.script_links_count = int()
 
     @staticmethod
@@ -64,6 +66,8 @@ class Crawler:
                 if not Crawler.validate_url(link):
                     link = self.url_request+link
                 print("\t(" + str(self.linkrel_links_count) + ") " + link + "\n")
+                link = "&nbsp;&nbsp;<p>" + str(self.linkrel_links_count) + ")&nbsp;" + link + "</p>"
+                self.linkrel_links_final = str(self.linkrel_links_final) + str(link)
                 self.linkrel_links_count += 1
 
     def linkrel_links_counts(self):
@@ -79,6 +83,8 @@ class Crawler:
                 if not Crawler.validate_url(link):
                     link = self.url_request+link
                 print("\t(" + str(self.script_links_count) + ") " + link + "\n")
+                link = "&nbsp;&nbsp;<p>" + str(self.script_links_count) + ")&nbsp;" + link + "</p>"
+                self.script_links_final = str(self.script_links_final) + str(link)
                 self.script_links_count += 1
 
     def script_links_counts(self):
@@ -86,9 +92,15 @@ class Crawler:
 
     def recon_save(self):
         file = open("ReconFolder/ReconResults/ReconResults.html", "w")
-        content = "<html><b><center><h3>Target : {0}</h3><h5>FuckScrap V.1</h5></center></b><hr>--<b>Found {1} URLs</b> \
-                  --<br>{2}<html>". \
-                  format(self.url_request, str(self.page_links_count), str(self.page_links_final))
+        content = "<html>" \
+                  "<b><center><h3>Target : {0}</h3><h5>FuckScrap V.1</h5></center></b><hr>" \
+                  "--<b>Found {1} URLs</b>--<br>{2}<br>" \
+                  "--<b>Found {3} included resources--<b>{4}<br>" \
+                  "--<b>Found {5} scripts sources --</b>{6}<br>"\
+                  "<html>". \
+                  format(self.url_request, str(self.page_links_count), str(self.page_links_final),
+                         str(self.linkrel_links_count), str(self.linkrel_links_final), str(self.script_links_count),
+                         str(self.script_links_final))
         file.write(content)
         file.close()
 
