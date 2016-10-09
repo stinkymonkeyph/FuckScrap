@@ -15,8 +15,15 @@ class Crawler:
         self.page_links_count = int()
         self.linkrel_links = str()
         self.linkrel_links_count = int()
-        self.scripts_links = str()
-        self.scripts_links_count = str()
+        self.script_links = str()
+        self.script_links_count = int()
+
+    @staticmethod
+    def validate_url(url):
+        if not validators.url(url):
+            return False
+        else:
+            return True
 
     def request_set(self, url_request):
         self.url_request = url_request
@@ -26,7 +33,7 @@ class Crawler:
 
     def request_save(self):
         file = open("ReconFolder/DotText/SaveWeb.txt", "wb")
-        file.write(self.url_html.text.encode('utf-8').strip())
+        file.write(str(self.url_html.text.encode('utf-8').strip()))
         file.close()
 
     def link_get(self):
@@ -37,7 +44,7 @@ class Crawler:
         self.page_links_count = 0
         for link in self.page_links:
             if link != '#' and link != '/':
-                if not validators.url(link):
+                if not Crawler.validate_url(link):
                     link = self.url_request+link
                 print("\t(" + str(self.page_links_count) + ") " + link + "\n")
                 link = "&nbsp;&nbsp;<p>" + str(self.page_links_count) + ")&nbsp;" + link + "</p>"
@@ -54,11 +61,28 @@ class Crawler:
         self.linkrel_links_count = 0
         for link in self.linkrel_links:
             if link != '#':
+                if not Crawler.validate_url(link):
+                    link = self.url_request+link
                 print("\t(" + str(self.linkrel_links_count) + ") " + link + "\n")
                 self.linkrel_links_count += 1
 
     def linkrel_links_counts(self):
-        return self.linkrel_links_count;
+        return self.linkrel_links_count
+
+    def script_links_get(self):
+        self.script_links = [scripts.attrib['src'] for scripts in self.page_request.cssselect('script[src]')]
+
+    def script_links_enumerate(self):
+        self.script_links_count = 0
+        for link in self.script_links:
+            if link != '#':
+                if not Crawler.validate_url(link):
+                    link = self.url_request+link
+                print("\t(" + str(self.script_links_count) + ") " + link + "\n")
+                self.script_links_count += 1
+
+    def script_links_counts(self):
+        return self.script_links_count
 
     def recon_save(self):
         file = open("ReconFolder/ReconResults/ReconResults.html", "w")
@@ -67,3 +91,4 @@ class Crawler:
                   format(self.url_request, str(self.page_links_count), str(self.page_links_final))
         file.write(content)
         file.close()
+
