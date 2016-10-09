@@ -8,7 +8,7 @@ a tool for crawling and fucking websites
 
 #Usage
 
-> 1. python3.5 **FuckScrap.py path here**
+> 1. python3.5 **" FuckScrap.py path here "**
 2. python3.5 FuckScrap.py
    
 ### Let's make magic and yeah this is a shitty hobby project made for fun 
