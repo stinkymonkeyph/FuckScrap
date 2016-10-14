@@ -2,6 +2,7 @@ import requests
 
 
 class JoomlaDetect:
+
     def __init__(self, url_request):
         self.is_joomla = False
         self.joomla_admin = str(url_request) + "/administrator"

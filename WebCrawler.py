@@ -33,6 +33,9 @@ class Crawler:
     def request_send(self):
         self.url_html = requests.get(str(self.url_request))
 
+    def request_get(self):
+        return self.url_request
+
     def request_save(self):
         file = open("ReconFolder/DotText/SaveWeb.txt", "wb")
         file.write(self.url_html.text.encode('utf-8').strip())

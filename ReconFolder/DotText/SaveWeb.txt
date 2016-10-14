@@ -12,7 +12,7 @@
             <a href="http://www.msumain.edu.ph/calendar.php"><h3>Calendar</h3></a>
             <a href="http://www.msumain.edu.ph/gallery.php"><h3>Gallery</h3></a>
             <span id="headerDate">
-                <a href="calendar.php">Today is Sunday, October 09, 2016</a>
+                <a href="calendar.php">Today is Friday, October 14, 2016</a>
             </span>
         </div>
         <div id="transparentHeaderTop">&nbsp;</div>
@@ -289,7 +289,7 @@ In a well-attended ceremony, Pres. Macaayongâs investiture was solemnized b
                     <li><a href="http://www.msumain.edu.ph/details.php/admissions">Admissions</a></li>
                     <li><a href="http://www.msumain.edu.ph/cit/index.php/ict-center/ict-disclaimer" name="Bottom">Disclaimer</a></li>
             </ul>
-            <div>(Your IP Adress: 112.198.90.143)</div>
+            <div>(Your IP Adress: 112.198.82.53)</div>
             <p>All rights reserved &copy 2012 MSU Main Campus - Marawi</p>
         </div>
     </div>

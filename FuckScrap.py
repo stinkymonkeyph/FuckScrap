@@ -1,6 +1,8 @@
 import WebCrawler
+import CMSDetector
 
 Crawler = WebCrawler.Crawler()
+
 
 
 def request_init():
@@ -36,6 +38,16 @@ def script_list():
     print("\n** end enumerating scripts sources ** \n")
 
 
+def detect_cms():
+    print("\n** Detecting CMS **")
+    cmsdetector = CMSDetector.CMSDetect(Crawler.request_get())
+    if cmsdetector.is_wordpress():
+        print("\n\tFound : The website is running on wordpress")
+    else:
+        print("\n\tThe website may not be running on a CMS ")
+    print("\n** end detecting CMS")
+
+
 def recon_close():
     Crawler.recon_save()
     print("******************************************\n")
@@ -47,4 +59,5 @@ request_init()
 link_list()
 linkrel_list()
 script_list()
+detect_cms()
 recon_close()
