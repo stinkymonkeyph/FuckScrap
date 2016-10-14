@@ -12,6 +12,3 @@ class CMSDetect:
     def is_wordpress(self):
         self.is_wordpress_site = self.wordpress_detector.is_wordpress()
         return self.is_wordpress_site
-
-
-

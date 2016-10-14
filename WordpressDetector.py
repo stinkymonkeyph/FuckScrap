@@ -2,14 +2,13 @@ import requests
 
 
 class WordpressDetect:
-
     def __init__(self, url_request):
         self.is_wordpress_site = False
-        self.wordpress_admin = str(url_request) + "/wp-admin"
-        self.wordpress_changelogs = str(url_request)+"/changelogs.txt"
-        self.wordpress_xmlrpc = str(url_request)+"/xmlrpc.php"
-        self.wordpress_login = str(url_request)+"/wp-login.php"
-        self.wordpress_install = str(url_request)+"/wp-admin/install.php"
+        self.wordpress_admin = str(url_request) + '/wp-admin'
+        self.wordpress_changelogs = str(url_request) + '/changelogs.txt'
+        self.wordpress_xmlrpc = str(url_request) + '/xmlrpc.php'
+        self.wordpress_login = str(url_request) + '/wp-login.php'
+        self.wordpress_install = str(url_request) + '/wp-admin/install.php'
 
     def check_admin_path(self):
         url_check = requests.get(self.wordpress_admin)
@@ -37,4 +36,3 @@ class WordpressDetect:
         self.check_xmlrpc_path()
         self.check_login_path()
         return self.is_wordpress_site
-
