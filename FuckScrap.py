@@ -4,7 +4,6 @@ import CMSDetector
 Crawler = WebCrawler.Crawler()
 
 
-
 def request_init():
     url_request = "http://" + str(input("Enter url to crawl and fuck (e.g. www.noobs.com) : "))
     Crawler.request_set(url_request)
@@ -52,7 +51,6 @@ def detect_cms():
     else:
         print("\n\tThe website may not be running on a CMS ")
     print("\n** end detecting CMS")
-
 
 
 def recon_close():
