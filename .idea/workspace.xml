@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e84bb0dc-feea-4887-b129-359222ecc3c0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WordpressDetector.py" afterPath="$PROJECT_DIR$/WordpressDetector.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMSDetector.py" afterPath="$PROJECT_DIR$/CMSDetector.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FuckScrap.py" afterPath="$PROJECT_DIR$/FuckScrap.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="FuckScrap.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,20 +48,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CMSDetector.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMSDetector.py">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+            <state relative-caret-position="162">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordpressDetector.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CMSDetector.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMSDetector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordpressDetector.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WordpressDetector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
+            <state relative-caret-position="547">
               <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
               <folding />
             </state>
@@ -68,8 +81,8 @@
       <file leaf-file-name="FuckScrap.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FuckScrap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="882">
-              <caret line="49" column="68" selection-start-line="49" selection-start-column="68" selection-end-line="49" selection-end-column="68" />
+            <state relative-caret-position="288">
+              <caret line="49" column="71" selection-start-line="49" selection-start-column="71" selection-end-line="49" selection-end-column="71" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -98,10 +111,10 @@
         <option value="$PROJECT_DIR$/ReconFolder/CMSDetector.py" />
         <option value="$PROJECT_DIR$/WebCrawler.py" />
         <option value="$PROJECT_DIR$/JoomlaDetector.py" />
-        <option value="$PROJECT_DIR$/CMSDetector.py" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/FuckScrap.py" />
         <option value="$PROJECT_DIR$/WordpressDetector.py" />
+        <option value="$PROJECT_DIR$/CMSDetector.py" />
+        <option value="$PROJECT_DIR$/FuckScrap.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -823,21 +836,6 @@
     <entry file="file://$PROJECT_DIR$/WebRequest.py" />
     <entry file="file://$PROJECT_DIR$/CrawlerRunner.py" />
     <entry file="file://$PROJECT_DIR$/ReconFolder/CMSDetector.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="74" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JoomlaDetector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-936">
@@ -850,26 +848,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FuckScrap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="49" column="68" selection-start-line="49" selection-start-column="68" selection-end-line="49" selection-end-column="68" />
+        <state relative-caret-position="288">
+          <caret line="49" column="71" selection-start-line="49" selection-start-column="71" selection-end-line="49" selection-end-column="71" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMSDetector.py">
+    <entry file="file://$PROJECT_DIR$/WordpressDetector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+        <state relative-caret-position="547">
+          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WordpressDetector.py">
+    <entry file="file://$PROJECT_DIR$/CMSDetector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+        <state relative-caret-position="486">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JoomlaDetector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>

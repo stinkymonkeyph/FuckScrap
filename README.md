@@ -1,6 +1,12 @@
 # FuckScrap
 a tool for crawling and fucking websites
 
+## TODO
+
+1. **Get a working fucking CMS Detector**
+2. **Hell yeah, make some wonderful payload and shits**
+
+
 ## Dependency
 
 1. **Python3.5.x** as of the latest development

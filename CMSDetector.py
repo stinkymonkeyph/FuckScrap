@@ -13,17 +13,17 @@ class CMSDetect:
         self.is_wordpress_site = self.wordpress_detector.is_wordpress()
         return self.is_wordpress_site
 
-    def wordpress_admin(self):
+    def wordpress_admin_path(self):
         return self.wordpress_detector.path_admin_get()
 
-    def wordpress_changelogs(self):
+    def wordpress_changelogs_path(self):
         return self.wordpress_detector.path_changelogs_get()
 
-    def wordpress_xmlrpc(self):
+    def wordpress_xmlrpc_path(self):
         return self.wordpress_detector.path_xmlrpc_get()
 
-    def wordpress_login(self):
+    def wordpress_login_path(self):
         return self.wordpress_detector.path_login_get()
 
-    def wordpress_install(self):
+    def wordpress_install_path(self):
         return self.wordpress_detector.path_install_get()
