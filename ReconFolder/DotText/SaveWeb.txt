@@ -1,6 +1,479 @@
-<!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="en-PH"><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"><title>Google</title><script>(function(){window.google={kEI:'k58BWMOqNMu00gTF-rTQBQ',kEXPI:'1351633,3700304,3700389,3700400,4029815,4031109,4032677,4036527,4038012,4039268,4043492,4045841,4048347,4052304,4058720,4061945,4062186,4064904,4065787,4065919,4067860,4068550,4069838,4069840,4070329,4071230,4071603,4071842,4072288,4072364,4072602,4072705,4072776,4073405,4073419,4073958,4074348,4074597,4074684,4074809,4075338,4076082,4076095,4076315,4076931,4076999,4077039,4077220,4077237,4077298,4078430,4078438,4078456,4078458,4078547,4078607,4079085,4079105,4079388,4079553,4079625,4079720,4079810,4080098,4080105,4080116,4080164,4080230,4080514,4080903,4081037,4081039,4081252,4081265,4081361,4081371,4081460,4081671,4081686,4081757,4082311,4082457,4082550,4082586,8300096,8300273,8502184,8503585,8504846,8505150,8505152,8506251,8506255,8506340,8506615,8507061,8507070,8507074,8507080,8507124,8507204,8507209,8507273,8507336,8507380,8507536,10200083,10200096,13500016',authuser:0,kscs:'c9c918f0_24'};google.kHL='en-PH';})();(function(){google.lc=[];google.li=0;google.getEI=function(a){for(var b;a&&(!a.getAttribute||!(b=a.getAttribute("eid")));)a=a.parentNode;return b||google.kEI};google.getLEI=function(a){for(var b=null;a&&(!a.getAttribute||!(b=a.getAttribute("leid")));)a=a.parentNode;return b};google.https=function(){return"https:"==window.location.protocol};google.ml=function(){return null};google.wl=function(a,b){try{google.ml(Error(a),!1,b)}catch(c){}};google.time=function(){return(new Date).getTime()};google.log=function(a,b,c,e,g){a=google.logUrl(a,b,c,e,g);if(""!=a){b=new Image;var d=google.lc,f=google.li;d[f]=b;b.onerror=b.onload=b.onabort=function(){delete d[f]};window.google&&window.google.vel&&window.google.vel.lu&&window.google.vel.lu(a);b.src=a;google.li=f+1}};google.logUrl=function(a,b,c,e,g){var d="",f=google.ls||"";if(!c&&-1==b.search("&ei=")){var h=google.getEI(e),d="&ei="+h;-1==b.search("&lei=")&&((e=google.getLEI(e))?d+="&lei="+e:h!=google.kEI&&(d+="&lei="+google.kEI))}a=c||"/"+(g||"gen_204")+"?atyp=i&ct="+a+"&cad="+b+d+f+"&zx="+google.time();/^http:/i.test(a)&&google.https()&&(google.ml(Error("a"),!1,{src:a,glmm:1}),a="");return a};google.y={};google.x=function(a,b){google.y[a.id]=[a,b];return!1};google.lq=[];google.load=function(a,b,c){google.lq.push([[a],b,c])};google.loadAll=function(a,b){google.lq.push([a,b])};})();var a=window.location,b=a.href.indexOf("#");if(0<=b){var c=a.href.substring(b+1);/(^|&)q=/.test(c)&&-1==c.indexOf("#")&&a.replace("/search?"+c.replace(/(^|&)fp=[^&]*/g,"")+"&cad=h")};</script><style>#gbar,#guser{font-size:13px;padding-top:1px !important;}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}
-</style><style>body,td,a,p,.h{font-family:arial,sans-serif}body{margin:0;overflow-y:scroll}#gog{padding:3px 8px 0}td{line-height:.8em}.gac_m td{line-height:17px}form{margin-bottom:20px}.h{color:#36c}.q{color:#00c}.ts td{padding:0}.ts{border-collapse:collapse}em{font-weight:bold;font-style:normal}.lst{height:25px;width:496px}.gsfi,.lst{font:18px arial,sans-serif}.gsfs{font:17px arial,sans-serif}.ds{display:inline-box;display:inline-block;margin:3px 0 4px;margin-left:4px}input{font-family:inherit}a.gb1,a.gb2,a.gb3,a.gb4{color:#11c !important}body{background:#fff;color:black}a{color:#11c;text-decoration:none}a:hover,a:active{text-decoration:underline}.fl a{color:#36c}a:visited{color:#551a8b}a.gb1,a.gb4{text-decoration:underline}a.gb3:hover{text-decoration:none}#ghead a.gb2:hover{color:#fff !important}.sblc{padding-top:5px}.sblc a{display:block;margin:2px 0;margin-left:13px;font-size:11px}.lsbb{background:#eee;border:solid 1px;border-color:#ccc #999 #999 #ccc;height:30px}.lsbb{display:block}.ftl,#fll a{display:inline-block;margin:0 12px}.lsb{background:url(/images/nav_logo229.png) 0 -261px repeat-x;border:none;color:#000;cursor:pointer;height:30px;margin:0;outline:0;font:15px arial,sans-serif;vertical-align:top}.lsb:active{background:#ccc}.lst:focus{outline:none}</style><script></script><link href="/images/branding/product/ico/googleg_lodp.ico" rel="shortcut icon"></head><body bgcolor="#fff"><script>(function(){var src='/images/nav_logo229.png';var iesg=false;document.body.onload = function(){window.n && window.n();if (document.images){new Image().src=src;}
-if (!iesg){document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus();}
+<!DOCTYPE html>
+<html class="" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="google-site-verification" content="tknglXKYqTBtrfkh5QfNHZ3B9oIcaSKJM-idzY5msHM" />
+
+	
+	<!--[if lte IE 8]>
+	<script type="text/javascript" src="http://apm.com.ph/wp-content/themes/Avada/assets/js/html5shiv.js"></script>
+	<![endif]-->
+
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>apm-wordpress.whitewidget.com &#8211; Just another WordPress site</title>
+						<script>
+							/* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+							if ( typeof WebFontConfig === "undefined" ) {
+								WebFontConfig = new Object();
+							}
+							WebFontConfig['google'] = {families: ['Source+Sans+Pro:400,600', 'Unica+One:400']};
+
+							(function() {
+								var wf = document.createElement( 'script' );
+								wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+								wf.type = 'text/javascript';
+								wf.async = 'true';
+								var s = document.getElementsByTagName( 'script' )[0];
+								s.parentNode.insertBefore( wf, s );
+							})();
+						</script>
+						<link rel="alternate" type="application/rss+xml" title="apm-wordpress.whitewidget.com &raquo; Feed" href="http://apm.com.ph/feed/" />
+<link rel="alternate" type="application/rss+xml" title="apm-wordpress.whitewidget.com &raquo; Comments Feed" href="http://apm.com.ph/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="apm-wordpress.whitewidget.com &raquo; iCal Feed" href="http://apm.com.ph/events/?ical=1" />
+			<!-- For iPad Retina display -->
+			<link rel="apple-touch-icon-precomposed" sizes="144x144" href="">
+		<link rel="alternate" type="application/rss+xml" title="apm-wordpress.whitewidget.com &raquo; Home Comments Feed" href="http://apm.com.ph/home/feed/" />
+
+		<meta property="og:title" content="Home"/>
+		<meta property="og:type" content="article"/>
+		<meta property="og:url" content="http://apm.com.ph/"/>
+		<meta property="og:site_name" content="apm-wordpress.whitewidget.com"/>
+		<meta property="og:description" content="PREMIUM FEED RAW MATERIALS
+FOR THE PHILIPPINE ANIMAL FEED MARKET  A feed is only as good as its ingredients.  At APM, we are in the business of innovation to meet that constant demand for quality feed ingredients.
+
+We supply modern feed ingredients for poultry, swine, aquaculture and pets.  We highly support the cause of serving Filipinos"/>
+
+									<meta property="og:image" content="http://apm.com.ph/wp-content/uploads/2016/08/Logo.png"/>
+							<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/apm.com.ph\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.4"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
 }
-})();</script><div id="mngb"> <div id=gbar><nobr><b class=gb1>Search</b> <a class=gb1 href="http://www.google.com.ph/imghp?hl=en&tab=wi">Images</a> <a class=gb1 href="http://maps.google.com.ph/maps?hl=en&tab=wl">Maps</a> <a class=gb1 href="https://play.google.com/?hl=en&tab=w8">Play</a> <a class=gb1 href="http://www.youtube.com/?gl=PH&tab=w1">YouTube</a> <a class=gb1 href="http://news.google.com.ph/nwshp?hl=en&tab=wn">News</a> <a class=gb1 href="https://mail.google.com/mail/?tab=wm">Gmail</a> <a class=gb1 href="https://drive.google.com/?tab=wo">Drive</a> <a class=gb1 style="text-decoration:none" href="https://www.google.com.ph/intl/en/options/"><u>More</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com.ph/history/optout?hl=en" class=gb4>Web History</a> | <a  href="/preferences?hl=en" class=gb4>Settings</a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://www.google.com.ph/%3Fgfe_rd%3Dcr%26ei%3DfZ8BWPW9EMqD1ATVgIH4Cg" class=gb4>Sign in</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div> </div><center><br clear="all" id="lgpd"><div id="lga"><div style="padding:28px 0 3px"><div style="height:110px;width:276px;background:url(/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png) no-repeat" title="Google" align="left" id="hplogo" onload="window.lol&&lol()"><div style="color:#777;font-size:16px;font-weight:bold;position:relative;top:70px;left:218px" nowrap="">Philippines</div></div></div><br></div><form action="/search" name="f"><table cellpadding="0" cellspacing="0"><tr valign="top"><td width="25%">&nbsp;</td><td align="center" nowrap=""><input name="ie" value="ISO-8859-1" type="hidden"><input value="en-PH" name="hl" type="hidden"><input name="source" type="hidden" value="hp"><input name="biw" type="hidden"><input name="bih" type="hidden"><div class="ds" style="height:32px;margin:4px 0"><input style="color:#000;margin:0;padding:5px 8px 0 6px;vertical-align:top" autocomplete="off" class="lst" value="" title="Google Search" maxlength="2048" name="q" size="57"></div><br style="line-height:0"><span class="ds"><span class="lsbb"><input class="lsb" value="Google Search" name="btnG" type="submit"></span></span><span class="ds"><span class="lsbb"><input class="lsb" value="I'm Feeling Lucky" name="btnI" onclick="if(this.form.q.value)this.checked=1; else top.location='/doodles/'" type="submit"></span></span></td><td class="fl sblc" align="left" nowrap="" width="25%"><a href="/advanced_search?hl=en-PH&amp;authuser=0">Advanced search</a><a href="/language_tools?hl=en-PH&amp;authuser=0">Language tools</a></td></tr></table><input id="gbv" name="gbv" type="hidden" value="1"></form><div id="gac_scont"></div><div style="font-size:83%;min-height:3.5em"><br><div id="prm"><style>.szppmdbYutt__middle-slot-promo{font-size:small;margin-bottom:32px}.szppmdbYutt__middle-slot-promo a._uFi{display:inline-block;text-decoration:none}.szppmdbYutt__middle-slot-promo img{border:none;margin-right:5px;vertical-align:middle}.szppmdbYutt__middle-slot-promo ._vFi{color:red}</style><div class="szppmdbYutt__middle-slot-promo r-i_vRxLOnBKkE" jsl="$t t-Gza07Ho9En4;$x 0;" data-ved="0ahUKEwiDwNep7NvPAhVLmpQKHUU9DVoQnIcBCAQ"><span class="_vFi">New! </span>Say hello to Google Allo, smart messaging for <a class="_XIi" href="https://www.google.com/url?q=https://play.google.com/store/apps/details%3Fid%3Dcom.google.android.apps.fireball%26referrer%3Dutm_source%253Dhpp%2526utm_campaign%253Ddesktop_com.ph&amp;source=hpp&amp;id=5086063&amp;ct=8&amp;usg=AFQjCNEfy2q7KKSye30jb0Z_a9AtIdVjpA&amp;sa=X&amp;ved=0ahUKEwiDwNep7NvPAhVLmpQKHUU9DVoQ8IcBCAU" rel="nofollow">Android</a> and <a class="_XIi" href="https://www.google.com/url?q=https://itunes.apple.com/app/apple-store/id1096801294%3Fpt%3D9008%26ct%3Dhpp_desktop_com.ph%26mt%3D8&amp;source=hpp&amp;id=5086063&amp;ct=8&amp;usg=AFQjCNEfDt37l98ACVAey0OeCbQQbipncQ&amp;sa=X&amp;ved=0ahUKEwiDwNep7NvPAhVLmpQKHUU9DVoQ8IcBCAY" rel="nofollow">iOS</a></div></div><div id="als"><style>#als{font-size:small;margin-bottom:24px}#_eEe{display:inline-block;line-height:28px;}#_eEe a{padding:0 3px;}._lEe{display:inline-block;margin:0 2px;white-space:nowrap}._PEe{display:inline-block;margin:0 2px}</style><div id="_eEe">Google.com.ph offered in: <a href="http://www.google.com.ph/setprefs?sig=0__CmWguC-GoNVrJEd6UaWKsi4Sj4%3D&amp;hl=tl&amp;source=homepage" data-ved="0ahUKEwiDwNep7NvPAhVLmpQKHUU9DVoQ2ZgBCAg">Filipino</a>  <a href="http://www.google.com.ph/setprefs?sig=0__CmWguC-GoNVrJEd6UaWKsi4Sj4%3D&amp;hl=ceb&amp;source=homepage" data-ved="0ahUKEwiDwNep7NvPAhVLmpQKHUU9DVoQ2ZgBCAk">Cebuano</a> </div></div></div><span id="footer"><div style="font-size:10pt"><div style="margin:19px auto;text-align:center" id="fll"><a href="/intl/en/ads/">Advertising Programs</a><a href="http://www.google.com.ph/intl/en/services/">Business Solutions</a><a href="/intl/en/about.html">About Google</a><a href="http://www.google.com.ph/setprefdomain?prefdom=US&amp;sig=__Jo6f-Gv8JwguzDpsoByVGXnGb5k%3D" id="fehl">Google.com</a></div></div><p style="color:#767676;font-size:8pt">&copy; 2016 - <a href="/intl/en/policies/privacy/">Privacy</a> - <a href="/intl/en/policies/terms/">Terms</a></p></span></center><script>(function(){window.google.cdo={height:0,width:0};(function(){var a=window.innerWidth,b=window.innerHeight;if(!a||!b)var c=window.document,d="CSS1Compat"==c.compatMode?c.documentElement:c.body,a=d.clientWidth,b=d.clientHeight;a&&b&&(a!=google.cdo.width||b!=google.cdo.height)&&google.log("","","/client_204?&atyp=i&biw="+a+"&bih="+b+"&ei="+google.kEI);})();})();</script><div id="xjsd"></div><div id="xjsi"><script>(function(){function c(b){window.setTimeout(function(){var a=document.createElement("script");a.src=b;document.getElementById("xjsd").appendChild(a)},0)}google.dljp=function(b,a){google.xjsu=b;c(a)};google.dlj=c;})();(function(){window.google.xjsrm=['mids'];})();if(google.y)google.y.first=[];if(!google.xjs){window._=window._||{};window._._DumpException=function(e){throw e};if(google.timers&&google.timers.load.t){google.timers.load.t.xjsls=new Date().getTime();}google.dljp('/xjs/_/js/k\x3dxjs.hp.en_US.P5nm1X_L48I.O/m\x3dsb_he,d/rt\x3dj/d\x3d1/t\x3dzcms/rs\x3dACT90oGiRwju0GuKAkWW7UoS3LBxiK8Gpw','/xjs/_/js/k\x3dxjs.hp.en_US.P5nm1X_L48I.O/m\x3dsb_he,d/rt\x3dj/d\x3d1/t\x3dzcms/rs\x3dACT90oGiRwju0GuKAkWW7UoS3LBxiK8Gpw');google.xjs=1;}google.pmc={"sb_he":{"agen":true,"cgen":true,"client":"heirloom-hp","dh":true,"dhqt":true,"ds":"","fl":true,"host":"google.com.ph","isbh":28,"jam":0,"jsonp":true,"msgs":{"cibl":"Clear Search","dym":"Did you mean:","lcky":"I\u0026#39;m Feeling Lucky","lml":"Learn more","oskt":"Input tools","psrc":"This search was removed from your \u003Ca href=\"/history\"\u003EWeb History\u003C/a\u003E","psrl":"Remove","sbit":"Search by image","srch":"Google Search"},"nds":true,"ovr":{},"pq":"","refpd":true,"rfs":[],"scd":10,"sce":5,"stok":"i4-wuxThXCZf2cUaicRoSnNtH6E"},"d":{}};google.y.first.push(function(){if(google.med){google.med('init');google.initHistory();google.med('history');}});if(google.j&&google.j.en&&google.j.xi){window.setTimeout(google.j.xi,0);}
-</script></div></body></html>
+</style>
+<link rel='stylesheet' id='layerslider-css'  href='http://apm.com.ph/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='http://apm.com.ph/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.9-6017' type='text/css' media='screen' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://apm.com.ph/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://apm.com.ph/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='avada-stylesheet-css'  href='http://apm.com.ph/wp-content/themes/Avada/style.css?ver=4.0.2' type='text/css' media='all' />
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='avada-shortcodes-css'  href='http://apm.com.ph/wp-content/themes/Avada/shortcodes.css?ver=4.0.2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='fontawesome-css'  href='http://apm.com.ph/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=4.0.2' type='text/css' media='all' />
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='avada-IE-fontawesome-css'  href='http://apm.com.ph/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=4.0.2' type='text/css' media='all' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='avada-IE8-css'  href='http://apm.com.ph/wp-content/themes/Avada/assets/css/ie8.css?ver=4.0.2' type='text/css' media='all' />
+<![endif]-->
+<!--[if IE]>
+<link rel='stylesheet' id='avada-IE-css'  href='http://apm.com.ph/wp-content/themes/Avada/assets/css/ie.css?ver=4.0.2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='avada-iLightbox-css'  href='http://apm.com.ph/wp-content/themes/Avada/ilightbox.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avada-animations-css'  href='http://apm.com.ph/wp-content/themes/Avada/animations.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avada-bbpress-css'  href='http://apm.com.ph/wp-content/themes/Avada/assets/css/bbpress.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avada-dynamic-css-css'  href='//apm.com.ph/wp-content/uploads/avada-styles/avada-8.css?timestamp=1475492927&#038;ver=4.5.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tribe_events_linked_posts = {"post_types":{"tribe_venue":"venue","tribe_organizer":"organizer"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://apm.com.ph/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://apm.com.ph/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"5.6.6"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.6'></script>
+<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.6'></script>
+<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.5'></script>
+<link rel='https://api.w.org/' href='http://apm.com.ph/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://apm.com.ph/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://apm.com.ph/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.4" />
+<link rel="canonical" href="http://apm.com.ph/" />
+<link rel='shortlink' href='http://apm.com.ph/' />
+<link rel="alternate" type="application/json+oembed" href="http://apm.com.ph/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fapm.com.ph%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://apm.com.ph/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fapm.com.ph%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<!--[if IE 9]> <script>var _fusionParallaxIE9 = true;</script> <![endif]--><meta name="generator" content="Powered by Slider Revolution 5.2.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+
+	<link rel="stylesheet" href="http://apm.com.ph/wp-content/themes/Avada/maxque.css">
+
+
+	
+	<!--[if lte IE 8]>
+	<script type="text/javascript">
+	jQuery(document).ready(function() {
+	var imgs, i, w;
+	var imgs = document.getElementsByTagName( 'img' );
+	for( i = 0; i < imgs.length; i++ ) {
+		w = imgs[i].getAttribute( 'width' );
+		imgs[i].removeAttribute( 'width' );
+		imgs[i].removeAttribute( 'height' );
+	}
+	});
+	</script>
+
+	<script src="http://apm.com.ph/wp-content/themes/Avada/assets/js/excanvas.js"></script>
+
+	<![endif]-->
+
+	<!--[if lte IE 9]>
+	<script type="text/javascript">
+	jQuery(document).ready(function() {
+
+	// Combine inline styles for body tag
+	jQuery('body').each( function() {
+		var combined_styles = '<style type="text/css">';
+
+		jQuery( this ).find( 'style' ).each( function() {
+			combined_styles += jQuery(this).html();
+			jQuery(this).remove();
+		});
+
+		combined_styles += '</style>';
+
+		jQuery( this ).prepend( combined_styles );
+	});
+	});
+	</script>
+
+	<![endif]-->
+
+	<script type="text/javascript">
+		var doc = document.documentElement;
+		doc.setAttribute('data-useragent', navigator.userAgent);
+	</script>
+
+	
+	</head>
+<body class="home page page-id-8 page-template page-template-100-width page-template-100-width-php fusion-body no-tablet-sticky-header no-mobile-sticky-header mobile-logo-pos-center layout-wide-mode side-header side-header-left menu-text-align-center mobile-menu-design-modern fusion-image-hovers fusion-show-pagination-text">
+				<div id="wrapper" class="">
+		<div id="home" style="position:relative;top:1px;"></div>
+				
+							
+<div id="side-header-sticky"></div>
+<div id="side-header" class="clearfix fusion-mobile-menu-design-modern fusion-sticky-logo-1 fusion-mobile-logo-1 fusion-sticky-menu-">
+	<div class="side-header-wrapper">
+						<div class="side-header-content fusion-logo-center fusion-mobile-logo-1">
+			<div class="fusion-logo" data-margin-top="65px" data-margin-bottom="65px" data-margin-left="0px" data-margin-right="0px">
+				<a class="fusion-logo-link" href="http://apm.com.ph">
+						<img src="//apm.com.ph/wp-content/uploads/2016/08/Logo.png" width="372" height="203" alt="apm-wordpress.whitewidget.com" class="fusion-logo-1x fusion-standard-logo" />
+
+															<img src="//apm.com.ph/wp-content/uploads/2016/08/Logo-Retina.png" width="372" height="203" alt="apm-wordpress.whitewidget.com" style="max-height: 203px; height: auto;" class="fusion-standard-logo fusion-logo-2x" />
+			
+			<!-- mobile logo -->
+											<img src="//apm.com.ph/wp-content/uploads/2016/08/Logo-Mobile.png" width="372" height="72" alt="apm-wordpress.whitewidget.com" class="fusion-logo-1x fusion-mobile-logo-1x" />
+
+														<img src="//apm.com.ph/wp-content/uploads/2016/08/Logo-Mobile-Retina.png" width="372" height="72" alt="apm-wordpress.whitewidget.com" style="max-height: 72px; height: auto;" class="fusion-logo-2x fusion-mobile-logo-2x" />
+							
+			<!-- sticky header logo -->
+											<img src="//apm.com.ph/wp-content/uploads/2016/08/Logo-Mobile.png" width="372" height="72" alt="apm-wordpress.whitewidget.com" class="fusion-logo-1x fusion-sticky-logo-1x" />
+
+														<img src="//apm.com.ph/wp-content/uploads/2016/08/Logo-Mobile-Retina.png" width="372" height="72" alt="apm-wordpress.whitewidget.com" style="max-height: 72px; height: auto;" class="fusion-logo-2x fusion-sticky-logo-2x" />
+									</a>
+		</div>
+		</div>
+		<div class="fusion-main-menu-container fusion-logo-menu-center">
+			<div class="fusion-main-menu"><ul id="menu-main-menu" class="fusion-menu"><li  id="menu-item-1218"  class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-1218"  ><a  href="http://apm.com.ph/"><span class="menu-text">HOME</span></a></li><li  id="menu-item-1217"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1217"  ><a  href="http://apm.com.ph/about-us/"><span class="menu-text">ABOUT US</span></a></li><li  id="menu-item-1232"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1232"  ><a  href="http://apm.com.ph/products/"><span class="menu-text">PRODUCTS</span></a></li><li  id="menu-item-1214"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1214"  ><a  href="http://apm.com.ph/partners/"><span class="menu-text">PARTNERS</span></a></li><li  id="menu-item-1211"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1211"  ><a  href="http://apm.com.ph/species/"><span class="menu-text">SPECIES</span></a></li><li  id="menu-item-1213"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1213"  ><a  href="http://apm.com.ph/contact/"><span class="menu-text">CONTACT</span></a></li></ul></div>			<div class="fusion-mobile-menu-icons">
+							<a href="#" class="fusion-icon fusion-icon-bars"></a>
+		
+		
+			</div>
+
+
+<div class="fusion-mobile-nav-holder"></div>
+
+		</div>
+
+		
+								
+			<div class="side-header-content side-header-content-1-2">
+											</div>
+		
+		
+			</div>
+	<div class="side-header-background"></div>
+	<div class="side-header-border"></div>
+</div>
+		
+		<div id="sliders-container">
+			
+			
+				
+				<div class="fusion-slider-container fusion-slider-8  full-width-slider-container" style="height:500px;max-width:100%;">
+					<style type="text/css" scoped="scoped">
+					.fusion-slider-8 .flex-direction-nav a {
+						width:63px;height:63px;line-height:63px;margin-top:-31.5px;font-size:25px;					}
+					</style>
+					<div class="fusion-slider-loading">Loading...</div>
+					<div class="tfs-slider flexslider main-flex full-width-slider" style="max-width:100%;" data-slider_width="100%" data-slider_height="500px" data-slider_content_width="" data-full_screen="0" data-parallax="0" data-nav_arrows="0" data-nav_box_width="63px" data-nav_box_height="63px" data-nav_arrow_size="25px" data-pagination_circles="0" data-autoplay="0" data-loop="0" data-animation="fade" data-slideshow_speed="" data-animation_speed="" data-typo_sensitivity="2" data-typo_factor="1" >
+						<ul class="slides" style="max-width:100%;">
+																							<li data-mute="yes" data-loop="yes" data-autoplay="yes">
+									<div class="slide-content-container slide-content-center" style="display: none;">
+										<div class="slide-content" style="">
+																																		<div class="caption ">
+													<div class="fusion-title-sc-wrapper" style="">
+														<div class="fusion-title title fusion-sep-none fusion-title-center fusion-title-size-three" style="margin-top:0px;margin-bottom:0px;"><h3 class="title-heading-center" style="color:#0F342A;font-size: 24px;line-height:38px;"><div class="home-slide-1" style="letter-spacing: 5px;">
+  <div class="home-slide-1-title">INNOVATING</div>
+<div style="font-size: 35px;" >ANIMAL NUTRITION</div>
+  <div class="is-wrap home">
+    <div class="is-dash home"></div>
+    <div class="is-word">
+      FOR THE
+    </div>
+    <div class="is-dash"></div>
+  </div>
+  <div style="font-size: 54px;  line-height: 1px;">PHILIPPINES</div>
+  <div></h3></div>													</div>
+												</div>
+																																		<div class="buttons" >
+																																						</div>
+																					</div>
+									</div>
+																																				<div class="background background-image" style="background-image: url(http://apm.com.ph/wp-content/uploads/2016/08/Home-Slide.jpg);max-width:100%;height:500px;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://apm.com.ph/wp-content/uploads/2016/08/Home-Slide.jpg', sizingMethod='scale');-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://apm.com.ph/wp-content/uploads/2016/08/Home-Slide.jpg', sizingMethod='scale')';" data-imgwidth="2000">
+																																																												</div>
+								</li>
+													</ul>
+					</div>
+				</div>
+								</div>
+				
+							
+		
+		
+						<div id="main" class="clearfix width-100" style="padding-left:40px;padding-right:40px">
+			<div class="fusion-row" style="max-width:100%;">
+<div id="content" class="full-width">
+			<div id="post-8" class="post-8 page type-page status-publish hentry">
+			
+			<span class="entry-title" style="display: none;">
+			Home		</span>
+	
+			<span class="vcard" style="display: none;">
+			<span class="fn">
+				<a href="http://apm.com.ph/author/pauline/" title="Posts by Pauline Ty" rel="author">Pauline Ty</a>			</span>
+		</span>
+	
+			<span class="updated" style="display:none;">
+			2016-09-30T05:09:11+00:00		</span>
+	
+						<div class="post-content apm-content">
+				<div class="fusion-fullwidth fullwidth-box fusion-fullwidth-1  fusion-parallax-none hundred-percent-fullwidth fusion-equal-height-columns" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:#01261f;"><style type="text/css" scoped="scoped">.fusion-fullwidth-1, .fusion-fullwidth-1.fusion-section-separator {
+                        padding-left: 0px !important;
+                        padding-right: 0px !important;
+                    }@media only screen and (max-width: 1170px) {}</style><div class="fusion-row"><div class="fusion-two-third fusion-layout-column fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="padding:10%;"><div class="fusion-column-table"><div class="fusion-column-tablecell"><h1>PREMIUM FEED RAW MATERIALS</h1>
+<h2>FOR THE PHILIPPINE ANIMAL FEED MARKET</h2>
+<div class="fusion-sep-clear"></div><div class="fusion-separator sep-single" style="border-color:#06342b;border-top-width:1px;margin-top:4%;margin-bottom:5%;width:100%;max-width:25%;"></div><p>A feed is only as good as its ingredients.  At APM, we are in the business of innovation to meet that constant demand for quality feed ingredients.</p>
+<p>We supply modern feed ingredients for poultry, swine, aquaculture and pets.  We highly support the cause of serving Filipinos in every level of the agricultural industry from large feed millers to backyard farmers.</p>
+<p>Our company adheres to provide products that are safe, efficient and sustainable.</p>
+<div class="fusion-button-wrapper fusion-alignleft"><style type="text/css" scoped="scoped">.fusion-button.button-1 .fusion-button-text, .fusion-button.button-1 i {color:#ffffff;}.fusion-button.button-1 {border-width:1 px;border-color:#ffffff;}.fusion-button.button-1 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-1:hover .fusion-button-text, .fusion-button.button-1:hover i,.fusion-button.button-1:focus .fusion-button-text, .fusion-button.button-1:focus i,.fusion-button.button-1:active .fusion-button-text, .fusion-button.button-1:active{color:#ffffff;}.fusion-button.button-1:hover, .fusion-button.button-1:focus, .fusion-button.button-1:active{border-width:1 px;border-color:#ffffff;}.fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-1{background: rgba(209,233,144,0);
+					background-image: -webkit-gradient( linear, left bottom, left top, from( rgba(170,215,91,0) ), to( rgba(209,233,144,0) ) );
+					background-image: -webkit-linear-gradient( bottom, rgba(170,215,91,0), rgba(209,233,144,0) );
+					background-image:	-moz-linear-gradient( bottom, rgba(170,215,91,0), rgba(209,233,144,0) );
+					background-image:	  -o-linear-gradient( bottom, rgba(170,215,91,0), rgba(209,233,144,0) );
+					background-image: linear-gradient( to top, rgba(170,215,91,0), rgba(209,233,144,0) );}.fusion-button.button-1:hover,.button-1:focus,.fusion-button.button-1:active{background: #719644;}.fusion-button.button-1{width:auto;}</style><a class="fusion-button button-flat button-square button-xlarge button-default button-1" target="_self" href="http://apm-wordpress.whitewidget.com/about-us/"><span class="fusion-button-text">LEARN MORE</span></a></div><div class="fusion-clearfix"></div></div></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="background:url(http://apm.com.ph/wp-content/uploads/2015/02/Home-Side-Image.jpg) center center no-repeat ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="http://apm.com.ph/wp-content/uploads/2015/02/Home-Side-Image.jpg"><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-2  fusion-parallax-none hundred-percent-fullwidth fusion-equal-height-columns" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:#313539;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;-ms-filter: &quot;progid:DXImageTransform.Microsoft.AlphaImageLoader(src=&#039;http://apm.com.ph/wp-content/uploads/2015/02/home-lower-partership.jpg&#039;, sizingMethod=&#039;scale&#039;)&quot;;background-image: url(http://apm.com.ph/wp-content/uploads/2015/02/home-lower-partership.jpg);"><style type="text/css" scoped="scoped">.fusion-fullwidth-2, .fusion-fullwidth-2.fusion-section-separator {
+                        padding-left: 0px !important;
+                        padding-right: 0px !important;
+                    }@media only screen and (max-width: 1170px) {}</style><div class="fusion-row"><div class="fusion-one-full fusion-layout-column fusion-column-last fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="background:url(http://apm-wordpress.whitewidget.com/wp-content/uploads/2015/02/home-lower-partership.jpg) left top no-repeat ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding:10%;" data-bg-url="http://apm-wordpress.whitewidget.com/wp-content/uploads/2015/02/home-lower-partership.jpg"><div class="fusion-column-table"><div class="fusion-column-tablecell"><h1 style="font-size: 1.3em; text-align: center;">WE&#8217;RE HERE</h1>
+<h1 style="font-size: 1em; line-height: 2.2; text-align: center;">TO HELP</h1>
+<h1 style="text-align: center;">YOUR MARKET GROW</h1>
+<div class="fusion-sep-clear"></div><div class="fusion-separator sep-single" style="border-color:#719644;border-top-width:1 px;margin-left: auto;margin-right: auto;margin-top:4%;margin-bottom:4%;width:100%;max-width:25%;"></div><p style="text-align: center;">We import and distribute ingredients, additives, supplements and premixes for all sectors of the Philippine agricultural market. Contact our offices today on how we can support your business.</p>
+<div class="fusion-button-wrapper fusion-aligncenter"><style type="text/css" scoped="scoped">.fusion-button.button-2 .fusion-button-text, .fusion-button.button-2 i {color:#ffffff;}.fusion-button.button-2 {border-width:1 px;border-color:#ffffff;}.fusion-button.button-2 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-2:hover .fusion-button-text, .fusion-button.button-2:hover i,.fusion-button.button-2:focus .fusion-button-text, .fusion-button.button-2:focus i,.fusion-button.button-2:active .fusion-button-text, .fusion-button.button-2:active{color:#ffffff;}.fusion-button.button-2:hover, .fusion-button.button-2:focus, .fusion-button.button-2:active{border-width:1 px;border-color:#ffffff;}.fusion-button.button-2:hover .fusion-button-icon-divider, .fusion-button.button-2:hover .fusion-button-icon-divider, .fusion-button.button-2:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-2{background: rgba(209,233,144,0);
+					background-image: -webkit-gradient( linear, left bottom, left top, from( rgba(170,215,91,0) ), to( rgba(209,233,144,0) ) );
+					background-image: -webkit-linear-gradient( bottom, rgba(170,215,91,0), rgba(209,233,144,0) );
+					background-image:	-moz-linear-gradient( bottom, rgba(170,215,91,0), rgba(209,233,144,0) );
+					background-image:	  -o-linear-gradient( bottom, rgba(170,215,91,0), rgba(209,233,144,0) );
+					background-image: linear-gradient( to top, rgba(170,215,91,0), rgba(209,233,144,0) );}.fusion-button.button-2:hover,.button-2:focus,.fusion-button.button-2:active{background: #719644;}.fusion-button.button-2{width:auto;}</style><a class="fusion-button button-flat button-square button-xlarge button-default button-2" target="_self" href="http://apm-wordpress.whitewidget.com/contact/"><span class="fusion-button-text">GET STARTED</span></a></div><div class="fusion-clearfix"></div></div></div></div></div><div class="fusion-clearfix"></div></div></div>
+							</div>
+												</div>
+	</div>
+									</div>  <!-- fusion-row -->
+			</div>  <!-- #main -->
+			
+			
+			
+			
+										
+				<div class="fusion-footer">
+
+										
+																
+						<footer id="footer" class="fusion-footer-copyright-area fusion-footer-copyright-center">
+							<div class="fusion-row">
+								<div class="fusion-copyright-content">
+
+											<div class="fusion-copyright-notice">
+			<div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-3  fusion-parallax-none hundred-percent-fullwidth fusion-nonzero-padding" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:5%;padding-right:5%;background-color:#ffffff;"><style type="text/css" scoped="scoped">.fusion-fullwidth-3, .fusion-fullwidth-3.fusion-section-separator {
+                        padding-left: 5% !important;
+                        padding-right: 5% !important;
+                    }@media only screen and (max-width: 1170px) {.fusion-fullwidth-3, .fusion-fullwidth-3.fusion-section-separator {
+                                margin-left: -5% !important;
+                                margin-right: -5% !important;
+                            }}</style><div class="fusion-row"></div></div>
+
+<div class="fusion-one-third fusion-layout-column fusion-spacing-yes" style="margin-top:0px;margin-bottom:20px;"><div class="fusion-column-wrapper">
+
+<div class="fusion-content-boxes content-boxes columns fusion-columns-1 fusion-columns-total-1 fusion-content-boxes-1 content-boxes-icon-on-top row content-left" data-animationOffset="100%" style="margin-top:0px;margin-bottom:0px;"><style type="text/css" scoped="scoped">.fusion-content-boxes-1 .heading h2{color:#ffffff;}
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading h2,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .heading-link h2,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading h2,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .heading-link h2,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::after,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::before,
+			.fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover:after,
+			.fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover:before,
+			.fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::after,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::before,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .icon .circle-no,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .icon .circle-no {
+				color: #719644 !important;
+			}
+			.fusion-content-boxes-1 .fusion-content-box-hover .heading-link:hover .icon i.circle-yes,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box:hover .heading-link .icon i.circle-yes,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon i.circle-yes,
+			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .icon i.circle-yes {
+				background-color: #719644 !important;
+				border-color: #719644 !important;
+			}</style>
+
+<div class="fusion-column content-box-column content-box-column-1 col-lg-12 col-md-12 col-sm-12 fusion-content-box-hover content-box-column-last content-box-column-last-in-row"><div class="col content-wrapper-background link-area-link-icon icon-hover-animation-none" style="background-color:#01261f;"><div class="heading heading-with-icon icon-left"><div class="icon"><i style="background-color:transparent;border-color:transparent;height:auto;width:30pxpx;line-height:normal;color:#748041;font-size:30px;" class="fa fontawesome-icon fa-envelope-o circle-no"></i></div><h2 class="content-box-heading" style="font-size: 16px;line-height:21px;">EMAIL</h2></div><div class="fusion-clearfix"></div><div class="content-container" style="color:#646F6D;">info@apm.com.ph</div></div></div><div class="fusion-clearfix"></div><div class="fusion-clearfix"></div></div><div class="fusion-clearfix"></div></div></div>
+
+<div class="fusion-one-third fusion-layout-column fusion-spacing-yes" style="margin-top:0px;margin-bottom:20px;"><div class="fusion-column-wrapper">
+
+<div class="fusion-content-boxes content-boxes columns fusion-columns-1 fusion-columns-total-1 fusion-content-boxes-2 content-boxes-icon-on-top row content-left" data-animationOffset="100%" style="margin-top:0px;margin-bottom:0px;"><style type="text/css" scoped="scoped">.fusion-content-boxes-2 .heading h2{color:#ffffff;}
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover .heading h2,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover .heading .heading-link h2,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover .heading h2,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover .heading .heading-link h2,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::after,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::before,
+			.fusion-content-boxes-2 .fusion-content-box-hover .fusion-read-more:hover:after,
+			.fusion-content-boxes-2 .fusion-content-box-hover .fusion-read-more:hover:before,
+			.fusion-content-boxes-2 .fusion-content-box-hover .fusion-read-more:hover,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::after,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::before,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover .icon .circle-no,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover .icon .circle-no {
+				color: #719644 !important;
+			}
+			.fusion-content-boxes-2 .fusion-content-box-hover .heading-link:hover .icon i.circle-yes,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box:hover .heading-link .icon i.circle-yes,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon i.circle-yes,
+			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover .heading .icon i.circle-yes {
+				background-color: #719644 !important;
+				border-color: #719644 !important;
+			}</style>
+
+<div class="fusion-column content-box-column content-box-column-1 col-lg-12 col-md-12 col-sm-12 fusion-content-box-hover content-box-column-last content-box-column-last-in-row"><div class="col content-wrapper-background link-area-link-icon icon-hover-animation-none" style="background-color:#01261f;"><div class="heading heading-with-icon icon-left"><div class="icon"><i style="background-color:transparent;border-color:transparent;height:auto;width:30pxpx;line-height:normal;color:#748041;font-size:30px;" class="fa fontawesome-icon fa-comments circle-no"></i></div><h2 class="content-box-heading" style="font-size: 16px;line-height:21px;">CALL</h2></div><div class="fusion-clearfix"></div><div class="content-container" style="color:#646F6D;">(+632) 373-0534 to 35
+<br>
+(+632) 415-5413 to 14</div></div></div><div class="fusion-clearfix"></div><div class="fusion-clearfix"></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-yes" style="margin-top:0px;margin-bottom:20px;"><div class="fusion-column-wrapper"><div class="fusion-content-boxes content-boxes columns fusion-columns-1 fusion-columns-total-1 fusion-content-boxes-3 content-boxes-icon-on-top row content-left" data-animationOffset="100%" style="margin-top:0px;margin-bottom:0px;"><style type="text/css" scoped="scoped">.fusion-content-boxes-3 .heading h2{color:#ffffff;}
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover .heading h2,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover .heading .heading-link h2,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover .heading h2,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover .heading .heading-link h2,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::after,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::before,
+			.fusion-content-boxes-3 .fusion-content-box-hover .fusion-read-more:hover:after,
+			.fusion-content-boxes-3 .fusion-content-box-hover .fusion-read-more:hover:before,
+			.fusion-content-boxes-3 .fusion-content-box-hover .fusion-read-more:hover,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::after,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::before,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover .icon .circle-no,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover .icon .circle-no {
+				color: #719644 !important;
+			}
+			.fusion-content-boxes-3 .fusion-content-box-hover .heading-link:hover .icon i.circle-yes,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box:hover .heading-link .icon i.circle-yes,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon i.circle-yes,
+			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover .heading .icon i.circle-yes {
+				background-color: #719644 !important;
+				border-color: #719644 !important;
+			}</style>
+
+<div class="fusion-column content-box-column content-box-column-1 col-lg-12 col-md-12 col-sm-12 fusion-content-box-hover content-box-column-last content-box-column-last-in-row"><div class="col content-wrapper-background link-area-link-icon icon-hover-animation-none" style="background-color:#01261f;"><div class="heading heading-with-icon icon-left"><div class="icon"><i style="background-color:transparent;border-color:transparent;height:auto;width:30pxpx;line-height:normal;color:#748041;font-size:30px;" class="fa fontawesome-icon fa-thumb-tack circle-no"></i></div><h2 class="content-box-heading" style="font-size: 16px;line-height:21px;">FIND US</h2></div><div class="fusion-clearfix"></div><div class="content-container" style="color:#646F6D;">1105 West Trade Center
+<br>
+132 West Avenue
+<br>
+Quezon City
+<br>
+Philippines</div></div></div><div class="fusion-clearfix"></div><div class="fusion-clearfix"></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div>
+		</div>
+					<div class="fusion-social-links-footer">
+							</div>
+		
+								</div> <!-- fusion-fusion-copyright-content -->
+							</div> <!-- fusion-row -->
+						</footer> <!-- #footer -->
+									</div> <!-- fusion-footer -->
+					</div> <!-- wrapper -->
+
+				
+		<a class="fusion-one-page-text-link fusion-page-load-link"></a>
+
+		<!-- W3TC-include-js-head -->
+
+		<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.9-6017'></script>
+<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/apm.com.ph\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://apm.com.ph/wp-includes/js/comment-reply.min.js?ver=4.5.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var toTopscreenReaderText = {"label":"Go to Top"};
+var js_local_vars = {"admin_ajax":"http:\/\/apm.com.ph\/wp-admin\/admin-ajax.php","admin_ajax_nonce":"029d8a47bb","protocol":"","theme_url":"http:\/\/apm.com.ph\/wp-content\/themes\/Avada","dropdown_goto":"Go to...","mobile_nav_cart":"Shopping Cart","page_smoothHeight":"false","flex_smoothHeight":"false","language_flag":"en","infinite_blog_finished_msg":"<em>All posts displayed.<\/em>","infinite_finished_msg":"<em>All items displayed.<\/em>","infinite_blog_text":"<em>Loading the next set of posts...<\/em>","portfolio_loading_text":"<em>Loading Portfolio Items...<\/em>","faqs_loading_text":"<em>Loading FAQ Items...<\/em>","order_actions":"Details","avada_rev_styles":"0","avada_styles_dropdowns":"1","blog_grid_column_spacing":"10","blog_pagination_type":"Infinite Scroll","carousel_speed":"2500","counter_box_speed":"1000","content_break_point":"800","disable_mobile_animate_css":"1","disable_mobile_image_hovers":"1","portfolio_pagination_type":"Infinite Scroll","form_bg_color":"#ffffff","header_transparency":"0","header_padding_bottom":"0px","header_padding_top":"0px","header_position":"Left","header_sticky":"0","header_sticky_tablet":"0","header_sticky_mobile":"0","header_sticky_type2_layout":"menu_only","sticky_header_shrinkage":"1","is_responsive":"1","is_ssl":"false","isotope_type":"masonry","layout_mode":"wide","lightbox_animation_speed":"Fast","lightbox_arrows":"1","lightbox_autoplay":"0","lightbox_behavior":"all","lightbox_desc":"1","lightbox_deeplinking":"1","lightbox_gallery":"1","lightbox_opacity":"0.875","lightbox_path":"vertical","lightbox_post_images":"1","lightbox_skin":"metro-black","lightbox_slideshow_speed":"5000","lightbox_social":"1","lightbox_title":"1","lightbox_video_height":"720","lightbox_video_width":"1280","logo_alignment":"Center","logo_margin_bottom":"65px","logo_margin_top":"65px","megamenu_max_width":"1100","mobile_menu_design":"modern","nav_height":"52","nav_highlight_border":"3","page_title_fading":"1","pagination_video_slide":"0","related_posts_speed":"2500","submenu_slideout":"1","side_header_break_point":"1023","sidenav_behavior":"Hover","site_width":"1170px","slider_position":"below","slideshow_autoplay":"1","slideshow_speed":"7000","smooth_scrolling":"0","status_lightbox":"1","status_totop_mobile":"1","status_vimeo":"0","status_yt":"0","testimonials_speed":"4000","tfes_animation":"sides","tfes_autoplay":"1","tfes_interval":"3000","tfes_speed":"800","tfes_width":"150","title_style_type":"none","title_margin_top":"0px","title_margin_bottom":"20px","typography_responsive":"1","typography_sensitivity":"0.60","typography_factor":"1.50","woocommerce_shop_page_columns":"","side_header_width":"320"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://apm.com.ph/wp-content/themes/Avada/assets/js/main.min.js?ver=4.0.2' async ></script> 
+<script type='text/javascript' src='http://apm.com.ph/wp-includes/js/wp-embed.min.js?ver=4.5.4'></script>
+
+		
+		<!--[if lte IE 8]>
+			<script type="text/javascript" src="http://apm.com.ph/wp-content/themes/Avada/assets/js/respond.js"></script>
+		<![endif]-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-75075635-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+	</body>
+</html>

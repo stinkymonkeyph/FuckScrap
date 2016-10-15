@@ -11,6 +11,6 @@ a tool for crawling and fucking websites
 > 1. python3.5 **" FuckScrap.py path here "**
 2. python3.5 FuckScrap.py
    
-### Let's make magic and yeah this is a shitty hobby project made for fun 
+### what kind of trash is this ? just another stinky and shitty trash, and I'm wasting my time for this bitch.
 ### care to fork it ?
 
