@@ -1,58 +1,17 @@
 <!DOCTYPE html>
-
-<!--BEGIN html-->
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
-<!-- Built on WP Framework (http://wpframework.com) - Powered by WordPress (http://wordpress.org) -->
-
-<!--BEGIN head-->
-<head profile="http://purl.org/uF/hAtom/0.1/ http://purl.org/uF/2008/03/">
-
-	<title>Mindanao University of Science and Technology - Lapasan, Cagayan de Oro City, Philippines</title>
-
-	<!-- Meta Tags -->
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<meta name="generator" content="WordPress" />
-	<meta name="framework" content="WP Framework" />
-
-	<!-- Favicon: Browser + iPhone Webclip -->
-	<link rel="shortcut icon" href="http://www.must.edu.ph/wp-content/themes/must-theme/library/media/images/favicon.ico" />
-	<link rel="apple-touch-icon" href="http://www.must.edu.ph/wp-content/themes/must-theme/library/media/images/iphone.png" />
-
-	<!-- Stylesheets -->
-	<link rel="stylesheet" href="http://www.must.edu.ph/wp-content/themes/must-theme/style.css" type="text/css" media="screen, projection" />
-	<link rel="stylesheet" href="http://www.must.edu.ph/wp-content/themes/must-theme/global.css" type="text/css"/>
-	<link rel="stylesheet" href="http://www.must.edu.ph/wp-content/themes/must-theme/library/media/css/print.css" type="text/css" media="print" />
-	
-  	<!-- Links: RSS + Atom Syndication + Pingback etc. -->
-	<link rel="alternate" type="application/rss+xml" title="Mindanao University of Science and Technology RSS Feed" href="http://www.must.edu.ph/feed/" />
-	<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.must.edu.ph/feed/rss/" />
-	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.must.edu.ph/feed/atom/" />
-	<link rel="pingback" href="http://www.must.edu.ph/xmlrpc.php" />
-
-	<!-- SCRIPTS -->
-	<script type="text/javascript" src="http://www.must.edu.ph/wp-content/themes/must-theme/js/jquery.js"></script>
-	<script type="text/javascript" src="http://www.must.edu.ph/wp-content/themes/must-theme/js/slides.min.jquery.js"></script>
-	<script type="text/javascript" src="http://www.must.edu.ph/wp-content/themes/must-theme/js/interface.js"></script>
-	<script type="text/javascript" src="http://www.must.edu.ph/wp-content/themes/must-theme/js/smoothscroll.js"></script>
-	
-	
-	<!-- Theme Hook -->
-    	<style type='text/css'>Default CSS Comment</style><script id='cpf_wp_cp' type='text/javascript'>
-   function WpCpCleanPrintPrintHtml(postId) {
-   	CleanPrintPrintHtml(null,postId);
-   }
-   function WpCpCleanPrintSendEmail(postId) {
-   	CleanPrintSendEmail(null,postId);
-   }
-   function WpCpCleanPrintGeneratePdf(postId) {
-   	CleanPrintGeneratePdf(null,postId);
-   }
-</script>
-<script id='cpf_loader' type='text/javascript' src='http://cache-02.cleanprint.net/cpf/cleanprint?polite=no&key=wpdefault'></script>
-<link rel="alternate" type="application/rss+xml" title="Mindanao University of Science and Technology &raquo; Firstpage Comments Feed" href="http://www.must.edu.ph/firstpage/feed/" />
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Cebu Normal University | Osmeña Boulevard, Cebu City</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="icon" href="http://www.cnu.edu.ph/wp-content/themes/gwt-wordpress-25.0/favicon.ico">
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cebu Normal University &raquo; Feed" href="http://www.cnu.edu.ph/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Cebu Normal University &raquo; Comments Feed" href="http://www.cnu.edu.ph/?feed=comments-rss2" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.must.edu.ph\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.cnu.edu.ph\/wp-includes\/js\/wp-emoji-release.min.js?ver=82ca8d929d60f787a516527758064c4b"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
 img.wp-smiley,
@@ -68,303 +27,631 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='batch_css-css'  href='http://www.must.edu.ph/wp-content/plugins/batchmove/css/batch.css?ver=4.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='srp-layout-stylesheet-css'  href='http://www.must.edu.ph/wp-content/plugins/special-recent-posts/css/layout.css?ver=4.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='arpw-style-css'  href='http://www.must.edu.ph/wp-content/plugins/advanced-random-posts-widget/assets/css/arpw-frontend.css' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='http://www.must.edu.ph/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5' type='text/css' media='all' />
-<link rel='stylesheet' id='fancybox-css'  href='http://www.must.edu.ph/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.7.min.css?ver=1.5.7' type='text/css' media='screen' />
-<script type='text/javascript' src='http://www.must.edu.ph/wp-content/plugins/batchmove/js/batch.js?ver=4.2.2'></script>
-<script type='text/javascript' src='http://www.must.edu.ph/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
-<script type='text/javascript' src='http://www.must.edu.ph/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
-<script type='text/javascript' src='http://www.must.edu.ph/wp-content/themes/must-theme/library/media/js/supersubs.js?ver=4.2.2'></script>
-<script type='text/javascript' src='http://www.must.edu.ph/wp-content/themes/must-theme/library/media/js/jquery.bgiframe.min.js?ver=4.2.2'></script>
-<script type='text/javascript' src='http://www.must.edu.ph/wp-content/themes/must-theme/library/media/js/superfish.js?ver=4.2.2'></script>
-<script type='text/javascript' src='http://www.must.edu.ph/wp-content/themes/must-theme/library/media/js/screen.js?ver=4.2.2'></script>
-<script type='text/javascript' src='http://www.must.edu.ph/wp-content/plugins/fuzzy-timestamp/jquery.timeago.min.js?ver=4.2.2'></script>
-<script type='text/javascript' src='http://www.must.edu.ph/wp-content/plugins/flexible-slider/assets/jquery.easing-1.3.js?ver=4.2.2'></script>
-<script type='text/javascript' src='http://www.must.edu.ph/wp-content/plugins/flexible-slider/assets/slider.js?ver=4.2.2'></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.must.edu.ph/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.must.edu.ph/wp-includes/wlwmanifest.xml" /> 
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.cnu.edu.ph/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://www.cnu.edu.ph/wp-content/themes/gwt-wordpress-25.0/style.css?ver=82ca8d929d60f787a516527758064c4b' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='http://www.cnu.edu.ph/wp-content/themes/Child%20Theme/style.css?ver=82ca8d929d60f787a516527758064c4b' type='text/css' media='all' />
+<link rel='stylesheet' id='gwt_wp-foundation-css'  href='http://www.cnu.edu.ph/wp-content/themes/gwt-wordpress-25.0/foundation/css/foundation.min.css?ver=20160530' type='text/css' media='all' />
+<link rel='stylesheet' id='gwt_wp-fontawesome-css'  href='http://www.cnu.edu.ph/wp-content/themes/gwt-wordpress-25.0/css/font-awesome.min.css?ver=20160530' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.cnu.edu.ph/wp-content/themes/gwt-wordpress-25.0/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gwt_wp-style-css'  href='http://www.cnu.edu.ph/wp-content/themes/gwt-wordpress-25.0/theme.css?ver=20160530' type='text/css' media='all' />
+<link rel='stylesheet' id='gwt_wp-user-style-css'  href='http://www.cnu.edu.ph/wp-content/themes/Child%20Theme/style.css?ver=20160530' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.cnu.edu.ph/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.cnu.edu.ph/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.cnu.edu.ph/wp-content/themes/gwt-wordpress-25.0/foundation/js/vendor/jquery.js?ver=20160530'></script>
+<script type='text/javascript' src='http://www.cnu.edu.ph/wp-content/themes/gwt-wordpress-25.0/foundation/js/vendor/foundation.min.js?ver=20160530'></script>
+<link rel='https://api.w.org/' href='http://www.cnu.edu.ph/?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.cnu.edu.ph/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.cnu.edu.ph/wp-includes/wlwmanifest.xml" /> 
 
-<link rel='canonical' href='http://www.must.edu.ph/' />
-<link rel='shortlink' href='http://www.must.edu.ph/' />
+<script>
+			jQuery(document).ready(function() {
+                                // expand-content-link renamed to expand-cnt-link for compatibility with twentyfourteen theme
+				jQuery(".expand-content-link").removeClass("expand-content-link").addClass("expand-cnt-link");
+				jQuery(".expand-cnt-link").click(function() {
+					jQuery(this).toggleClass("ecf_closed").parent(".exp-col-content-holder").find(".hidden-content").first().stop().slideToggle("slow").css("display","block");
+					return false;
+				});	
+				jQuery(".expand-cnt-link").toggleClass("ecf_closed").parent(".exp-col-content-holder").find(".hidden-content").css("display","none");
+			
+			//images with no float styles , get floated left
+			if(typeof jQuery(".hidden-content > img").attr("float") === "undefined") {
+				jQuery(".hidden-content > img:not([class])").addClass("alignleft");
+			}
+			
+			/*
+			jQuery(".hidden-content").each(function() {
+				if (jQuery(this).find("img").length) {
+					var hiddenContentpLength = jQuery(this).find(".hiddenContentp").text().length;
+						if( hiddenContentpLength < 200 ) {
+							jQuery(this).css("height","150px");
+						}
+				}
+			});
+			*/
+			
+			jQuery(".textwidget > .exp-col-content-holder > .hidden-content > img+p").attr("style","display:inherit !important;");
+			
+			});
+				</script><style>
+			.expand-cnt-link { font-weight:bold; display:block; margin-bottom:.5em; }
+			.expand-cnt-link:before { font-family: "ecf-icons"; content: "\e601  ";  font-size:16px; }
+			.hidden-content { display:block; vertical-align:top}
+			.exp-col-content-holder { margin:15px 0px 15px 0 !important; }
+			.exp-col-content-holder a { display:inline; }
+			.exp-col-content-holder+p, .exp-col-content-holder img+p, .expand-cnt-link+p { display:none !important; }
+			.ecf_closed:before { font-family: "ecf-icons"; content: "\e600  ";  font-size:16px; }
+			.hiddenContentp { margin:0 !important; }
+			.hiddenContentp+p { display:none;}
+			.hidden-content img { width:20%; }
+			.hidden-content img.alignright { margin-right:0 !important; margin-left:10px; margin-bottom:0px; }
+			.hidden-content img.alignleft { margin-left:0 !important; margin-right:10px; margin-bottom:0px; }
+			.hidden-content .videoWrapper+p { margin-bottom:0; }
+			@font-face {
+				font-family: "ecf-icons";
+				src: url("fonts/ecf-icons.eot");
+			}
+			@font-face {
+				font-family: "ecf-icons";
+				src: url(data:application/x-font-ttf;charset=utf-8;base64,AAEAAAALAIAAAwAwT1MvMg6v8ysAAAC8AAAAYGNtYXDL8hqdAAABHAAAADxnYXNwAAAAEAAAAVgAAAAIZ2x5ZpFu6gUAAAFgAAABZGhlYWT+7sbiAAACxAAAADZoaGVhBigD3wAAAvwAAAAkaG10eAbbADMAAAMgAAAAEGxvY2EAvABeAAADMAAAAAptYXhwAAcAOAAAAzwAAAAgbmFtZUPPHeQAAANcAAABS3Bvc3QAAwAAAAAEqAAAACAAAwQAAZAABQAAApkCzAAAAI8CmQLMAAAB6wAzAQkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAACDmAQPA/8D/wAPAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAACAAAAAwAAABQAAwABAAAAFAAEACgAAAAGAAQAAQACACDmAf//AAAAIOYA////4RoCAAEAAAAAAAAAAQAB//8ADwABAAAAAAAAAAAAAgAANzkBAAAAAAIABwC+Ai8C+QAaADUAAAEUBwEGIyIvASY1ND8BJyY1ND8BNjMyFwEWFTMUBwEGIyIvASY1ND8BJyY1ND8BNjMyFwEWFQFUBv72BgcIBR0GBuHhBgYdBQgHBgEKBtsF/vUFCAcGHAYG4OAGBhwGBwgFAQsFAdsHBv72BgYdBQgHBuDhBgcIBR0GBv72BggHBv72BgYdBQgHBuDhBgcIBR0GBv72BggAAAIALAD1AmYDHQAaADUAAAEUBwEGIyInASY1ND8BNjMyHwE3NjMyHwEWFTUUBwEGIyInASY1ND8BNjMyHwE3NjMyHwEWFQJmBf71BQgHBv72BgYcBgcIBuDhBQgHBh0FBf71BQgHBv72BgYcBgcIBuDhBQgHBh0FAhIHBv72BgYBCgYHCAUdBgbh4QYGHQUI3AgF/vUFBQELBQgHBhwGBuDgBgYcBgcAAAEAAAABAADFBlcuXw889QALBAAAAAAAzrVBZAAAAADOtUFkAAAAAAJmAx0AAAAIAAIAAAAAAAAAAQAAA8D/wAAABAAAAAAaAmYAAQAAAAAAAAAAAAAAAAAAAAQAAAAAAgAAAAJJAAcCkgAsAAAAAAAKAF4AsgAAAAEAAAAEADYAAgAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAOAK4AAQAAAAAAAQASAAAAAQAAAAAAAgAOAFUAAQAAAAAAAwASACgAAQAAAAAABAASAGMAAQAAAAAABQAWABIAAQAAAAAABgAJADoAAQAAAAAACgAoAHUAAwABBAkAAQASAAAAAwABBAkAAgAOAFUAAwABBAkAAwASACgAAwABBAkABAASAGMAAwABBAkABQAWABIAAwABBAkABgASAEMAAwABBAkACgAoAHUAZQBjAGYALQBpAGMAbwBuAHMAVgBlAHIAcwBpAG8AbgAgADAALgAwAGUAYwBmAC0AaQBjAG8AbgBzZWNmLWljb25zAGUAYwBmAC0AaQBjAG8AbgBzAFIAZQBnAHUAbABhAHIAZQBjAGYALQBpAGMAbwBuAHMARwBlAG4AZQByAGEAdABlAGQAIABiAHkAIABJAGMAbwBNAG8AbwBuAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) format("truetype"),
+					 url(data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAAUUAAsAAAAABMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAABCAAAAGAAAABgDq/zK2NtYXAAAAFoAAAAPAAAADzL8hqdZ2FzcAAAAaQAAAAIAAAACAAAABBnbHlmAAABrAAAAWQAAAFkkW7qBWhlYWQAAAMQAAAANgAAADb+7sbiaGhlYQAAA0gAAAAkAAAAJAYoA99obXR4AAADbAAAABAAAAAQBtsAM2xvY2EAAAN8AAAACgAAAAoAvABebWF4cAAAA4gAAAAgAAAAIAAHADhuYW1lAAADqAAAAUsAAAFLQ88d5HBvc3QAAAT0AAAAIAAAACAAAwAAAAMEAAGQAAUAAAKZAswAAACPApkCzAAAAesAMwEJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAg5gEDwP/A/8ADwABAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAMAAAAUAAMAAQAAABQABAAoAAAABgAEAAEAAgAg5gH//wAAACDmAP///+EaAgABAAAAAAAAAAEAAf//AA8AAQAAAAAAAAAAAAIAADc5AQAAAAACAAcAvgIvAvkAGgA1AAABFAcBBiMiLwEmNTQ/AScmNTQ/ATYzMhcBFhUzFAcBBiMiLwEmNTQ/AScmNTQ/ATYzMhcBFhUBVAb+9gYHCAUdBgbh4QYGHQUIBwYBCgbbBf71BQgHBhwGBuDgBgYcBgcIBQELBQHbBwb+9gYGHQUIBwbg4QYHCAUdBgb+9gYIBwb+9gYGHQUIBwbg4QYHCAUdBgb+9gYIAAACACwA9QJmAx0AGgA1AAABFAcBBiMiJwEmNTQ/ATYzMh8BNzYzMh8BFhU1FAcBBiMiJwEmNTQ/ATYzMh8BNzYzMh8BFhUCZgX+9QUIBwb+9gYGHAYHCAbg4QUIBwYdBQX+9QUIBwb+9gYGHAYHCAbg4QUIBwYdBQISBwb+9gYGAQoGBwgFHQYG4eEGBh0FCNwIBf71BQUBCwUIBwYcBgbg4AYGHAYHAAABAAAAAQAAxQZXLl8PPPUACwQAAAAAAM61QWQAAAAAzrVBZAAAAAACZgMdAAAACAACAAAAAAAAAAEAAAPA/8AAAAQAAAAAGgJmAAEAAAAAAAAAAAAAAAAAAAAEAAAAAAIAAAACSQAHApIALAAAAAAACgBeALIAAAABAAAABAA2AAIAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAADgCuAAEAAAAAAAEAEgAAAAEAAAAAAAIADgBVAAEAAAAAAAMAEgAoAAEAAAAAAAQAEgBjAAEAAAAAAAUAFgASAAEAAAAAAAYACQA6AAEAAAAAAAoAKAB1AAMAAQQJAAEAEgAAAAMAAQQJAAIADgBVAAMAAQQJAAMAEgAoAAMAAQQJAAQAEgBjAAMAAQQJAAUAFgASAAMAAQQJAAYAEgBDAAMAAQQJAAoAKAB1AGUAYwBmAC0AaQBjAG8AbgBzAFYAZQByAHMAaQBvAG4AIAAwAC4AMABlAGMAZgAtAGkAYwBvAG4Ac2VjZi1pY29ucwBlAGMAZgAtAGkAYwBvAG4AcwBSAGUAZwB1AGwAYQByAGUAYwBmAC0AaQBjAG8AbgBzAEcAZQBuAGUAcgBhAHQAZQBkACAAYgB5ACAASQBjAG8ATQBvAG8AbgAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==) format("woff");
+				font-weight: normal;
+				font-style: normal;
+			}
 
-<!-- Dynamic Widgets by QURL - http://www.qurl.nl //-->
-<style type="text/css" media="all">
-/* <![CDATA[ */
-@import url("http://www.must.edu.ph/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.4");
-@import url("http://www.must.edu.ph/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.4");
-/* ]]> */
-</style>
-<!-- Easy FancyBox 1.5.7 using FancyBox 1.3.7 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var fb_timeout = null;
-var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'showCloseButton' : true, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
-var easy_fancybox_handler = function(){
-	/* IMG */
-	var fb_IMG_select = 'a[href*=".jpg"]:not(.nofancybox,.pin-it-button), area[href*=".jpg"]:not(.nofancybox), a[href*=".jpeg"]:not(.nofancybox,.pin-it-button), area[href*=".jpeg"]:not(.nofancybox), a[href*=".png"]:not(.nofancybox,.pin-it-button), area[href*=".png"]:not(.nofancybox)';
-	jQuery(fb_IMG_select).addClass('fancybox image');
-	var fb_IMG_sections = jQuery('div.gallery');
-	fb_IMG_sections.each(function() { jQuery(this).find(fb_IMG_select).attr('rel', 'gallery-' + fb_IMG_sections.index(this)); });
-	jQuery('a.fancybox, area.fancybox, li.fancybox a:not(li.nofancybox a)').each(function() { jQuery(this).fancybox( jQuery.extend({}, fb_opts, { 'type' : 'image', 'transitionIn' : 'elastic', 'easingIn' : 'easeOutBack', 'transitionOut' : 'elastic', 'easingOut' : 'easeInBack', 'opacity' : false, 'hideOnContentClick' : false, 'titleShow' : true, 'titlePosition' : 'over', 'titleFromAlt' : true, 'showNavArrows' : true, 'enableKeyboardNav' : true, 'cyclic' : false }) );} );
-	/* Inline */
-	jQuery('a.fancybox-inline, area.fancybox-inline, li.fancybox-inline a').each(function() { jQuery(this).fancybox( jQuery.extend({}, fb_opts, { 'type' : 'inline', 'autoDimensions' : true, 'scrolling' : 'no', 'easingIn' : 'easeOutBack', 'easingOut' : 'easeInBack', 'opacity' : false, 'hideOnContentClick' : false }) );} );
-	/* Auto-click */ 
-	jQuery('#fancybox-auto').trigger('click');
-}
-/* ]]> */
-</script>
-<script type="text/javascript">
-  $(function() {
-    $('html').smoothScroll(500);
-   });
-</script>
-<!--END head-->
+			[class^="ecf-icon-"], [class*=" ecf-icon-"] {
+				font-family: "ecf-icons";
+				speak: none;
+				font-style: normal;
+				font-weight: normal;
+				font-variant: normal;
+				text-transform: none;
+				line-height: 1;
+
+				/* Better Font Rendering =========== */
+				-webkit-font-smoothing: antialiased;
+				-moz-osx-font-smoothing: grayscale;
+			}
+			.videoWrapper {
+				position: relative;
+				padding-bottom: 56.25%; /* 16:9 */
+				padding-top: 25px;
+				height: 0;
+			}
+			.videoWrapper iframe {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+			}
+		</style><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.cnu.edu.ph/?wordfence_logHuman=1&hid=28FE1636ACD34B199A6AB2056444FB58');
+</script><script type="text/javascript" charset="utf-8">
+			jQuery(window).load(function() {
+			jQuery('.flexslider').flexslider();
+			});
+		</script><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.cnu.edu.ph/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.cnu.edu.ph/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><link rel="icon" href="http://www.cnu.edu.ph/wp-content/uploads/2012/12/CNU-Golden-Logo.png" sizes="32x32" />
+<link rel="icon" href="http://www.cnu.edu.ph/wp-content/uploads/2012/12/CNU-Golden-Logo.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.cnu.edu.ph/wp-content/uploads/2012/12/CNU-Golden-Logo.png" />
+<meta name="msapplication-TileImage" content="http://www.cnu.edu.ph/wp-content/uploads/2012/12/CNU-Golden-Logo.png" />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+	<style >
+		.container-main a, .container-main a:active, .container-main a:visited, 
+		.anchor a, .anchor a:active, .anchor a:visited {
+					}
+		
+		.container-main a:focus, .container-main a:hover, 
+		.anchor a:focus, .anchor a:hover {
+					}
+		div .container-masthead {
+			background-image:url("http://www.cnu.edu.ph/wp-content/uploads/2016/10/cnu-header-bg.png");		}
+		h1.logo a {
+			color:#000;		}
+		div.container-banner {
+					}
+		.banner-content, .orbit .orbit-bullets {
+			display: block;		}
+		#pst-container {
+			color:#ffffff;		}
+		#panel-top {
+					}
+		#panel-bottom {
+					}
+		#sidebar-left .widget, #sidebar-right .widget, .callout.secondary {
+			border:0px solidborder-radius:0px ;		}
+		.container-main .entry-title a {
+					}
+		.container-banner .entry-title {
+					}
+		#footer {
+					}
+	</style>
+	<script type="text/javascript" language="javascript">
+		var template_directory = 'http://www.cnu.edu.ph/wp-content/themes/gwt-wordpress-25.0';
+	</script>
 </head>
 
-<!--BEGIN body-->
-<body class="home singular y2016 m10 d15 h19 page pageid-470 page-author-web-admin page-template page-template-fpage-php unknown-os unknown-browser">
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<body class="home blog wp-custom-logo wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
 
-  ga('create', 'UA-46709085-1', 'must.edu.ph');
-  ga('send', 'pageview');
-
-</script>
-	
-	<div class="headertri">
-		
-		<div class="headerlogo">
-			<div class="tmenu">
-				<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-5"><a href="/">Home</a></li>
-<li id="menu-item-1036" class="mnu-about menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1036"><a href="http://www.must.edu.ph/about/">About Us</a>
-<ul class="sub-menu">
-	<li id="menu-item-119094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119094"><a href="#">&#8211;</a>
-	<ul class="sub-menu">
-		<li id="menu-item-1057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1057"><a href="http://www.must.edu.ph/about/">Mandate, Vision, Mission, Values</a></li>
-		<li id="menu-item-1058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1058"><a href="http://www.must.edu.ph/milestones-of-must/">Milestones</a></li>
-		<li id="menu-item-1059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1059"><a href="http://www.must.edu.ph/board-of-regents/">University Board of Regents</a></li>
-		<li id="menu-item-1060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1060"><a href="http://www.must.edu.ph/organizational-structure/">Organizational Structure</a></li>
-		<li id="menu-item-117786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117786"><a href="http://www.must.edu.ph/telephone-directory/">Telephone Directory</a></li>
-		<li id="menu-item-1061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1061"><a href="http://www.must.edu.ph/publications/">Publications</a></li>
-	</ul>
-</li>
-</ul>
-</li>
-<li id="menu-item-1039" class="mnu-admission menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1039"><a href="http://www.must.edu.ph/admission/">Admission</a>
-<ul class="sub-menu">
-	<li id="menu-item-1064" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1064"><a href="#">Guidelines</a>
-	<ul class="sub-menu">
-		<li id="menu-item-1067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1067"><a href="http://www.must.edu.ph/freshmen/">Freshmen</a></li>
-		<li id="menu-item-1068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1068"><a href="http://www.must.edu.ph/admission-for-graduate-school/">Graduate School</a></li>
-		<li id="menu-item-1069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1069"><a href="http://www.must.edu.ph/enrollment-schedule/">Enrollment Schedule</a></li>
-		<li id="menu-item-1070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1070"><a href="http://www.must.edu.ph/transferee/">Transferee</a></li>
-		<li id="menu-item-1071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1071"><a href="http://www.must.edu.ph/tuition-fee/">Tuition Fee</a></li>
-		<li id="menu-item-1072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1072"><a href="http://www.must.edu.ph/wp-content/uploads/2013/04/student-handbook-saddle-05.12.14.pdf">Student Handbook</a></li>
-	</ul>
-</li>
-	<li id="menu-item-1065" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1065"><a href="#">Offered Programs</a>
-	<ul class="sub-menu">
-		<li id="menu-item-118188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118188"><a href="http://www.must.edu.ph/course-prospectus-cas/">College of Arts and Sciences</a></li>
-		<li id="menu-item-118189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118189"><a href="http://www.must.edu.ph/course-prospectus-cea/">College of Engineering and Architecture</a></li>
-		<li id="menu-item-118190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118190"><a href="http://www.must.edu.ph/course-prospectus-ciit/">College of Industrial and Information Technology</a></li>
-		<li id="menu-item-118191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118191"><a href="http://www.must.edu.ph/course-prospectus-cpsem/">College of Policy Studies, Education, and Management</a></li>
-	</ul>
-</li>
-	<li id="menu-item-1066" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1066"><a href="#">Examinations</a>
-	<ul class="sub-menu">
-		<li id="menu-item-1078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1078"><a href="http://www.must.edu.ph/schedule-of-entrance-examinations/">Schedule of Entrance Examinations</a></li>
-		<li id="menu-item-1079" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1079"><a href="http://www.must.edu.ph/blog/category/entrance-exam-result/">Entrance Exam Result</a></li>
-	</ul>
-</li>
-</ul>
-</li>
-<li id="menu-item-1044" class="mnu-acad menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1044"><a href="http://www.must.edu.ph/academics/">Academics</a>
-<ul class="sub-menu">
-	<li id="menu-item-1080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1080"><a href="#">Colleges</a>
-	<ul class="sub-menu">
-		<li id="menu-item-1075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1075"><a href="http://www.must.edu.ph/college-of-arts-and-sciences/">College of Arts and Sciences</a></li>
-		<li id="menu-item-117902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117902"><a href="http://www.must.edu.ph/cea/">College of Engineering and Architecture</a></li>
-		<li id="menu-item-1073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1073"><a href="http://www.must.edu.ph/college-of-industrial-and-information-technology/">College of Industrial and Information Technology</a></li>
-		<li id="menu-item-1074" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1074"><a href="http://www.must.edu.ph/college-of-policy-studies-education-and-management/">College of Policy Studies, Education and Management (CPSEM)</a></li>
-	</ul>
-</li>
-	<li id="menu-item-1081" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1081"><a href="#">Institutes</a>
-	<ul class="sub-menu">
-		<li id="menu-item-1090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1090"><a href="http://www.must.edu.ph/institute-of-public-administration-and-governance-ipag/">Institute of Public Administration and Governance (IPAG)</a></li>
-		<li id="menu-item-1091" class="mnudisabled menu-item menu-item-type-custom menu-item-object-custom menu-item-1091"><a href="#">Institute of Continuing Education and Training</a></li>
-	</ul>
-</li>
-	<li id="menu-item-1082" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1082"><a href="#">Extension Campuses</a>
-	<ul class="sub-menu">
-		<li id="menu-item-1092" class="mnudisabled menu-item menu-item-type-custom menu-item-object-custom menu-item-1092"><a href="#">Panaon</a></li>
-		<li id="menu-item-1093" class="mnudisabled menu-item menu-item-type-custom menu-item-object-custom menu-item-1093"><a href="http://www.must.edu.ph/jasaan/">Jasaan</a></li>
-		<li id="menu-item-1094" class="mnudisabled menu-item menu-item-type-custom menu-item-object-custom menu-item-1094"><a href="#">Oroquieta</a></li>
-	</ul>
-</li>
-	<li id="menu-item-119269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119269"><a href="#">Academic Policies</a>
-	<ul class="sub-menu">
-		<li id="menu-item-119271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119271"><a href="http://www.must.edu.ph/wp-content/uploads/2013/04/student-handbook-saddle-05.12.14.pdf">Undergraduate Handbook</a></li>
-		<li id="menu-item-119270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119270"><a href="http://www.must.edu.ph/wp-content/uploads/2013/04/GSHB-2010.pdf">Graduate Studies Handbook</a></li>
-	</ul>
-</li>
-	<li id="menu-item-119268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119268"><a href="#">&#8211;</a>
-	<ul class="sub-menu">
-		<li id="menu-item-119272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119272"><a href="http://www.must.edu.ph/images/stories/Staff-Development-Manual.pdf">Staff Development Manual</a></li>
-	</ul>
-</li>
-</ul>
-</li>
-<li id="menu-item-1049" class="mnu-rnd menu-item menu-item-type-post_type menu-item-object-page menu-item-1049"><a href="http://www.must.edu.ph/research-and-extension/">Research and Extension</a></li>
-<li id="menu-item-118676" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-118676"><a href="http://www.must.edu.ph/airo">AIRO</a></li>
-<li id="menu-item-41" class="mnu-stud menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41"><a href="#">Students</a>
-<ul class="sub-menu">
-	<li id="menu-item-119095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119095"><a href="#">&#8211;</a>
-	<ul class="sub-menu">
-		<li id="menu-item-118196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118196"><a href="http://www.must.edu.ph/student-affair-and-welfare-office/">Student Affairs and Welfare Office</a></li>
-		<li id="menu-item-87" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87"><a href="http://www.must.edu.ph/wp-content/uploads/2016/06/ACADEMIC-CALENDAR-2016-2017.pdf">Academic Calendar</a></li>
-		<li id="menu-item-117837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117837"><a href="http://www.must.edu.ph/photo-gallery/">Gallery</a></li>
-		<li id="menu-item-89" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89"><a href="http://utilities.must.edu.ph/must_sis/">Student Information System</a></li>
-		<li id="menu-item-1262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1262"><a href="http://www.must.edu.ph/wp-content/uploads/2013/10/Thesis-dissertation-template.docx">Thesis Dissertation Template</a></li>
-		<li id="menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91"><a href="http://www.must.edu.ph/wp-content/uploads/2013/04/studenthandbook04.16.14.pdf">Student Handbook</a></li>
-		<li id="menu-item-118136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118136"><a href="http://www.must.edu.ph/gsfi-activities/">GSFI Activities</a></li>
-		<li id="menu-item-650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-650"><a href="http://www.must.edu.ph/library/">Library and Audio Visual Services</a></li>
-		<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90"><a href="http://www.must.edu.ph/cms">Virtual Classroom</a></li>
-		<li id="menu-item-119239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119239"><a href="http://www.must.edu.ph/wifi/">Wifi Registration</a></li>
-	</ul>
-</li>
-</ul>
-</li>
-<li id="menu-item-119327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119327"><a href="#">Downloadables</a>
-<ul class="sub-menu">
-	<li id="menu-item-119342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119342"><a href="#">Employee</a>
-	<ul class="sub-menu">
-		<li id="menu-item-119344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119344"><a href="http://www.must.edu.ph/wp-content/uploads/2015/07/LEAVE%20FORM%20(form%206)%20updated%20CSC.xls">Leave Form</a></li>
-		<li id="menu-item-119370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119370"><a href="http://www.must.edu.ph/wp-content/uploads/2015/07/pdsrev2005.xls">Personal Data Sheet</a></li>
-	</ul>
-</li>
-	<li id="menu-item-119343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119343"><a href="#">Students</a>
-	<ul class="sub-menu">
-		<li id="menu-item-119337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119337"><a href="http://www.must.edu.ph/wp-content/uploads/2013/11/form-4-Prescribed-Uniform-and-ID-violation.pdf">Prescribed Uniform and ID Violation</a></li>
-		<li id="menu-item-119338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119338"><a href="http://www.must.edu.ph/wp-content/uploads/2013/11/form-5-Identification-Card-Request-Slip.pdf">ID Request Slip</a></li>
-		<li id="menu-item-119339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119339"><a href="http://www.must.edu.ph/wp-content/uploads/2013/11/form-13-Exam-Permit-Exemption-Request-Form.pdf">Exam Permit Exemption Request</a></li>
-		<li id="menu-item-119992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119992"><a href="http://www.must.edu.ph/wp-content/uploads/2016/07/RF41-Request-of-Credentials-Form-Revisedpdf.pdf">Request for Credential Form</a></li>
-	</ul>
-</li>
-</ul>
-</li>
-<li id="menu-item-118262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118262"><a href="http://www.must.edu.ph/contact-us/">Contact Us</a></li>
-</ul></div>			</div>
-			<a href="http://www.must.edu.ph"><img src="http://www.must.edu.ph/wp-content/themes/must-theme/img/mustlogo-big.png" alt="MUST Logo" id="biglogo"/></a>
-			<img src="http://www.must.edu.ph/wp-content/themes/must-theme/img/must-head.png" alt="Mindanao University of Science and Technology" id="bigname"/>
-		</div>
-	</div>
-	<!--BEGIN .container-->
-	<div class="container">
-
-		<!--BEGIN #content-->
-		<div id="content">
-		<div id="slides">
-	<div class="slides_container">
-                				<div class="slide">
-					<a href="http://www.must.edu.ph/blog/entry-forms/" title="Entry Forms"> 
-					<img width="809" height="260" src="http://www.must.edu.ph/wp-content/uploads/2016/09/USTP-Competition-Banner-for-WebPage-Banner-1024x329.png" class="attachment-960x260 wp-post-image" alt="USTP Competition Banner for WebPage Banner" />				</a>
-					<div class="caption sscaption" style="bottom:0">
-						<div class="capcenterer">
-							<p class="blackbox"><a href="http://www.must.edu.ph/blog/entry-forms/" rel="bookmark" title="Permanent Link to Entry Forms">Entry Forms</a><br/><a class="readmore" href="http://www.must.edu.ph/blog/entry-forms/" rel="bookmark" title="Permanent Link to Entry Forms">Read More &raquo;</a></p>
-						</div>
-					</div>
-				</div>	
-							
-				</div>
-	
+<div id="accessibility-shortcuts">
+	<ul>
+		<li><a href="#" class="skips toggle-statement" title="Toggle Accessibility Statement" accesskey="0" data-toggle="a11y-modal">Toggle Accessibility Statement</a></li>
+				<li><a href="http://www.cnu.edu.ph/" accesskey="h">Home</a></li>
+														<li><a href="#main-content" accesskey="R">Skip to Main Content</a></li>
+						<li><a href="#gwt-standard-footer" accesskey="M">Sitemap</a></li>
+			</ul>
 </div>
-<!--BEGIN #primary .hfeed-->
-			<div id="primary" class="hfeed">
-						<div id="wdg_specialrecentpostsfree-2" class="fparticles widget_specialrecentpostsFree"><h3 class="widget-title srp-widget-title">USTP</h3><!-- BEGIN Special Recent Posts FREE Edition v2.0.4 --><div class="srp-widget-container"><div id="wdg_specialrecentpostsfree-2-srp-singlepost-1" class="srp-widget-singlepost"><div class="srp-post-content-container"><div class="srp-thumbnail-box"><a class="srp-post-thumbnail-link" href="http://www.must.edu.ph/blog/guidelines-for-logo-design-competition/" title="Guidelines for Logo Design Competition"><img src="http://www.must.edu.ph/wp-content/plugins/special-recent-posts/cache/srpthumb-p120072-100x100-no.jpg" class="srp-post-thumbnail" alt="Guidelines for Logo Design Competition" /></a></div><div class="srp-content-box"><h4 class="srp-post-title"><a class="srp-post-title-link" href="http://www.must.edu.ph/blog/guidelines-for-logo-design-competition/" title="Guidelines for Logo Design Competition">Guidelines for Logo Design Competition</a></h4><div class="srp-post-content">Guidelines for Logo Design Competition
 
-<a class="srp-post-stringbreak-link" href="http://www.must.edu.ph/blog/guidelines-for-logo-design-competition/" title="Guidelines for Logo Design Competition">... Read More &raquo;</a></div></div></div></div><div id="wdg_specialrecentpostsfree-2-srp-singlepost-2" class="srp-widget-singlepost"><div class="srp-post-content-container"><div class="srp-thumbnail-box"><a class="srp-post-thumbnail-link" href="http://www.must.edu.ph/blog/guidelines-for-brand-name-competition/" title="Guidelines for Brand Name Competition"><img src="http://www.must.edu.ph/wp-content/plugins/special-recent-posts/cache/srpthumb-p120063-100x100-no.png" class="srp-post-thumbnail" alt="Guidelines for Brand Name Competition" /></a></div><div class="srp-content-box"><h4 class="srp-post-title"><a class="srp-post-title-link" href="http://www.must.edu.ph/blog/guidelines-for-brand-name-competition/" title="Guidelines for Brand Name Competition">Guidelines for Brand Name Competition</a></h4><div class="srp-post-content">Guidelines for Brand Name Competition
+<div id="a11y-modal" class="reveal large" title="Accessibility Statement" data-reveal>
+	<textarea rows="21" class="statement-textarea" readonly>
+This website adopts the Web Content Accessibility Guidelines (WCAG 2.0) as the accessibility standard for all its related web development and services. WCAG 2.0 is also an international standard, ISO 40500. This certifies it as a stable and referenceable technical standard. 
 
+WCAG 2.0 contains 12 guidelines organized under 4 principles: Perceivable, Operable, Understandable, and Robust (POUR for short). There are testable success criteria for each guideline. Compliance to these criteria is measured in three levels: A, AA, or AAA. A guide to understanding and implementing Web Content Accessibility Guidelines 2.0 is available at: https://www.w3.org/TR/UNDERSTANDING-WCAG20/
 
-&nbsp;
+Accessibility Features
 
-&nbsp;<a class="srp-post-stringbreak-link" href="http://www.must.edu.ph/blog/guidelines-for-brand-name-competition/" title="Guidelines for Brand Name Competition">... Read More &raquo;</a></div></div></div></div><div id="wdg_specialrecentpostsfree-2-srp-singlepost-3" class="srp-widget-singlepost"><div class="srp-post-content-container"><div class="srp-thumbnail-box"><a class="srp-post-thumbnail-link" href="http://www.must.edu.ph/blog/entry-forms/" title="Entry Forms"><img src="http://www.must.edu.ph/wp-content/plugins/special-recent-posts/cache/srpthumb-p120059-100x100-no.png" class="srp-post-thumbnail" alt="Entry Forms" /></a></div><div class="srp-content-box"><h4 class="srp-post-title"><a class="srp-post-title-link" href="http://www.must.edu.ph/blog/entry-forms/" title="Entry Forms">Entry Forms</a></h4><div class="srp-post-content">&nbsp;
-Download Logo Design Competition Entry Form
+Shortcut Keys Combination Activation Combination keys used for each browser.
 
+	Chrome for Linux press (Alt+Shift+shortcut_key) 
+	Chrome for Windows press (Alt+shortcut_key) 
+	For Firefox press (Alt+Shift+shortcut_key) 
+	For Internet Explorer press (Alt+Shift+shortcut_key) then press (enter)
+	On Mac OS press (Ctrl+Opt+shortcut_key)
 
+	Accessibility Statement (Combination + 0): Statement page that will show the available accessibility keys. 
+	Home Page (Combination + H): Accessibility key for redirecting to homepage. 
+	Main Content (Combination + R): Shortcut for viewing the content section of the current page. 
+	FAQ (Combination + Q): Shortcut for FAQ page. 
+	Contact (Combination + C): Shortcut for contact page or form inquiries. 
+	Feedback (Combination + K): Shortcut for feedback page. 
+	Site Map (Combination + M): Shortcut for site map (footer agency) section of the page. 
+	Search (Combination + S): Shortcut for search page. 
 
+Press esc, or click the close the button to close this dialog box.
+	</textarea>
+	<button class="close-button" data-close aria-label="Close modal" type="button">
+		<span aria-hidden="true">&times;</span>
+	</button>
+</div>
 
+<div class="off-canvas-wrapper">
+	<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
 
-Download Brand Name Competition Entry Form
-<a class="srp-post-stringbreak-link" href="http://www.must.edu.ph/blog/entry-forms/" title="Entry Forms">... Read More &raquo;</a></div></div></div></div></div><!-- END Special Recent Posts FREE Edition v2.0.4 --></div><div id="text-10" class="fparticles widget_text">			<div class="textwidget"><hr></div>
-		</div><div id="wdg_specialrecentpostsfree-6" class="fparticles widget_specialrecentpostsFree"><h2 class="widgettitle">Announcements</h2><!-- BEGIN Special Recent Posts FREE Edition v2.0.4 --><div class="srp-widget-container"><div id="wdg_specialrecentpostsfree-6-srp-singlepost-1" class="srp-widget-singlepost"><div class="srp-post-content-container"><div class="srp-thumbnail-box"><a class="srp-post-thumbnail-link" href="http://www.must.edu.ph/blog/financial-assistance-15/" title="Financial Assistance"><img src="http://www.must.edu.ph/wp-content/plugins/special-recent-posts/cache/srpthumb-p120086-100x100-no.png" class="srp-post-thumbnail" alt="Financial Assistance" /></a></div><div class="srp-content-box"><h4 class="srp-post-title"><a class="srp-post-title-link" href="http://www.must.edu.ph/blog/financial-assistance-15/" title="Financial Assistance">Financial Assistance</a></h4><p class="srp-post-date">September 29th, 2016</p></div></div></div><div id="wdg_specialrecentpostsfree-6-srp-singlepost-2" class="srp-widget-singlepost"><div class="srp-post-content-container"><div class="srp-thumbnail-box"><a class="srp-post-thumbnail-link" href="http://www.must.edu.ph/blog/invitation-for-the-lease-of-three-3-commercial-spaces-of-the-engineering-complex/" title="Invitation for the lease of three (3) commercial spaces of the Engineering complex"><img src="http://www.must.edu.ph/wp-content/plugins/special-recent-posts/cache/srpthumb-p120055-100x100-no.jpg" class="srp-post-thumbnail" alt="Invitation for the lease of three (3) commercial spaces of the Engineering complex" /></a></div><div class="srp-content-box"><h4 class="srp-post-title"><a class="srp-post-title-link" href="http://www.must.edu.ph/blog/invitation-for-the-lease-of-three-3-commercial-spaces-of-the-engineering-complex/" title="Invitation for the lease of three (3) commercial spaces of the Engineering complex">Invitation for the lease of three (3) commercial spaces of the Engineering complex</a></h4><p class="srp-post-date">September 2nd, 2016</p></div></div></div><div id="wdg_specialrecentpostsfree-6-srp-singlepost-3" class="srp-widget-singlepost"><div class="srp-post-content-container"><div class="srp-thumbnail-box"><a class="srp-post-thumbnail-link" href="http://www.must.edu.ph/blog/traffick-advisory-august-27-28/" title="Traffic Advisory August 27-28"><img src="http://www.must.edu.ph/wp-content/plugins/special-recent-posts/cache/srpthumb-p120041-100x100-no.jpg" class="srp-post-thumbnail" alt="Traffic Advisory August 27-28" /></a></div><div class="srp-content-box"><h4 class="srp-post-title"><a class="srp-post-title-link" href="http://www.must.edu.ph/blog/traffick-advisory-august-27-28/" title="Traffic Advisory August 27-28">Traffic Advisory August 27-28</a></h4><p class="srp-post-date">August 26th, 2016</p></div></div></div></div><!-- END Special Recent Posts FREE Edition v2.0.4 --></div><div id="text-8" class="fparticles widget_text">			<div class="textwidget"><a href="http://www.must.edu.ph/?cat=51" style="color:red;text-decoration: underline">See all Announcement</a>
-<hr></div>
-		</div>									
-			<!--END #primary .hfeed-->
+		<!-- off-canvas title bar for 'small' screen -->
+		<div id="off-canvas-container" class="title-bar columns hide-for-large" data-responsive-toggle="main-nav" data-hide-for="large">
+			<div class="title-bar-right">
+				<span class="title-bar-title">Menu</span>
+				<button class="menu-icon" type="button" data-open="offCanvasRight"></button>
 			</div>
-
-		<div id="secondary" class="aside">
-			<!--div id="mustubutton">&nbsp;</div-->
-			<div id="mustutils">
-				<div class="menu-must-utils-menu-container"><ul id="menu-must-utils-menu" class="menu"><li id="menu-item-119402" class="mnugrad menu-item menu-item-type-custom menu-item-object-custom menu-item-119402"><a href="http://goo.gl/forms/0F3fSMUp4i">Graduate Tracer</a></li>
-<li id="menu-item-119394" class="mnusis menu-item menu-item-type-custom menu-item-object-custom menu-item-119394"><a href="http://utilities.must.edu.ph/must_sis/">sis</a></li>
-<li id="menu-item-119395" class="mnuvc menu-item menu-item-type-custom menu-item-object-custom menu-item-119395"><a href="http://www.must.edu.ph/cms">cms</a></li>
-<li id="menu-item-119396" class="mnupq menu-item menu-item-type-custom menu-item-object-custom menu-item-119396"><a href="http://search.proquest.com/login">proquest</a></li>
-<li id="menu-item-119397" class="mnuopac menu-item menu-item-type-custom menu-item-object-custom menu-item-119397"><a href="http://webopac.must.edu.ph/webopac/main">opac</a></li>
-<li id="menu-item-119398" class="mnumustmail menu-item menu-item-type-custom menu-item-object-custom menu-item-119398"><a href="https://mail.google.com/a/must.edu.ph">must mail</a></li>
-<li id="menu-item-117" class="showmoreitems menu-item menu-item-type-custom menu-item-object-custom menu-item-117"><a href="#">All Utilities</a></li>
-<li id="menu-item-119399" class="mnueso hided menu-item menu-item-type-custom menu-item-object-custom menu-item-119399"><a href="http://utilities.must.edu.ph/must_esonline/">ES online</a></li>
-<li id="menu-item-119401" class="mnuhrms hided menu-item menu-item-type-custom menu-item-object-custom menu-item-119401"><a href="http://hrms.must.edu.ph/login.aspx?ReturnUrl=%2f">HRMS</a></li>
-</ul></div>			</div>
-			<div id="text-5" class="widget widget_text"><h2 class="widgettitle">MUST Core Values</h2>			<div class="textwidget"><div class="corevals">
-<b>M</b>oral Uprightness  |  <b>U</b>nselfish Dedication <br />
-<b>S</b>ocial Responsibility  |  <b>T</b>otal Quality Management
-</div></div>
-		</div><div id="text-2" class="widget widget_text">			<div class="textwidget"><a href="http://www.must.edu.ph/?page_id=750"><img src="/wp-content/themes/must-theme/img/transparency.png" /></a></div>
-		</div><div id="text-4" class="widget widget_text">			<div class="textwidget"><a href="http://www.must.edu.ph/wp-content/uploads/2016/01/CitizensCharter.pdf"><img src="/wp-content/themes/must-theme/img/CITIZENS CHARTER.png" /></a></div>
-		</div><div id="text-7" class="widget widget_text">			<div class="textwidget"><a href="http://www.must.edu.ph/wp-content/uploads/2016/07/merged_document-1.pdf"><img src="http://www.must.edu.ph/wp-content/uploads/2014/10/citizenscharter2.png" /></a></div>
+			<div class="title-bar-left">
+				<span class="title-bar-title name"><a href="http://cnu.edu.ph">CNU</a></span>
+			</div>
 		</div>
-			<div class="sbmenu">
-				<div class="menu-sidebar-menu-container"><ul id="menu-sidebar-menu" class="menu"><li id="menu-item-1147" class="sbmenu-bac menu-item menu-item-type-custom menu-item-object-custom menu-item-1147"><a href="/bids-and-awards">Bids and Awards</a></li>
-<li id="menu-item-9" class="sbmenu-jobs menu-item menu-item-type-custom menu-item-object-custom menu-item-9"><a href="http://www.must.edu.ph/?page_id=1230">Job Opportunities</a></li>
-<li id="menu-item-117785" class="sbmenu-mjst menu-item menu-item-type-custom menu-item-object-custom menu-item-117785"><a href="http://www.must.edu.ph/mjst">Mindanao Journal of Science and Technology</a></li>
-<li id="menu-item-119047" class="sbmenu-enrol menu-item menu-item-type-post_type menu-item-object-page menu-item-119047"><a href="http://www.must.edu.ph/enrolment-requirements/">Enrolment</a></li>
-<li id="menu-item-119157" class="sbmenu-scholar menu-item menu-item-type-post_type menu-item-object-page menu-item-119157"><a href="http://www.must.edu.ph/scholarship-information/">Scholarship</a></li>
-</ul></div>			</div>
-		<!--END #secondary .aside-->
-		</div>					
-		<!--END #content-->
-		</div>
-			
 
-	<!--END .container-->
-	</div> 
-		
-		
-		<!--BEGIN .footer-->
-		<div class="footer fcontainer">
-			<div class="fuller">
-				<div class="botmenu"><a href="/?page_id=817" target="_new" class="urgent">Problems? Report to Web Team</a>|<a href="/?page_id=1096">Contact Us</a>|<a href="/?page_id=122">Privacy Policy</a>|<a href="/?page_id=123">Disclaimers</a>|<a href="/?page_id=109">Sitemap</a></div>
-				<div class="botadd">
-					<span class="title">Mindanao University of Science and Technology</span> <br />
-					formerly Mindanao Polytechnic State College<br />
-					Claro M. Recto Avenue, <a href="http://utilities.must.edu.ph/must_utilities_admin/home.aspx">Lapasan</a><br />
-					9000 Cagayan de Oro City, <a href="/wp-admin/">Philippines</a><br />
-					Tel: +63.88.856.1738, Fax: +63.88.856.4696<br />
-					<a href="https://www.google.com/maps/preview#!q=Mindanao+University+of+Science+and+Technology&data=!1m4!1m3!1d1436!2d124.6562253!3d8.4859354!2m1!1e3!4m28!2m15!1m13!1s0x0%3A0xe1327eefb60223d3!3m8!1m3!1d523!2d124.6562253!3d8.4859354!3m2!1i1366!2i677!4f35!4m2!3d8.4855306!4d124.6559215!6scagayan+de+oro!5m11!1m10!1scagayan+de+oro!4m8!1m3!1d22991204!2d-95.677068!3d37.0625!3m2!1i1366!2i677!4f13.1&fid=7" target="_new">MUST on Google Maps</a> | <a href="http://ninorey.jandayan.net">Designed by Ninonins</a>
+		<!-- off-canvas right menu -->
+		<nav id="offCanvasRight" class="off-canvas position-right hide-for-large" data-off-canvas data-position="right">
+			<div class="list-item" >
+					<form role="search" method="get" class="search-form" action="http://www.cnu.edu.ph/">
+						<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+					</form>
+</div>
+			<ul class="vertical menu" data-drilldown data-parent-link="true">
+									<li id="menu-item-3332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3332"><a href="#">The University</a>
+					<ul class="vertical menu">
+						<li id="menu-item-2652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2652"><a href="http://www.cnu.edu.ph/?page_id=76">History</a>						</li>
+						<li id="menu-item-2883" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2883"><a href="http://www.cnu.edu.ph/?page_id=2716">Mandate</a>						</li>
+						<li id="menu-item-2602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2602"><a href="http://www.cnu.edu.ph/?page_id=690">Vision and Mission</a>						</li>
+						<li id="menu-item-2669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2669"><a href="http://www.cnu.edu.ph/?page_id=2661">University Hymn</a>						</li>
+						<li id="menu-item-2693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2693"><a href="http://www.cnu.edu.ph/?page_id=2671">University Seal</a>						</li>
+
+					</ul>
+					</li>
+					<li id="menu-item-3333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3333"><a href="#">Administration</a>
+					<ul class="vertical menu">
+						<li id="menu-item-2651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2651"><a href="http://www.cnu.edu.ph/?page_id=262">Board of Regents</a>						</li>
+						<li id="menu-item-2970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2970"><a href="http://www.cnu.edu.ph/?page_id=2944">Administrative Officials &#038; Unit Heads</a>						</li>
+						<li id="menu-item-2650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2650"><a href="http://www.cnu.edu.ph/?page_id=933">Administrative Council</a>						</li>
+						<li id="menu-item-3201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3201"><a href="http://www.cnu.edu.ph/?page_id=3135">Transparency Seal</a>
+						<ul class="vertical menu">
+							<li id="menu-item-3056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3056"><a href="http://www.cnu.edu.ph/?page_id=3052">MARC | PPB</a>							</li>
+
+						</ul>
+						</li>
+						<li id="menu-item-3098" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3098"><a href="http://www.cnu.edu.ph/?cat=6">News</a>						</li>
+
+					</ul>
+					</li>
+					<li id="menu-item-3334" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3334"><a href="#">Degree Programs</a>
+					<ul class="vertical menu">
+						<li id="menu-item-3013" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3013"><a href="http://www.cnu.edu.ph/?page_id=3005">Graduate Programs</a>						</li>
+						<li id="menu-item-3014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3014"><a href="http://www.cnu.edu.ph/?page_id=2995">Undergraduate Programs</a>						</li>
+						<li id="menu-item-3018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3018"><a href="http://www.cnu.edu.ph/?page_id=3016">Admissions Requirements</a>						</li>
+
+					</ul>
+					</li>
+					<li id="menu-item-2604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2604"><a href="http://www.cnu.edu.ph/?page_id=173">Contact Us</a>					</li>
+ 
+									<li id="menu-item-2659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2659"><a href="http://www.cnu.edu.ph/?page_id=2654">Links / Downloads</a>					</li>
+				<li id="aux-offmenu" class="list-item">AUXILIARY MENU</li>
+				<div class="menu"><ul><li class="current_page_item"><a href="http://www.cnu.edu.ph/">Home</a></li><li id="menu-item-24" class="menu-item-24"><a></a></li><li id="menu-item-2637" class="menu-item-2637"><a></a></li><li id="menu-item-967" class="menu-item-967"><a></a></li><li id="menu-item-102" class="menu-item-102"><a></a></li><li id="menu-item-933" class="menu-item-933"><a></a></li><li id="menu-item-2944" class="menu-item-2944"><a></a></li><li id="menu-item-3016" class="menu-item-3016"><a></a></li><li id="menu-item-883" class="menu-item-883"><a></a></li><li id="menu-item-1092" class="menu-item-1092"><a></a></li><li id="menu-item-2984" class="menu-item-2984"><a></a></li><li id="menu-item-262" class="menu-item-262"><a></a></li><li id="menu-item-563" class="menu-item-563"><a></a></li><li id="menu-item-415" class="menu-item-415"><a></a></li><li id="menu-item-173" class="menu-item-173"><a></a></li><li id="menu-item-2766" class="menu-item-2766"><a></a></li><li id="menu-item-22" class="menu-item-22"><a></a></li><li id="menu-item-250" class="menu-item-250"><a></a></li><li id="menu-item-3005" class="menu-item-3005"><a></a></li><li id="menu-item-1609" class="menu-item-1609"><a></a></li><li id="menu-item-76" class="menu-item-76"><a></a></li><li id="menu-item-18" class="menu-item-18"><a></a></li><li id="menu-item-522" class="menu-item-522"><a></a></li><li id="menu-item-119" class="menu-item-119"><a></a></li><li id="menu-item-117" class="menu-item-117"><a></a></li><li id="menu-item-696" class="menu-item-696"><a></a></li><li id="menu-item-2923" class="menu-item-2923"><a></a></li><li id="menu-item-2654" class="menu-item-2654"><a></a></li><li id="menu-item-2716" class="menu-item-2716"><a></a></li><li id="menu-item-3052" class="menu-item-3052"><a></a></li><li id="menu-item-238" class="menu-item-238"><a></a></li><li id="menu-item-241" class="menu-item-241"><a></a></li><li id="menu-item-20" class="menu-item-20"><a></a></li><li id="menu-item-1091" class="menu-item-1091"><a></a></li><li id="menu-item-899" class="menu-item-899"><a></a></li><li id="menu-item-1082" class="menu-item-1082"><a></a></li><li id="menu-item-1451" class="menu-item-1451"><a></a></li><li id="menu-item-794" class="menu-item-794"><a></a></li><li id="menu-item-27" class="menu-item-27"><a></a></li><li id="menu-item-152" class="menu-item-152"><a></a></li><li id="menu-item-708" class="menu-item-708"><a></a></li><li id="menu-item-1079" class="menu-item-1079"><a></a></li><li id="menu-item-2" class="menu-item-2"><a></a></li><li id="menu-item-150" class="menu-item-150"><a></a></li><li id="menu-item-104" class="menu-item-104"><a></a></li><li id="menu-item-994" class="menu-item-994"><a></a></li><li id="menu-item-2647" class="menu-item-2647"><a></a></li><li id="menu-item-790" class="menu-item-790"><a></a></li><li id="menu-item-3135" class="menu-item-3135"><a></a></li><li id="menu-item-1649" class="menu-item-1649"><a></a></li><li id="menu-item-2995" class="menu-item-2995"><a></a></li><li id="menu-item-2661" class="menu-item-2661"><a></a></li><li id="menu-item-3066" class="menu-item-3066"><a></a></li><li id="menu-item-2795" class="menu-item-2795"><a></a></li><li id="menu-item-2671" class="menu-item-2671"><a></a></li><li id="menu-item-690" class="menu-item-690"><a></a></li></ul></div>
+			</ul>
+		</nav>
+
+		<!-- "main-nav" top-bar menu for 'medium' and up -->
+		<div id="main-nav">
+			<div class="row">
+				<div class="large-12 columns">
+					<nav class="top-bar-left">
+						<ul class="dropdown menu" data-dropdown-menu>
+							<li class="name"><a href="http://cnu.edu.ph">CNU</a></li>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-3332"><a href="#">The University</a>
+<ul class="dropdown vertical menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2652"><a href="http://www.cnu.edu.ph/?page_id=76">History</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2883"><a href="http://www.cnu.edu.ph/?page_id=2716">Mandate</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2602"><a href="http://www.cnu.edu.ph/?page_id=690">Vision and Mission</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2669"><a href="http://www.cnu.edu.ph/?page_id=2661">University Hymn</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2693"><a href="http://www.cnu.edu.ph/?page_id=2671">University Seal</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-3333"><a href="#">Administration</a>
+<ul class="dropdown vertical menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2651"><a href="http://www.cnu.edu.ph/?page_id=262">Board of Regents</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2970"><a href="http://www.cnu.edu.ph/?page_id=2944">Administrative Officials &#038; Unit Heads</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2650"><a href="http://www.cnu.edu.ph/?page_id=933">Administrative Council</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-dropdown menu-item-3201"><a href="http://www.cnu.edu.ph/?page_id=3135">Transparency Seal</a>
+	<ul class="dropdown vertical menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3056"><a href="http://www.cnu.edu.ph/?page_id=3052">MARC | PPB</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3098"><a href="http://www.cnu.edu.ph/?cat=6">News</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-3334"><a href="#">Degree Programs</a>
+<ul class="dropdown vertical menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3013"><a href="http://www.cnu.edu.ph/?page_id=3005">Graduate Programs</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3014"><a href="http://www.cnu.edu.ph/?page_id=2995">Undergraduate Programs</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3018"><a href="http://www.cnu.edu.ph/?page_id=3016">Admissions Requirements</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2604"><a href="http://www.cnu.edu.ph/?page_id=173">Contact Us</a></li>
+						</ul>
+					</nav>
+
+					<nav class="top-bar-right">
+						<ul class="dropdown menu" data-dropdown-menu>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2659"><a href="http://www.cnu.edu.ph/?page_id=2654">Links / Downloads</a></li>
+														<li>
+								<button id="accessibility-button" class="button" type="button">
+									<span class="show-for-sr">Accessibility Button</span>
+									<i class="fa fa-universal-access fa-2x" aria-hidden="true"></i>
+								</button>
+								
+								<ul class="menu" style="min-width:inherit;">
+									<li>
+										<a href="#" id="accessibility-statement" title="Accessibility Statement" class="toggle-statement" data-toggle="a11y-modal">
+											<span class="show-for-sr">Accessibility Statement</span>
+											<i class="fa fa-file-text-o fa-2x"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#" id="accessibility-contrast" title="Toggle High Contrast" class="toggle-contrast">
+											<span class="show-for-sr">High Contrast</span>
+											<i class="fa fa-low-vision fa-2x"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#" id="accessibility-skip-content" title="Skip to Content">
+											<span class="show-for-sr">Skip to Content</span>
+											<i class="fa fa-arrow-circle-o-down fa-2x"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#" id="accessibility-skip-footer" title="Skip to Footer">
+											<span class="show-for-sr">Skip to Footer</span>
+											<i class="fa fa-chevron-down fa-2x"></i>
+										</a>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</nav>
 				</div>
 			</div>
-			
-			<div class="footerimg">&nbsp;</div>
-			
-		<!--END .footer-->
 		</div>
+
+		<!-- original content goes in this container -->
+		<div class="off-canvas-content" data-off-canvas-content>
+			
+			<!-- masthead -->
+			<header class="container-masthead">
+				<div class="row">
+					<div class="large-9  columns">
+						<h1 class="logo"><a href="http://www.cnu.edu.ph/" title="Cebu Normal University" rel="home"><img src="http://cnu.edu.ph/wp-content/uploads/2016/10/cnu-logo-masthead-large.png" /></a></h1>
+					</div>
+
+					
+											<div class="large-3  columns">
+														<div id="text-2" class="ear-content widget anchor widget_text">			<div class="textwidget"><div id="pst-container">
+						<div>Philippine Standard Time:</div><div id="pst-time"></div>
+					   </div></div>
+		</div>						</div>
+									</div>
+			</header>
+			<!-- masthead -->
+
+		
+
+		<div class="container-main" role="document">
+			<div id="main-content" class="row">
+				<div id="content" class="large-8 medium-8 columns" role="main">
+					
+						
+<div class="post-box">
+	<article id="post-2774" class="callout secondary post-2774 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements">
+		
+		<img width="150" height="150" src="http://www.cnu.edu.ph/wp-content/uploads/2016/05/Calendar-150x150.png" class="thumbnail wp-post-image" alt="Calendar" srcset="http://www.cnu.edu.ph/wp-content/uploads/2016/05/Calendar-150x150.png 150w, http://www.cnu.edu.ph/wp-content/uploads/2016/05/Calendar.png 256w" sizes="(max-width: 150px) 100vw, 150px" />		
+		<div class="entry-wrapper large-9 medium-12 small-12">
+			<!-- entry-header -->
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="http://www.cnu.edu.ph/?p=2774" rel="bookmark">Schedule of Academic Events 2016</a></h2>
+				
+									<div class="entry-meta">
+						<span class="posted-on"></span><span class="byline"></span>					</div>
+							</header>
+
+		
+			<!-- entry-summary entry-content -->
+							<div class="entry-content">
+					<p>Get updated with the latest university events here.</p>
+									</div>
+						
+			<!-- footer entry-meta -->
+			<footer class="entry-meta">
+											</footer>
+		</div>
+	</article>
+</div>
+
+<div class="post-box">
+	<article id="post-3304" class="callout secondary post-3304 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-news">
+		
+		<img width="150" height="150" src="http://www.cnu.edu.ph/wp-content/uploads/2016/08/PASUC-Advisory-No.-110-150x150.png" class="thumbnail wp-post-image" alt="PASUC Advisory No. 110" />		
+		<div class="entry-wrapper large-9 medium-12 small-12">
+			<!-- entry-header -->
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="http://www.cnu.edu.ph/?p=3304" rel="bookmark">ADVISORY No. 110, s. 2016 NOTICE OF SEARCH FOR PRESIDENCY OF CEBU NORMAL UNIVERSITY</a></h2>
+				
+									<div class="entry-meta">
+						<span class="posted-on"></span><span class="byline"></span>					</div>
+							</header>
+
+		
+			<!-- entry-summary entry-content -->
+							<div class="entry-content">
+					<p>PASUC ADVISORY No. 110, s. 2016<br />
+For   :   All SUC Presidents/Heads<br />
+From   :   Dr. Ricardo E. Rotoras        President<br />
+Subject    :   NOTICE OF SEARCH FOR PRESIDENCY OF CEBU NORMAL UNIVERSITY<br />
+Date   :   August 22, 2016<br />
+The Cebu Normal University (CNU) Board of Regents (BOR) formally and publicly announces that the Search for President is now open.</p>
+									</div>
+						
+			<!-- footer entry-meta -->
+			<footer class="entry-meta">
+											</footer>
+		</div>
+	</article>
+</div>
+
+<div class="post-box">
+	<article id="post-3274" class="callout secondary post-3274 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+		
+		<img width="150" height="150" src="http://www.cnu.edu.ph/wp-content/uploads/2016/05/coeDesign-proposal-3-150x150.png" class="thumbnail wp-post-image" alt="coeDesign proposal 3" />		
+		<div class="entry-wrapper large-9 medium-12 small-12">
+			<!-- entry-header -->
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="http://www.cnu.edu.ph/?p=3274" rel="bookmark">Center of Excellence for Teacher Education and Nursing Education</a></h2>
+				
+									<div class="entry-meta">
+						<span class="posted-on"></span><span class="byline"></span>					</div>
+							</header>
+
+		
+			<!-- entry-summary entry-content -->
+							<div class="entry-content">
+					<p>The Commission on Higher Education declares Cebu Normal University as Center of Excellence for Teacher Education and Nursing Education.</p>
+									</div>
+						
+			<!-- footer entry-meta -->
+			<footer class="entry-meta">
+											</footer>
+		</div>
+	</article>
+</div>
+
+<div class="post-box">
+	<article id="post-3257" class="callout secondary post-3257 post type-post status-publish format-standard hentry category-news">
+		
+				
+		<div class="entry-wrapper large-12 medium-12 small-12">
+			<!-- entry-header -->
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="http://www.cnu.edu.ph/?p=3257" rel="bookmark">CNU participates in ASEAN University Network – Quality Assurance Training</a></h2>
+				
+									<div class="entry-meta">
+						<span class="posted-on"></span><span class="byline"></span>					</div>
+							</header>
+
+		
+			<!-- entry-summary entry-content -->
+							<div class="entry-content">
+					<p>Dr Leodinito Y. Cañete, BOR and University Secretary, represented CNU in the 11th ASEAN University Network-Quality Assurance (AUN-QA) Training Course for Accomplishing Program Assessment conducted by the ASEAN University Network at Microtel by Wyndam, MOA from March 7-10, 2016&#8230;</p>
+									</div>
+						
+			<!-- footer entry-meta -->
+			<footer class="entry-meta">
+											</footer>
+		</div>
+	</article>
+</div>
+
+<div class="post-box">
+	<article id="post-3255" class="callout secondary post-3255 post type-post status-publish format-standard hentry category-news">
+		
+				
+		<div class="entry-wrapper large-12 medium-12 small-12">
+			<!-- entry-header -->
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="http://www.cnu.edu.ph/?p=3255" rel="bookmark">4 CNU Faculty and Staff Certified as LEx Master Facilitators</a></h2>
+				
+									<div class="entry-meta">
+						<span class="posted-on"></span><span class="byline"></span>					</div>
+							</header>
+
+		
+			<!-- entry-summary entry-content -->
+							<div class="entry-content">
+					<p>Four CNU faculty and staff received further training from Singapore Polytechnic (SP) and were certified as Master Facilitators of its Learning Express (LEx) Program. LEx is an international social innovation experience designed to challenge students to co-create innovative solutions to challenges faced by local communities&#8230;.</p>
+									</div>
+						
+			<!-- footer entry-meta -->
+			<footer class="entry-meta">
+											</footer>
+		</div>
+	</article>
+</div>
+	<nav role="navigation" id="nav-below" class="paging-navigation">
+		<h4>Post navigation</h4>
+		<label class="show-for-sr">Post navigation</label>
+
 	
-<!--END body-->
+				<div class="nav-previous"><a href="http://www.cnu.edu.ph/?paged=2" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+		
+		
+	
+	</nav><!-- #nav-below -->
+					</div><!-- end content -->
+				   
+								<aside id="sidebar-right" class="large-4 medium-4 columns" role="complementary">
+		<aside id="text-4" class="widget callout secondary widget_text">			<div class="textwidget"><p align="center"><a href="http://www.cnu.edu.ph/?page_id=3135"><img id="tp-seal" src="http://cnu.edu.ph/wp-content/themes/gwt-wordpress-25.0/images/transparency-seal-160x160.png" alt="transparency seal logo" title="Transparency Seal"></a></p></div>
+		</aside></aside>				
+			</div>
+		</div>
+
+
+
+
+	
+
+<!-- agency footer -->
+<div id="footer" class="anchor" name="agencyfooter">
+  <div id="supplementary" class="row">
+        <div class="large-3 columns" role="complementary">
+            <aside id="text-6" class="widget widget_text"><h3 class="widget-title">About</h3>			<div class="textwidget">Cebu Normal University was established in 1902 as a provincial normal school and a branch of the Philippine Normal School. It became an independent institution in 1924, a chartered college in 1976, and a university in 1998. It is one of the oldest educational institutions in Cebu.
+CNU has three campuses, the main campus in Osmeña Boulevard, Cebu City and two extension campuses in Medellin and Balamban.</div>
+		</aside>    </div>
+    
+        <div class="large-3 columns" role="complementary">
+            		<aside id="recent-posts-4" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://www.cnu.edu.ph/?p=2774">Schedule of Academic Events 2016</a>
+						</li>
+					<li>
+				<a href="http://www.cnu.edu.ph/?p=3304">ADVISORY No. 110, s. 2016 NOTICE OF SEARCH FOR PRESIDENCY OF CEBU NORMAL UNIVERSITY</a>
+						</li>
+					<li>
+				<a href="http://www.cnu.edu.ph/?p=3274">Center of Excellence for Teacher Education and Nursing Education</a>
+						</li>
+					<li>
+				<a href="http://www.cnu.edu.ph/?p=3257">CNU participates in ASEAN University Network – Quality Assurance Training</a>
+						</li>
+					<li>
+				<a href="http://www.cnu.edu.ph/?p=3255">4 CNU Faculty and Staff Certified as LEx Master Facilitators</a>
+						</li>
+				</ul>
+		</aside>		    </div>
+    
+        <div class="large-3 columns" role="complementary">
+            <aside id="search-3" class="widget widget_search">
+					<form role="search" method="get" class="search-form" action="http://www.cnu.edu.ph/">
+						<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+					</form>
+</aside>    </div>
+    
+        <div class="large-3 columns" role="complementary">
+            <div id="text-7" class="widget widget_text"><h3 class="widget-title">Contact Us</h3>			<div class="textwidget"><b>Telephone Trunk Line:</b><br>
+(032)253 7915<br>
+(032)254 1452<br>
+<a href="http://www.cnu.edu.ph/?page_id=794">View Local Numbers Here</a>
+<br>
+<br>
+<b>Email:</b><br>
+info@cnu.edu.ph
+</div>
+		</div>    </div>
+      </div>
+</div>
+
+
+
+
+<!-- philippine standard time script-->
+<script type="text/javascript" id="gwt-pst">
+(function(d, eId) {
+	var js, gjs = d.getElementById(eId);
+	js = d.createElement('script'); js.id = 'gwt-pst-jsdk';
+	js.src = "//gwhs.i.gov.ph/pst/gwtpst.js?"+new Date().getTime();
+	gjs.parentNode.insertBefore(js, gjs);
+}(document, 'gwt-pst'));
+
+var gwtpstReady = function(){
+	var firstPst = new gwtpstTime('pst-time');
+}
+</script>
+<!-- end philippine standard time -->
+
+<script type='text/javascript' src='http://www.cnu.edu.ph/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.cnu.edu.ph\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.cnu.edu.ph/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1'></script>
+<script type='text/javascript' src='http://www.cnu.edu.ph/wp-content/themes/gwt-wordpress-25.0/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://www.cnu.edu.ph/wp-content/themes/gwt-wordpress-25.0/js/theme.js?ver=20160530'></script>
+<script type='text/javascript' src='http://www.cnu.edu.ph/wp-includes/js/wp-embed.min.js?ver=82ca8d929d60f787a516527758064c4b'></script>
+
+<div><a href="#page" id="back-to-top" style="display: inline;"><i class="fa fa-arrow-circle-up fa-2x"></i></a></div>
 </body>
-<!--END html(kthxbye)-->
 </html>

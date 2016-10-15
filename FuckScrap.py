@@ -44,7 +44,7 @@ def detect_cms():
         print("\n\tFound : The website is running on wordpress")
         print("\n\t-->Enumerating verified URLs\n")
         print("\t Admin Path : "+str(cms_detector.wordpress_admin_path()))
-        print("\t Changelogs Path : "+str(cms_detector.wordpress_changelogs_path()))
+        print("\t Readme Path : "+str(cms_detector.wordpress_readme_path()))
         print("\t xmlrpc path : "+str(cms_detector.wordpress_xmlrpc_path()))
         print("\t Install path : "+str(cms_detector.wordpress_install_path()))
         print("\t Login path : "+str(cms_detector.wordpress_login_path()))

@@ -16,8 +16,8 @@ class CMSDetect:
     def wordpress_admin_path(self):
         return self.wordpress_detector.path_admin_get()
 
-    def wordpress_changelogs_path(self):
-        return self.wordpress_detector.path_changelogs_get()
+    def wordpress_readme_path(self):
+        return self.wordpress_detector.path_readme_get()
 
     def wordpress_xmlrpc_path(self):
         return self.wordpress_detector.path_xmlrpc_get()
