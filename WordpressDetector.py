@@ -55,7 +55,7 @@ class WordpressDetect:
             return self.wordpress_login
 
     def path_changelogs_get(self):
-        if self.has_changelogs_path:
+        if self.has_changelogs_path:cl
             return self.wordpress_changelogs
 
     def path_xmlrpc_get(self):
