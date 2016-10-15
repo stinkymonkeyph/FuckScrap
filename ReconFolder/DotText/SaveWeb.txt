@@ -1,54 +1,58 @@
 <!DOCTYPE html>
-<html class="" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
-<head>
+
+<!--BEGIN html-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<!-- Built on WP Framework (http://wpframework.com) - Powered by WordPress (http://wordpress.org) -->
+
+<!--BEGIN head-->
+<head profile="http://purl.org/uF/hAtom/0.1/ http://purl.org/uF/2008/03/">
+
+	<title>Mindanao University of Science and Technology - Lapasan, Cagayan de Oro City, Philippines</title>
+
+	<!-- Meta Tags -->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="WordPress" />
+	<meta name="framework" content="WP Framework" />
+
+	<!-- Favicon: Browser + iPhone Webclip -->
+	<link rel="shortcut icon" href="http://www.must.edu.ph/wp-content/themes/must-theme/library/media/images/favicon.ico" />
+	<link rel="apple-touch-icon" href="http://www.must.edu.ph/wp-content/themes/must-theme/library/media/images/iphone.png" />
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="http://www.must.edu.ph/wp-content/themes/must-theme/style.css" type="text/css" media="screen, projection" />
+	<link rel="stylesheet" href="http://www.must.edu.ph/wp-content/themes/must-theme/global.css" type="text/css"/>
+	<link rel="stylesheet" href="http://www.must.edu.ph/wp-content/themes/must-theme/library/media/css/print.css" type="text/css" media="print" />
 	
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="google-site-verification" content="tknglXKYqTBtrfkh5QfNHZ3B9oIcaSKJM-idzY5msHM" />
+  	<!-- Links: RSS + Atom Syndication + Pingback etc. -->
+	<link rel="alternate" type="application/rss+xml" title="Mindanao University of Science and Technology RSS Feed" href="http://www.must.edu.ph/feed/" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.must.edu.ph/feed/rss/" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.must.edu.ph/feed/atom/" />
+	<link rel="pingback" href="http://www.must.edu.ph/xmlrpc.php" />
 
+	<!-- SCRIPTS -->
+	<script type="text/javascript" src="http://www.must.edu.ph/wp-content/themes/must-theme/js/jquery.js"></script>
+	<script type="text/javascript" src="http://www.must.edu.ph/wp-content/themes/must-theme/js/slides.min.jquery.js"></script>
+	<script type="text/javascript" src="http://www.must.edu.ph/wp-content/themes/must-theme/js/interface.js"></script>
+	<script type="text/javascript" src="http://www.must.edu.ph/wp-content/themes/must-theme/js/smoothscroll.js"></script>
 	
-	<!--[if lte IE 8]>
-	<script type="text/javascript" src="http://apm.com.ph/wp-content/themes/Avada/assets/js/html5shiv.js"></script>
-	<![endif]-->
-
 	
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>apm-wordpress.whitewidget.com &#8211; Just another WordPress site</title>
-						<script>
-							/* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
-							if ( typeof WebFontConfig === "undefined" ) {
-								WebFontConfig = new Object();
-							}
-							WebFontConfig['google'] = {families: ['Source+Sans+Pro:400,600', 'Unica+One:400']};
-
-							(function() {
-								var wf = document.createElement( 'script' );
-								wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
-								wf.type = 'text/javascript';
-								wf.async = 'true';
-								var s = document.getElementsByTagName( 'script' )[0];
-								s.parentNode.insertBefore( wf, s );
-							})();
-						</script>
-						<link rel="alternate" type="application/rss+xml" title="apm-wordpress.whitewidget.com &raquo; Feed" href="http://apm.com.ph/feed/" />
-<link rel="alternate" type="application/rss+xml" title="apm-wordpress.whitewidget.com &raquo; Comments Feed" href="http://apm.com.ph/comments/feed/" />
-<link rel="alternate" type="text/calendar" title="apm-wordpress.whitewidget.com &raquo; iCal Feed" href="http://apm.com.ph/events/?ical=1" />
-			<!-- For iPad Retina display -->
-			<link rel="apple-touch-icon-precomposed" sizes="144x144" href="">
-		<link rel="alternate" type="application/rss+xml" title="apm-wordpress.whitewidget.com &raquo; Home Comments Feed" href="http://apm.com.ph/home/feed/" />
-
-		<meta property="og:title" content="Home"/>
-		<meta property="og:type" content="article"/>
-		<meta property="og:url" content="http://apm.com.ph/"/>
-		<meta property="og:site_name" content="apm-wordpress.whitewidget.com"/>
-		<meta property="og:description" content="PREMIUM FEED RAW MATERIALS
-FOR THE PHILIPPINE ANIMAL FEED MARKET  A feed is only as good as its ingredients.  At APM, we are in the business of innovation to meet that constant demand for quality feed ingredients.
-
-We supply modern feed ingredients for poultry, swine, aquaculture and pets.  We highly support the cause of serving Filipinos"/>
-
-									<meta property="og:image" content="http://apm.com.ph/wp-content/uploads/2016/08/Logo.png"/>
-							<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/apm.com.ph\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.4"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+	<!-- Theme Hook -->
+    	<style type='text/css'>Default CSS Comment</style><script id='cpf_wp_cp' type='text/javascript'>
+   function WpCpCleanPrintPrintHtml(postId) {
+   	CleanPrintPrintHtml(null,postId);
+   }
+   function WpCpCleanPrintSendEmail(postId) {
+   	CleanPrintSendEmail(null,postId);
+   }
+   function WpCpCleanPrintGeneratePdf(postId) {
+   	CleanPrintGeneratePdf(null,postId);
+   }
+</script>
+<script id='cpf_loader' type='text/javascript' src='http://cache-02.cleanprint.net/cpf/cleanprint?polite=no&key=wpdefault'></script>
+<link rel="alternate" type="application/rss+xml" title="Mindanao University of Science and Technology &raquo; Firstpage Comments Feed" href="http://www.must.edu.ph/firstpage/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.must.edu.ph\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
 img.wp-smiley,
@@ -64,416 +68,303 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='layerslider-css'  href='http://apm.com.ph/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.6.6' type='text/css' media='all' />
-<link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='bbp-default-css'  href='http://apm.com.ph/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.9-6017' type='text/css' media='screen' />
-<link rel='stylesheet' id='contact-form-7-css'  href='http://apm.com.ph/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://apm.com.ph/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.5' type='text/css' media='all' />
-<style id='rs-plugin-settings-inline-css' type='text/css'>
-#rs-demo-id {}
+<link rel='stylesheet' id='batch_css-css'  href='http://www.must.edu.ph/wp-content/plugins/batchmove/css/batch.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='srp-layout-stylesheet-css'  href='http://www.must.edu.ph/wp-content/plugins/special-recent-posts/css/layout.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='arpw-style-css'  href='http://www.must.edu.ph/wp-content/plugins/advanced-random-posts-widget/assets/css/arpw-frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.must.edu.ph/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://www.must.edu.ph/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.7.min.css?ver=1.5.7' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.must.edu.ph/wp-content/plugins/batchmove/js/batch.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.must.edu.ph/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.must.edu.ph/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.must.edu.ph/wp-content/themes/must-theme/library/media/js/supersubs.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.must.edu.ph/wp-content/themes/must-theme/library/media/js/jquery.bgiframe.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.must.edu.ph/wp-content/themes/must-theme/library/media/js/superfish.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.must.edu.ph/wp-content/themes/must-theme/library/media/js/screen.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.must.edu.ph/wp-content/plugins/fuzzy-timestamp/jquery.timeago.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.must.edu.ph/wp-content/plugins/flexible-slider/assets/jquery.easing-1.3.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.must.edu.ph/wp-content/plugins/flexible-slider/assets/slider.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.must.edu.ph/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.must.edu.ph/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='canonical' href='http://www.must.edu.ph/' />
+<link rel='shortlink' href='http://www.must.edu.ph/' />
+
+<!-- Dynamic Widgets by QURL - http://www.qurl.nl //-->
+<style type="text/css" media="all">
+/* <![CDATA[ */
+@import url("http://www.must.edu.ph/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.4");
+@import url("http://www.must.edu.ph/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.4");
+/* ]]> */
 </style>
-<link rel='stylesheet' id='avada-stylesheet-css'  href='http://apm.com.ph/wp-content/themes/Avada/style.css?ver=4.0.2' type='text/css' media='all' />
-<!--[if lte IE 9]>
-<link rel='stylesheet' id='avada-shortcodes-css'  href='http://apm.com.ph/wp-content/themes/Avada/shortcodes.css?ver=4.0.2' type='text/css' media='all' />
-<![endif]-->
-<link rel='stylesheet' id='fontawesome-css'  href='http://apm.com.ph/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=4.0.2' type='text/css' media='all' />
-<!--[if lte IE 9]>
-<link rel='stylesheet' id='avada-IE-fontawesome-css'  href='http://apm.com.ph/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=4.0.2' type='text/css' media='all' />
-<![endif]-->
-<!--[if lte IE 8]>
-<link rel='stylesheet' id='avada-IE8-css'  href='http://apm.com.ph/wp-content/themes/Avada/assets/css/ie8.css?ver=4.0.2' type='text/css' media='all' />
-<![endif]-->
-<!--[if IE]>
-<link rel='stylesheet' id='avada-IE-css'  href='http://apm.com.ph/wp-content/themes/Avada/assets/css/ie.css?ver=4.0.2' type='text/css' media='all' />
-<![endif]-->
-<link rel='stylesheet' id='avada-iLightbox-css'  href='http://apm.com.ph/wp-content/themes/Avada/ilightbox.css?ver=4.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='avada-animations-css'  href='http://apm.com.ph/wp-content/themes/Avada/animations.css?ver=4.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='avada-bbpress-css'  href='http://apm.com.ph/wp-content/themes/Avada/assets/css/bbpress.css?ver=4.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='avada-dynamic-css-css'  href='//apm.com.ph/wp-content/uploads/avada-styles/avada-8.css?timestamp=1475492927&#038;ver=4.5.4' type='text/css' media='all' />
-<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8'></script>
-<script type='text/javascript'>
+<!-- Easy FancyBox 1.5.7 using FancyBox 1.3.7 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
+<script type="text/javascript">
 /* <![CDATA[ */
-var tribe_events_linked_posts = {"post_types":{"tribe_venue":"venue","tribe_organizer":"organizer"}};
+var fb_timeout = null;
+var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'showCloseButton' : true, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
+var easy_fancybox_handler = function(){
+	/* IMG */
+	var fb_IMG_select = 'a[href*=".jpg"]:not(.nofancybox,.pin-it-button), area[href*=".jpg"]:not(.nofancybox), a[href*=".jpeg"]:not(.nofancybox,.pin-it-button), area[href*=".jpeg"]:not(.nofancybox), a[href*=".png"]:not(.nofancybox,.pin-it-button), area[href*=".png"]:not(.nofancybox)';
+	jQuery(fb_IMG_select).addClass('fancybox image');
+	var fb_IMG_sections = jQuery('div.gallery');
+	fb_IMG_sections.each(function() { jQuery(this).find(fb_IMG_select).attr('rel', 'gallery-' + fb_IMG_sections.index(this)); });
+	jQuery('a.fancybox, area.fancybox, li.fancybox a:not(li.nofancybox a)').each(function() { jQuery(this).fancybox( jQuery.extend({}, fb_opts, { 'type' : 'image', 'transitionIn' : 'elastic', 'easingIn' : 'easeOutBack', 'transitionOut' : 'elastic', 'easingOut' : 'easeInBack', 'opacity' : false, 'hideOnContentClick' : false, 'titleShow' : true, 'titlePosition' : 'over', 'titleFromAlt' : true, 'showNavArrows' : true, 'enableKeyboardNav' : true, 'cyclic' : false }) );} );
+	/* Inline */
+	jQuery('a.fancybox-inline, area.fancybox-inline, li.fancybox-inline a').each(function() { jQuery(this).fancybox( jQuery.extend({}, fb_opts, { 'type' : 'inline', 'autoDimensions' : true, 'scrolling' : 'no', 'easingIn' : 'easeOutBack', 'easingOut' : 'easeInBack', 'opacity' : false, 'hideOnContentClick' : false }) );} );
+	/* Auto-click */ 
+	jQuery('#fancybox-auto').trigger('click');
+}
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://apm.com.ph/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='http://apm.com.ph/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var LS_Meta = {"v":"5.6.6"};
-/* ]]> */
+<script type="text/javascript">
+  $(function() {
+    $('html').smoothScroll(500);
+   });
 </script>
-<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.6'></script>
-<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.6'></script>
-<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.5'></script>
-<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.5'></script>
-<link rel='https://api.w.org/' href='http://apm.com.ph/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://apm.com.ph/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://apm.com.ph/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 4.5.4" />
-<link rel="canonical" href="http://apm.com.ph/" />
-<link rel='shortlink' href='http://apm.com.ph/' />
-<link rel="alternate" type="application/json+oembed" href="http://apm.com.ph/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fapm.com.ph%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://apm.com.ph/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fapm.com.ph%2F&#038;format=xml" />
-		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-		<!--[if IE 9]> <script>var _fusionParallaxIE9 = true;</script> <![endif]--><meta name="generator" content="Powered by Slider Revolution 5.2.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<!--END head-->
+</head>
 
-	<link rel="stylesheet" href="http://apm.com.ph/wp-content/themes/Avada/maxque.css">
-
-
-	
-	<!--[if lte IE 8]>
-	<script type="text/javascript">
-	jQuery(document).ready(function() {
-	var imgs, i, w;
-	var imgs = document.getElementsByTagName( 'img' );
-	for( i = 0; i < imgs.length; i++ ) {
-		w = imgs[i].getAttribute( 'width' );
-		imgs[i].removeAttribute( 'width' );
-		imgs[i].removeAttribute( 'height' );
-	}
-	});
-	</script>
-
-	<script src="http://apm.com.ph/wp-content/themes/Avada/assets/js/excanvas.js"></script>
-
-	<![endif]-->
-
-	<!--[if lte IE 9]>
-	<script type="text/javascript">
-	jQuery(document).ready(function() {
-
-	// Combine inline styles for body tag
-	jQuery('body').each( function() {
-		var combined_styles = '<style type="text/css">';
-
-		jQuery( this ).find( 'style' ).each( function() {
-			combined_styles += jQuery(this).html();
-			jQuery(this).remove();
-		});
-
-		combined_styles += '</style>';
-
-		jQuery( this ).prepend( combined_styles );
-	});
-	});
-	</script>
-
-	<![endif]-->
-
-	<script type="text/javascript">
-		var doc = document.documentElement;
-		doc.setAttribute('data-useragent', navigator.userAgent);
-	</script>
-
-	
-	</head>
-<body class="home page page-id-8 page-template page-template-100-width page-template-100-width-php fusion-body no-tablet-sticky-header no-mobile-sticky-header mobile-logo-pos-center layout-wide-mode side-header side-header-left menu-text-align-center mobile-menu-design-modern fusion-image-hovers fusion-show-pagination-text">
-				<div id="wrapper" class="">
-		<div id="home" style="position:relative;top:1px;"></div>
-				
-							
-<div id="side-header-sticky"></div>
-<div id="side-header" class="clearfix fusion-mobile-menu-design-modern fusion-sticky-logo-1 fusion-mobile-logo-1 fusion-sticky-menu-">
-	<div class="side-header-wrapper">
-						<div class="side-header-content fusion-logo-center fusion-mobile-logo-1">
-			<div class="fusion-logo" data-margin-top="65px" data-margin-bottom="65px" data-margin-left="0px" data-margin-right="0px">
-				<a class="fusion-logo-link" href="http://apm.com.ph">
-						<img src="//apm.com.ph/wp-content/uploads/2016/08/Logo.png" width="372" height="203" alt="apm-wordpress.whitewidget.com" class="fusion-logo-1x fusion-standard-logo" />
-
-															<img src="//apm.com.ph/wp-content/uploads/2016/08/Logo-Retina.png" width="372" height="203" alt="apm-wordpress.whitewidget.com" style="max-height: 203px; height: auto;" class="fusion-standard-logo fusion-logo-2x" />
-			
-			<!-- mobile logo -->
-											<img src="//apm.com.ph/wp-content/uploads/2016/08/Logo-Mobile.png" width="372" height="72" alt="apm-wordpress.whitewidget.com" class="fusion-logo-1x fusion-mobile-logo-1x" />
-
-														<img src="//apm.com.ph/wp-content/uploads/2016/08/Logo-Mobile-Retina.png" width="372" height="72" alt="apm-wordpress.whitewidget.com" style="max-height: 72px; height: auto;" class="fusion-logo-2x fusion-mobile-logo-2x" />
-							
-			<!-- sticky header logo -->
-											<img src="//apm.com.ph/wp-content/uploads/2016/08/Logo-Mobile.png" width="372" height="72" alt="apm-wordpress.whitewidget.com" class="fusion-logo-1x fusion-sticky-logo-1x" />
-
-														<img src="//apm.com.ph/wp-content/uploads/2016/08/Logo-Mobile-Retina.png" width="372" height="72" alt="apm-wordpress.whitewidget.com" style="max-height: 72px; height: auto;" class="fusion-logo-2x fusion-sticky-logo-2x" />
-									</a>
-		</div>
-		</div>
-		<div class="fusion-main-menu-container fusion-logo-menu-center">
-			<div class="fusion-main-menu"><ul id="menu-main-menu" class="fusion-menu"><li  id="menu-item-1218"  class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-1218"  ><a  href="http://apm.com.ph/"><span class="menu-text">HOME</span></a></li><li  id="menu-item-1217"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1217"  ><a  href="http://apm.com.ph/about-us/"><span class="menu-text">ABOUT US</span></a></li><li  id="menu-item-1232"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1232"  ><a  href="http://apm.com.ph/products/"><span class="menu-text">PRODUCTS</span></a></li><li  id="menu-item-1214"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1214"  ><a  href="http://apm.com.ph/partners/"><span class="menu-text">PARTNERS</span></a></li><li  id="menu-item-1211"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1211"  ><a  href="http://apm.com.ph/species/"><span class="menu-text">SPECIES</span></a></li><li  id="menu-item-1213"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1213"  ><a  href="http://apm.com.ph/contact/"><span class="menu-text">CONTACT</span></a></li></ul></div>			<div class="fusion-mobile-menu-icons">
-							<a href="#" class="fusion-icon fusion-icon-bars"></a>
-		
-		
-			</div>
-
-
-<div class="fusion-mobile-nav-holder"></div>
-
-		</div>
-
-		
-								
-			<div class="side-header-content side-header-content-1-2">
-											</div>
-		
-		
-			</div>
-	<div class="side-header-background"></div>
-	<div class="side-header-border"></div>
-</div>
-		
-		<div id="sliders-container">
-			
-			
-				
-				<div class="fusion-slider-container fusion-slider-8  full-width-slider-container" style="height:500px;max-width:100%;">
-					<style type="text/css" scoped="scoped">
-					.fusion-slider-8 .flex-direction-nav a {
-						width:63px;height:63px;line-height:63px;margin-top:-31.5px;font-size:25px;					}
-					</style>
-					<div class="fusion-slider-loading">Loading...</div>
-					<div class="tfs-slider flexslider main-flex full-width-slider" style="max-width:100%;" data-slider_width="100%" data-slider_height="500px" data-slider_content_width="" data-full_screen="0" data-parallax="0" data-nav_arrows="0" data-nav_box_width="63px" data-nav_box_height="63px" data-nav_arrow_size="25px" data-pagination_circles="0" data-autoplay="0" data-loop="0" data-animation="fade" data-slideshow_speed="" data-animation_speed="" data-typo_sensitivity="2" data-typo_factor="1" >
-						<ul class="slides" style="max-width:100%;">
-																							<li data-mute="yes" data-loop="yes" data-autoplay="yes">
-									<div class="slide-content-container slide-content-center" style="display: none;">
-										<div class="slide-content" style="">
-																																		<div class="caption ">
-													<div class="fusion-title-sc-wrapper" style="">
-														<div class="fusion-title title fusion-sep-none fusion-title-center fusion-title-size-three" style="margin-top:0px;margin-bottom:0px;"><h3 class="title-heading-center" style="color:#0F342A;font-size: 24px;line-height:38px;"><div class="home-slide-1" style="letter-spacing: 5px;">
-  <div class="home-slide-1-title">INNOVATING</div>
-<div style="font-size: 35px;" >ANIMAL NUTRITION</div>
-  <div class="is-wrap home">
-    <div class="is-dash home"></div>
-    <div class="is-word">
-      FOR THE
-    </div>
-    <div class="is-dash"></div>
-  </div>
-  <div style="font-size: 54px;  line-height: 1px;">PHILIPPINES</div>
-  <div></h3></div>													</div>
-												</div>
-																																		<div class="buttons" >
-																																						</div>
-																					</div>
-									</div>
-																																				<div class="background background-image" style="background-image: url(http://apm.com.ph/wp-content/uploads/2016/08/Home-Slide.jpg);max-width:100%;height:500px;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://apm.com.ph/wp-content/uploads/2016/08/Home-Slide.jpg', sizingMethod='scale');-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://apm.com.ph/wp-content/uploads/2016/08/Home-Slide.jpg', sizingMethod='scale')';" data-imgwidth="2000">
-																																																												</div>
-								</li>
-													</ul>
-					</div>
-				</div>
-								</div>
-				
-							
-		
-		
-						<div id="main" class="clearfix width-100" style="padding-left:40px;padding-right:40px">
-			<div class="fusion-row" style="max-width:100%;">
-<div id="content" class="full-width">
-			<div id="post-8" class="post-8 page type-page status-publish hentry">
-			
-			<span class="entry-title" style="display: none;">
-			Home		</span>
-	
-			<span class="vcard" style="display: none;">
-			<span class="fn">
-				<a href="http://apm.com.ph/author/pauline/" title="Posts by Pauline Ty" rel="author">Pauline Ty</a>			</span>
-		</span>
-	
-			<span class="updated" style="display:none;">
-			2016-09-30T05:09:11+00:00		</span>
-	
-						<div class="post-content apm-content">
-				<div class="fusion-fullwidth fullwidth-box fusion-fullwidth-1  fusion-parallax-none hundred-percent-fullwidth fusion-equal-height-columns" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:#01261f;"><style type="text/css" scoped="scoped">.fusion-fullwidth-1, .fusion-fullwidth-1.fusion-section-separator {
-                        padding-left: 0px !important;
-                        padding-right: 0px !important;
-                    }@media only screen and (max-width: 1170px) {}</style><div class="fusion-row"><div class="fusion-two-third fusion-layout-column fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="padding:10%;"><div class="fusion-column-table"><div class="fusion-column-tablecell"><h1>PREMIUM FEED RAW MATERIALS</h1>
-<h2>FOR THE PHILIPPINE ANIMAL FEED MARKET</h2>
-<div class="fusion-sep-clear"></div><div class="fusion-separator sep-single" style="border-color:#06342b;border-top-width:1px;margin-top:4%;margin-bottom:5%;width:100%;max-width:25%;"></div><p>A feed is only as good as its ingredients.  At APM, we are in the business of innovation to meet that constant demand for quality feed ingredients.</p>
-<p>We supply modern feed ingredients for poultry, swine, aquaculture and pets.  We highly support the cause of serving Filipinos in every level of the agricultural industry from large feed millers to backyard farmers.</p>
-<p>Our company adheres to provide products that are safe, efficient and sustainable.</p>
-<div class="fusion-button-wrapper fusion-alignleft"><style type="text/css" scoped="scoped">.fusion-button.button-1 .fusion-button-text, .fusion-button.button-1 i {color:#ffffff;}.fusion-button.button-1 {border-width:1 px;border-color:#ffffff;}.fusion-button.button-1 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-1:hover .fusion-button-text, .fusion-button.button-1:hover i,.fusion-button.button-1:focus .fusion-button-text, .fusion-button.button-1:focus i,.fusion-button.button-1:active .fusion-button-text, .fusion-button.button-1:active{color:#ffffff;}.fusion-button.button-1:hover, .fusion-button.button-1:focus, .fusion-button.button-1:active{border-width:1 px;border-color:#ffffff;}.fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-1{background: rgba(209,233,144,0);
-					background-image: -webkit-gradient( linear, left bottom, left top, from( rgba(170,215,91,0) ), to( rgba(209,233,144,0) ) );
-					background-image: -webkit-linear-gradient( bottom, rgba(170,215,91,0), rgba(209,233,144,0) );
-					background-image:	-moz-linear-gradient( bottom, rgba(170,215,91,0), rgba(209,233,144,0) );
-					background-image:	  -o-linear-gradient( bottom, rgba(170,215,91,0), rgba(209,233,144,0) );
-					background-image: linear-gradient( to top, rgba(170,215,91,0), rgba(209,233,144,0) );}.fusion-button.button-1:hover,.button-1:focus,.fusion-button.button-1:active{background: #719644;}.fusion-button.button-1{width:auto;}</style><a class="fusion-button button-flat button-square button-xlarge button-default button-1" target="_self" href="http://apm-wordpress.whitewidget.com/about-us/"><span class="fusion-button-text">LEARN MORE</span></a></div><div class="fusion-clearfix"></div></div></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="background:url(http://apm.com.ph/wp-content/uploads/2015/02/Home-Side-Image.jpg) center center no-repeat ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="http://apm.com.ph/wp-content/uploads/2015/02/Home-Side-Image.jpg"><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-2  fusion-parallax-none hundred-percent-fullwidth fusion-equal-height-columns" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:0px;padding-right:0px;background-color:#313539;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;-ms-filter: &quot;progid:DXImageTransform.Microsoft.AlphaImageLoader(src=&#039;http://apm.com.ph/wp-content/uploads/2015/02/home-lower-partership.jpg&#039;, sizingMethod=&#039;scale&#039;)&quot;;background-image: url(http://apm.com.ph/wp-content/uploads/2015/02/home-lower-partership.jpg);"><style type="text/css" scoped="scoped">.fusion-fullwidth-2, .fusion-fullwidth-2.fusion-section-separator {
-                        padding-left: 0px !important;
-                        padding-right: 0px !important;
-                    }@media only screen and (max-width: 1170px) {}</style><div class="fusion-row"><div class="fusion-one-full fusion-layout-column fusion-column-last fusion-spacing-no" style="margin-top:0px;margin-bottom:0px;"><div class="fusion-column-wrapper" style="background:url(http://apm-wordpress.whitewidget.com/wp-content/uploads/2015/02/home-lower-partership.jpg) left top no-repeat ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding:10%;" data-bg-url="http://apm-wordpress.whitewidget.com/wp-content/uploads/2015/02/home-lower-partership.jpg"><div class="fusion-column-table"><div class="fusion-column-tablecell"><h1 style="font-size: 1.3em; text-align: center;">WE&#8217;RE HERE</h1>
-<h1 style="font-size: 1em; line-height: 2.2; text-align: center;">TO HELP</h1>
-<h1 style="text-align: center;">YOUR MARKET GROW</h1>
-<div class="fusion-sep-clear"></div><div class="fusion-separator sep-single" style="border-color:#719644;border-top-width:1 px;margin-left: auto;margin-right: auto;margin-top:4%;margin-bottom:4%;width:100%;max-width:25%;"></div><p style="text-align: center;">We import and distribute ingredients, additives, supplements and premixes for all sectors of the Philippine agricultural market. Contact our offices today on how we can support your business.</p>
-<div class="fusion-button-wrapper fusion-aligncenter"><style type="text/css" scoped="scoped">.fusion-button.button-2 .fusion-button-text, .fusion-button.button-2 i {color:#ffffff;}.fusion-button.button-2 {border-width:1 px;border-color:#ffffff;}.fusion-button.button-2 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-2:hover .fusion-button-text, .fusion-button.button-2:hover i,.fusion-button.button-2:focus .fusion-button-text, .fusion-button.button-2:focus i,.fusion-button.button-2:active .fusion-button-text, .fusion-button.button-2:active{color:#ffffff;}.fusion-button.button-2:hover, .fusion-button.button-2:focus, .fusion-button.button-2:active{border-width:1 px;border-color:#ffffff;}.fusion-button.button-2:hover .fusion-button-icon-divider, .fusion-button.button-2:hover .fusion-button-icon-divider, .fusion-button.button-2:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-2{background: rgba(209,233,144,0);
-					background-image: -webkit-gradient( linear, left bottom, left top, from( rgba(170,215,91,0) ), to( rgba(209,233,144,0) ) );
-					background-image: -webkit-linear-gradient( bottom, rgba(170,215,91,0), rgba(209,233,144,0) );
-					background-image:	-moz-linear-gradient( bottom, rgba(170,215,91,0), rgba(209,233,144,0) );
-					background-image:	  -o-linear-gradient( bottom, rgba(170,215,91,0), rgba(209,233,144,0) );
-					background-image: linear-gradient( to top, rgba(170,215,91,0), rgba(209,233,144,0) );}.fusion-button.button-2:hover,.button-2:focus,.fusion-button.button-2:active{background: #719644;}.fusion-button.button-2{width:auto;}</style><a class="fusion-button button-flat button-square button-xlarge button-default button-2" target="_self" href="http://apm-wordpress.whitewidget.com/contact/"><span class="fusion-button-text">GET STARTED</span></a></div><div class="fusion-clearfix"></div></div></div></div></div><div class="fusion-clearfix"></div></div></div>
-							</div>
-												</div>
-	</div>
-									</div>  <!-- fusion-row -->
-			</div>  <!-- #main -->
-			
-			
-			
-			
-										
-				<div class="fusion-footer">
-
-										
-																
-						<footer id="footer" class="fusion-footer-copyright-area fusion-footer-copyright-center">
-							<div class="fusion-row">
-								<div class="fusion-copyright-content">
-
-											<div class="fusion-copyright-notice">
-			<div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-3  fusion-parallax-none hundred-percent-fullwidth fusion-nonzero-padding" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:0px;padding-top:0px;padding-left:5%;padding-right:5%;background-color:#ffffff;"><style type="text/css" scoped="scoped">.fusion-fullwidth-3, .fusion-fullwidth-3.fusion-section-separator {
-                        padding-left: 5% !important;
-                        padding-right: 5% !important;
-                    }@media only screen and (max-width: 1170px) {.fusion-fullwidth-3, .fusion-fullwidth-3.fusion-section-separator {
-                                margin-left: -5% !important;
-                                margin-right: -5% !important;
-                            }}</style><div class="fusion-row"></div></div>
-
-<div class="fusion-one-third fusion-layout-column fusion-spacing-yes" style="margin-top:0px;margin-bottom:20px;"><div class="fusion-column-wrapper">
-
-<div class="fusion-content-boxes content-boxes columns fusion-columns-1 fusion-columns-total-1 fusion-content-boxes-1 content-boxes-icon-on-top row content-left" data-animationOffset="100%" style="margin-top:0px;margin-bottom:0px;"><style type="text/css" scoped="scoped">.fusion-content-boxes-1 .heading h2{color:#ffffff;}
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading h2,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .heading-link h2,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading h2,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .heading-link h2,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::after,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::before,
-			.fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover:after,
-			.fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover:before,
-			.fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::after,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::before,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .icon .circle-no,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .icon .circle-no {
-				color: #719644 !important;
-			}
-			.fusion-content-boxes-1 .fusion-content-box-hover .heading-link:hover .icon i.circle-yes,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box:hover .heading-link .icon i.circle-yes,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon i.circle-yes,
-			.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .icon i.circle-yes {
-				background-color: #719644 !important;
-				border-color: #719644 !important;
-			}</style>
-
-<div class="fusion-column content-box-column content-box-column-1 col-lg-12 col-md-12 col-sm-12 fusion-content-box-hover content-box-column-last content-box-column-last-in-row"><div class="col content-wrapper-background link-area-link-icon icon-hover-animation-none" style="background-color:#01261f;"><div class="heading heading-with-icon icon-left"><div class="icon"><i style="background-color:transparent;border-color:transparent;height:auto;width:30pxpx;line-height:normal;color:#748041;font-size:30px;" class="fa fontawesome-icon fa-envelope-o circle-no"></i></div><h2 class="content-box-heading" style="font-size: 16px;line-height:21px;">EMAIL</h2></div><div class="fusion-clearfix"></div><div class="content-container" style="color:#646F6D;">info@apm.com.ph</div></div></div><div class="fusion-clearfix"></div><div class="fusion-clearfix"></div></div><div class="fusion-clearfix"></div></div></div>
-
-<div class="fusion-one-third fusion-layout-column fusion-spacing-yes" style="margin-top:0px;margin-bottom:20px;"><div class="fusion-column-wrapper">
-
-<div class="fusion-content-boxes content-boxes columns fusion-columns-1 fusion-columns-total-1 fusion-content-boxes-2 content-boxes-icon-on-top row content-left" data-animationOffset="100%" style="margin-top:0px;margin-bottom:0px;"><style type="text/css" scoped="scoped">.fusion-content-boxes-2 .heading h2{color:#ffffff;}
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover .heading h2,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover .heading .heading-link h2,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover .heading h2,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover .heading .heading-link h2,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::after,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::before,
-			.fusion-content-boxes-2 .fusion-content-box-hover .fusion-read-more:hover:after,
-			.fusion-content-boxes-2 .fusion-content-box-hover .fusion-read-more:hover:before,
-			.fusion-content-boxes-2 .fusion-content-box-hover .fusion-read-more:hover,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::after,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::before,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover .icon .circle-no,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover .icon .circle-no {
-				color: #719644 !important;
-			}
-			.fusion-content-boxes-2 .fusion-content-box-hover .heading-link:hover .icon i.circle-yes,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box:hover .heading-link .icon i.circle-yes,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon i.circle-yes,
-			.fusion-content-boxes-2 .fusion-content-box-hover .link-area-box-hover .heading .icon i.circle-yes {
-				background-color: #719644 !important;
-				border-color: #719644 !important;
-			}</style>
-
-<div class="fusion-column content-box-column content-box-column-1 col-lg-12 col-md-12 col-sm-12 fusion-content-box-hover content-box-column-last content-box-column-last-in-row"><div class="col content-wrapper-background link-area-link-icon icon-hover-animation-none" style="background-color:#01261f;"><div class="heading heading-with-icon icon-left"><div class="icon"><i style="background-color:transparent;border-color:transparent;height:auto;width:30pxpx;line-height:normal;color:#748041;font-size:30px;" class="fa fontawesome-icon fa-comments circle-no"></i></div><h2 class="content-box-heading" style="font-size: 16px;line-height:21px;">CALL</h2></div><div class="fusion-clearfix"></div><div class="content-container" style="color:#646F6D;">(+632) 373-0534 to 35
-<br>
-(+632) 415-5413 to 14</div></div></div><div class="fusion-clearfix"></div><div class="fusion-clearfix"></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-one-third fusion-layout-column fusion-column-last fusion-spacing-yes" style="margin-top:0px;margin-bottom:20px;"><div class="fusion-column-wrapper"><div class="fusion-content-boxes content-boxes columns fusion-columns-1 fusion-columns-total-1 fusion-content-boxes-3 content-boxes-icon-on-top row content-left" data-animationOffset="100%" style="margin-top:0px;margin-bottom:0px;"><style type="text/css" scoped="scoped">.fusion-content-boxes-3 .heading h2{color:#ffffff;}
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover .heading h2,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover .heading .heading-link h2,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover .heading h2,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover .heading .heading-link h2,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::after,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::before,
-			.fusion-content-boxes-3 .fusion-content-box-hover .fusion-read-more:hover:after,
-			.fusion-content-boxes-3 .fusion-content-box-hover .fusion-read-more:hover:before,
-			.fusion-content-boxes-3 .fusion-content-box-hover .fusion-read-more:hover,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::after,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::before,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover .icon .circle-no,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover .icon .circle-no {
-				color: #719644 !important;
-			}
-			.fusion-content-boxes-3 .fusion-content-box-hover .heading-link:hover .icon i.circle-yes,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box:hover .heading-link .icon i.circle-yes,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon i.circle-yes,
-			.fusion-content-boxes-3 .fusion-content-box-hover .link-area-box-hover .heading .icon i.circle-yes {
-				background-color: #719644 !important;
-				border-color: #719644 !important;
-			}</style>
-
-<div class="fusion-column content-box-column content-box-column-1 col-lg-12 col-md-12 col-sm-12 fusion-content-box-hover content-box-column-last content-box-column-last-in-row"><div class="col content-wrapper-background link-area-link-icon icon-hover-animation-none" style="background-color:#01261f;"><div class="heading heading-with-icon icon-left"><div class="icon"><i style="background-color:transparent;border-color:transparent;height:auto;width:30pxpx;line-height:normal;color:#748041;font-size:30px;" class="fa fontawesome-icon fa-thumb-tack circle-no"></i></div><h2 class="content-box-heading" style="font-size: 16px;line-height:21px;">FIND US</h2></div><div class="fusion-clearfix"></div><div class="content-container" style="color:#646F6D;">1105 West Trade Center
-<br>
-132 West Avenue
-<br>
-Quezon City
-<br>
-Philippines</div></div></div><div class="fusion-clearfix"></div><div class="fusion-clearfix"></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div>
-		</div>
-					<div class="fusion-social-links-footer">
-							</div>
-		
-								</div> <!-- fusion-fusion-copyright-content -->
-							</div> <!-- fusion-row -->
-						</footer> <!-- #footer -->
-									</div> <!-- fusion-footer -->
-					</div> <!-- wrapper -->
-
-				
-		<a class="fusion-one-page-text-link fusion-page-load-link"></a>
-
-		<!-- W3TC-include-js-head -->
-
-		<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.9-6017'></script>
-<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/apm.com.ph\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
-/* ]]> */
-</script>
-<script type='text/javascript' src='http://apm.com.ph/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
-<script type='text/javascript' src='http://apm.com.ph/wp-includes/js/comment-reply.min.js?ver=4.5.4'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var toTopscreenReaderText = {"label":"Go to Top"};
-var js_local_vars = {"admin_ajax":"http:\/\/apm.com.ph\/wp-admin\/admin-ajax.php","admin_ajax_nonce":"029d8a47bb","protocol":"","theme_url":"http:\/\/apm.com.ph\/wp-content\/themes\/Avada","dropdown_goto":"Go to...","mobile_nav_cart":"Shopping Cart","page_smoothHeight":"false","flex_smoothHeight":"false","language_flag":"en","infinite_blog_finished_msg":"<em>All posts displayed.<\/em>","infinite_finished_msg":"<em>All items displayed.<\/em>","infinite_blog_text":"<em>Loading the next set of posts...<\/em>","portfolio_loading_text":"<em>Loading Portfolio Items...<\/em>","faqs_loading_text":"<em>Loading FAQ Items...<\/em>","order_actions":"Details","avada_rev_styles":"0","avada_styles_dropdowns":"1","blog_grid_column_spacing":"10","blog_pagination_type":"Infinite Scroll","carousel_speed":"2500","counter_box_speed":"1000","content_break_point":"800","disable_mobile_animate_css":"1","disable_mobile_image_hovers":"1","portfolio_pagination_type":"Infinite Scroll","form_bg_color":"#ffffff","header_transparency":"0","header_padding_bottom":"0px","header_padding_top":"0px","header_position":"Left","header_sticky":"0","header_sticky_tablet":"0","header_sticky_mobile":"0","header_sticky_type2_layout":"menu_only","sticky_header_shrinkage":"1","is_responsive":"1","is_ssl":"false","isotope_type":"masonry","layout_mode":"wide","lightbox_animation_speed":"Fast","lightbox_arrows":"1","lightbox_autoplay":"0","lightbox_behavior":"all","lightbox_desc":"1","lightbox_deeplinking":"1","lightbox_gallery":"1","lightbox_opacity":"0.875","lightbox_path":"vertical","lightbox_post_images":"1","lightbox_skin":"metro-black","lightbox_slideshow_speed":"5000","lightbox_social":"1","lightbox_title":"1","lightbox_video_height":"720","lightbox_video_width":"1280","logo_alignment":"Center","logo_margin_bottom":"65px","logo_margin_top":"65px","megamenu_max_width":"1100","mobile_menu_design":"modern","nav_height":"52","nav_highlight_border":"3","page_title_fading":"1","pagination_video_slide":"0","related_posts_speed":"2500","submenu_slideout":"1","side_header_break_point":"1023","sidenav_behavior":"Hover","site_width":"1170px","slider_position":"below","slideshow_autoplay":"1","slideshow_speed":"7000","smooth_scrolling":"0","status_lightbox":"1","status_totop_mobile":"1","status_vimeo":"0","status_yt":"0","testimonials_speed":"4000","tfes_animation":"sides","tfes_autoplay":"1","tfes_interval":"3000","tfes_speed":"800","tfes_width":"150","title_style_type":"none","title_margin_top":"0px","title_margin_bottom":"20px","typography_responsive":"1","typography_sensitivity":"0.60","typography_factor":"1.50","woocommerce_shop_page_columns":"","side_header_width":"320"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='http://apm.com.ph/wp-content/themes/Avada/assets/js/main.min.js?ver=4.0.2' async ></script> 
-<script type='text/javascript' src='http://apm.com.ph/wp-includes/js/wp-embed.min.js?ver=4.5.4'></script>
-
-		
-		<!--[if lte IE 8]>
-			<script type="text/javascript" src="http://apm.com.ph/wp-content/themes/Avada/assets/js/respond.js"></script>
-		<![endif]-->
-
+<!--BEGIN body-->
+<body class="home singular y2016 m10 d15 h19 page pageid-470 page-author-web-admin page-template page-template-fpage-php unknown-os unknown-browser">
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-75075635-1', 'auto');
+  ga('create', 'UA-46709085-1', 'must.edu.ph');
   ga('send', 'pageview');
 
 </script>
+	
+	<div class="headertri">
+		
+		<div class="headerlogo">
+			<div class="tmenu">
+				<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-5"><a href="/">Home</a></li>
+<li id="menu-item-1036" class="mnu-about menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1036"><a href="http://www.must.edu.ph/about/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-119094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119094"><a href="#">&#8211;</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1057"><a href="http://www.must.edu.ph/about/">Mandate, Vision, Mission, Values</a></li>
+		<li id="menu-item-1058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1058"><a href="http://www.must.edu.ph/milestones-of-must/">Milestones</a></li>
+		<li id="menu-item-1059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1059"><a href="http://www.must.edu.ph/board-of-regents/">University Board of Regents</a></li>
+		<li id="menu-item-1060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1060"><a href="http://www.must.edu.ph/organizational-structure/">Organizational Structure</a></li>
+		<li id="menu-item-117786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117786"><a href="http://www.must.edu.ph/telephone-directory/">Telephone Directory</a></li>
+		<li id="menu-item-1061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1061"><a href="http://www.must.edu.ph/publications/">Publications</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1039" class="mnu-admission menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1039"><a href="http://www.must.edu.ph/admission/">Admission</a>
+<ul class="sub-menu">
+	<li id="menu-item-1064" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1064"><a href="#">Guidelines</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1067"><a href="http://www.must.edu.ph/freshmen/">Freshmen</a></li>
+		<li id="menu-item-1068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1068"><a href="http://www.must.edu.ph/admission-for-graduate-school/">Graduate School</a></li>
+		<li id="menu-item-1069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1069"><a href="http://www.must.edu.ph/enrollment-schedule/">Enrollment Schedule</a></li>
+		<li id="menu-item-1070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1070"><a href="http://www.must.edu.ph/transferee/">Transferee</a></li>
+		<li id="menu-item-1071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1071"><a href="http://www.must.edu.ph/tuition-fee/">Tuition Fee</a></li>
+		<li id="menu-item-1072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1072"><a href="http://www.must.edu.ph/wp-content/uploads/2013/04/student-handbook-saddle-05.12.14.pdf">Student Handbook</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1065" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1065"><a href="#">Offered Programs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-118188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118188"><a href="http://www.must.edu.ph/course-prospectus-cas/">College of Arts and Sciences</a></li>
+		<li id="menu-item-118189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118189"><a href="http://www.must.edu.ph/course-prospectus-cea/">College of Engineering and Architecture</a></li>
+		<li id="menu-item-118190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118190"><a href="http://www.must.edu.ph/course-prospectus-ciit/">College of Industrial and Information Technology</a></li>
+		<li id="menu-item-118191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118191"><a href="http://www.must.edu.ph/course-prospectus-cpsem/">College of Policy Studies, Education, and Management</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1066" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1066"><a href="#">Examinations</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1078"><a href="http://www.must.edu.ph/schedule-of-entrance-examinations/">Schedule of Entrance Examinations</a></li>
+		<li id="menu-item-1079" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1079"><a href="http://www.must.edu.ph/blog/category/entrance-exam-result/">Entrance Exam Result</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1044" class="mnu-acad menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1044"><a href="http://www.must.edu.ph/academics/">Academics</a>
+<ul class="sub-menu">
+	<li id="menu-item-1080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1080"><a href="#">Colleges</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1075"><a href="http://www.must.edu.ph/college-of-arts-and-sciences/">College of Arts and Sciences</a></li>
+		<li id="menu-item-117902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117902"><a href="http://www.must.edu.ph/cea/">College of Engineering and Architecture</a></li>
+		<li id="menu-item-1073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1073"><a href="http://www.must.edu.ph/college-of-industrial-and-information-technology/">College of Industrial and Information Technology</a></li>
+		<li id="menu-item-1074" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1074"><a href="http://www.must.edu.ph/college-of-policy-studies-education-and-management/">College of Policy Studies, Education and Management (CPSEM)</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1081" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1081"><a href="#">Institutes</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1090"><a href="http://www.must.edu.ph/institute-of-public-administration-and-governance-ipag/">Institute of Public Administration and Governance (IPAG)</a></li>
+		<li id="menu-item-1091" class="mnudisabled menu-item menu-item-type-custom menu-item-object-custom menu-item-1091"><a href="#">Institute of Continuing Education and Training</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1082" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1082"><a href="#">Extension Campuses</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1092" class="mnudisabled menu-item menu-item-type-custom menu-item-object-custom menu-item-1092"><a href="#">Panaon</a></li>
+		<li id="menu-item-1093" class="mnudisabled menu-item menu-item-type-custom menu-item-object-custom menu-item-1093"><a href="http://www.must.edu.ph/jasaan/">Jasaan</a></li>
+		<li id="menu-item-1094" class="mnudisabled menu-item menu-item-type-custom menu-item-object-custom menu-item-1094"><a href="#">Oroquieta</a></li>
+	</ul>
+</li>
+	<li id="menu-item-119269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119269"><a href="#">Academic Policies</a>
+	<ul class="sub-menu">
+		<li id="menu-item-119271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119271"><a href="http://www.must.edu.ph/wp-content/uploads/2013/04/student-handbook-saddle-05.12.14.pdf">Undergraduate Handbook</a></li>
+		<li id="menu-item-119270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119270"><a href="http://www.must.edu.ph/wp-content/uploads/2013/04/GSHB-2010.pdf">Graduate Studies Handbook</a></li>
+	</ul>
+</li>
+	<li id="menu-item-119268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119268"><a href="#">&#8211;</a>
+	<ul class="sub-menu">
+		<li id="menu-item-119272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119272"><a href="http://www.must.edu.ph/images/stories/Staff-Development-Manual.pdf">Staff Development Manual</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1049" class="mnu-rnd menu-item menu-item-type-post_type menu-item-object-page menu-item-1049"><a href="http://www.must.edu.ph/research-and-extension/">Research and Extension</a></li>
+<li id="menu-item-118676" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-118676"><a href="http://www.must.edu.ph/airo">AIRO</a></li>
+<li id="menu-item-41" class="mnu-stud menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41"><a href="#">Students</a>
+<ul class="sub-menu">
+	<li id="menu-item-119095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119095"><a href="#">&#8211;</a>
+	<ul class="sub-menu">
+		<li id="menu-item-118196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118196"><a href="http://www.must.edu.ph/student-affair-and-welfare-office/">Student Affairs and Welfare Office</a></li>
+		<li id="menu-item-87" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87"><a href="http://www.must.edu.ph/wp-content/uploads/2016/06/ACADEMIC-CALENDAR-2016-2017.pdf">Academic Calendar</a></li>
+		<li id="menu-item-117837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117837"><a href="http://www.must.edu.ph/photo-gallery/">Gallery</a></li>
+		<li id="menu-item-89" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89"><a href="http://utilities.must.edu.ph/must_sis/">Student Information System</a></li>
+		<li id="menu-item-1262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1262"><a href="http://www.must.edu.ph/wp-content/uploads/2013/10/Thesis-dissertation-template.docx">Thesis Dissertation Template</a></li>
+		<li id="menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91"><a href="http://www.must.edu.ph/wp-content/uploads/2013/04/studenthandbook04.16.14.pdf">Student Handbook</a></li>
+		<li id="menu-item-118136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118136"><a href="http://www.must.edu.ph/gsfi-activities/">GSFI Activities</a></li>
+		<li id="menu-item-650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-650"><a href="http://www.must.edu.ph/library/">Library and Audio Visual Services</a></li>
+		<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90"><a href="http://www.must.edu.ph/cms">Virtual Classroom</a></li>
+		<li id="menu-item-119239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119239"><a href="http://www.must.edu.ph/wifi/">Wifi Registration</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-119327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119327"><a href="#">Downloadables</a>
+<ul class="sub-menu">
+	<li id="menu-item-119342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119342"><a href="#">Employee</a>
+	<ul class="sub-menu">
+		<li id="menu-item-119344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119344"><a href="http://www.must.edu.ph/wp-content/uploads/2015/07/LEAVE%20FORM%20(form%206)%20updated%20CSC.xls">Leave Form</a></li>
+		<li id="menu-item-119370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119370"><a href="http://www.must.edu.ph/wp-content/uploads/2015/07/pdsrev2005.xls">Personal Data Sheet</a></li>
+	</ul>
+</li>
+	<li id="menu-item-119343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119343"><a href="#">Students</a>
+	<ul class="sub-menu">
+		<li id="menu-item-119337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119337"><a href="http://www.must.edu.ph/wp-content/uploads/2013/11/form-4-Prescribed-Uniform-and-ID-violation.pdf">Prescribed Uniform and ID Violation</a></li>
+		<li id="menu-item-119338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119338"><a href="http://www.must.edu.ph/wp-content/uploads/2013/11/form-5-Identification-Card-Request-Slip.pdf">ID Request Slip</a></li>
+		<li id="menu-item-119339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119339"><a href="http://www.must.edu.ph/wp-content/uploads/2013/11/form-13-Exam-Permit-Exemption-Request-Form.pdf">Exam Permit Exemption Request</a></li>
+		<li id="menu-item-119992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119992"><a href="http://www.must.edu.ph/wp-content/uploads/2016/07/RF41-Request-of-Credentials-Form-Revisedpdf.pdf">Request for Credential Form</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-118262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118262"><a href="http://www.must.edu.ph/contact-us/">Contact Us</a></li>
+</ul></div>			</div>
+			<a href="http://www.must.edu.ph"><img src="http://www.must.edu.ph/wp-content/themes/must-theme/img/mustlogo-big.png" alt="MUST Logo" id="biglogo"/></a>
+			<img src="http://www.must.edu.ph/wp-content/themes/must-theme/img/must-head.png" alt="Mindanao University of Science and Technology" id="bigname"/>
+		</div>
+	</div>
+	<!--BEGIN .container-->
+	<div class="container">
 
-	</body>
+		<!--BEGIN #content-->
+		<div id="content">
+		<div id="slides">
+	<div class="slides_container">
+                				<div class="slide">
+					<a href="http://www.must.edu.ph/blog/entry-forms/" title="Entry Forms"> 
+					<img width="809" height="260" src="http://www.must.edu.ph/wp-content/uploads/2016/09/USTP-Competition-Banner-for-WebPage-Banner-1024x329.png" class="attachment-960x260 wp-post-image" alt="USTP Competition Banner for WebPage Banner" />				</a>
+					<div class="caption sscaption" style="bottom:0">
+						<div class="capcenterer">
+							<p class="blackbox"><a href="http://www.must.edu.ph/blog/entry-forms/" rel="bookmark" title="Permanent Link to Entry Forms">Entry Forms</a><br/><a class="readmore" href="http://www.must.edu.ph/blog/entry-forms/" rel="bookmark" title="Permanent Link to Entry Forms">Read More &raquo;</a></p>
+						</div>
+					</div>
+				</div>	
+							
+				</div>
+	
+</div>
+<!--BEGIN #primary .hfeed-->
+			<div id="primary" class="hfeed">
+						<div id="wdg_specialrecentpostsfree-2" class="fparticles widget_specialrecentpostsFree"><h3 class="widget-title srp-widget-title">USTP</h3><!-- BEGIN Special Recent Posts FREE Edition v2.0.4 --><div class="srp-widget-container"><div id="wdg_specialrecentpostsfree-2-srp-singlepost-1" class="srp-widget-singlepost"><div class="srp-post-content-container"><div class="srp-thumbnail-box"><a class="srp-post-thumbnail-link" href="http://www.must.edu.ph/blog/guidelines-for-logo-design-competition/" title="Guidelines for Logo Design Competition"><img src="http://www.must.edu.ph/wp-content/plugins/special-recent-posts/cache/srpthumb-p120072-100x100-no.jpg" class="srp-post-thumbnail" alt="Guidelines for Logo Design Competition" /></a></div><div class="srp-content-box"><h4 class="srp-post-title"><a class="srp-post-title-link" href="http://www.must.edu.ph/blog/guidelines-for-logo-design-competition/" title="Guidelines for Logo Design Competition">Guidelines for Logo Design Competition</a></h4><div class="srp-post-content">Guidelines for Logo Design Competition
+
+<a class="srp-post-stringbreak-link" href="http://www.must.edu.ph/blog/guidelines-for-logo-design-competition/" title="Guidelines for Logo Design Competition">... Read More &raquo;</a></div></div></div></div><div id="wdg_specialrecentpostsfree-2-srp-singlepost-2" class="srp-widget-singlepost"><div class="srp-post-content-container"><div class="srp-thumbnail-box"><a class="srp-post-thumbnail-link" href="http://www.must.edu.ph/blog/guidelines-for-brand-name-competition/" title="Guidelines for Brand Name Competition"><img src="http://www.must.edu.ph/wp-content/plugins/special-recent-posts/cache/srpthumb-p120063-100x100-no.png" class="srp-post-thumbnail" alt="Guidelines for Brand Name Competition" /></a></div><div class="srp-content-box"><h4 class="srp-post-title"><a class="srp-post-title-link" href="http://www.must.edu.ph/blog/guidelines-for-brand-name-competition/" title="Guidelines for Brand Name Competition">Guidelines for Brand Name Competition</a></h4><div class="srp-post-content">Guidelines for Brand Name Competition
+
+
+&nbsp;
+
+&nbsp;<a class="srp-post-stringbreak-link" href="http://www.must.edu.ph/blog/guidelines-for-brand-name-competition/" title="Guidelines for Brand Name Competition">... Read More &raquo;</a></div></div></div></div><div id="wdg_specialrecentpostsfree-2-srp-singlepost-3" class="srp-widget-singlepost"><div class="srp-post-content-container"><div class="srp-thumbnail-box"><a class="srp-post-thumbnail-link" href="http://www.must.edu.ph/blog/entry-forms/" title="Entry Forms"><img src="http://www.must.edu.ph/wp-content/plugins/special-recent-posts/cache/srpthumb-p120059-100x100-no.png" class="srp-post-thumbnail" alt="Entry Forms" /></a></div><div class="srp-content-box"><h4 class="srp-post-title"><a class="srp-post-title-link" href="http://www.must.edu.ph/blog/entry-forms/" title="Entry Forms">Entry Forms</a></h4><div class="srp-post-content">&nbsp;
+Download Logo Design Competition Entry Form
+
+
+
+
+
+Download Brand Name Competition Entry Form
+<a class="srp-post-stringbreak-link" href="http://www.must.edu.ph/blog/entry-forms/" title="Entry Forms">... Read More &raquo;</a></div></div></div></div></div><!-- END Special Recent Posts FREE Edition v2.0.4 --></div><div id="text-10" class="fparticles widget_text">			<div class="textwidget"><hr></div>
+		</div><div id="wdg_specialrecentpostsfree-6" class="fparticles widget_specialrecentpostsFree"><h2 class="widgettitle">Announcements</h2><!-- BEGIN Special Recent Posts FREE Edition v2.0.4 --><div class="srp-widget-container"><div id="wdg_specialrecentpostsfree-6-srp-singlepost-1" class="srp-widget-singlepost"><div class="srp-post-content-container"><div class="srp-thumbnail-box"><a class="srp-post-thumbnail-link" href="http://www.must.edu.ph/blog/financial-assistance-15/" title="Financial Assistance"><img src="http://www.must.edu.ph/wp-content/plugins/special-recent-posts/cache/srpthumb-p120086-100x100-no.png" class="srp-post-thumbnail" alt="Financial Assistance" /></a></div><div class="srp-content-box"><h4 class="srp-post-title"><a class="srp-post-title-link" href="http://www.must.edu.ph/blog/financial-assistance-15/" title="Financial Assistance">Financial Assistance</a></h4><p class="srp-post-date">September 29th, 2016</p></div></div></div><div id="wdg_specialrecentpostsfree-6-srp-singlepost-2" class="srp-widget-singlepost"><div class="srp-post-content-container"><div class="srp-thumbnail-box"><a class="srp-post-thumbnail-link" href="http://www.must.edu.ph/blog/invitation-for-the-lease-of-three-3-commercial-spaces-of-the-engineering-complex/" title="Invitation for the lease of three (3) commercial spaces of the Engineering complex"><img src="http://www.must.edu.ph/wp-content/plugins/special-recent-posts/cache/srpthumb-p120055-100x100-no.jpg" class="srp-post-thumbnail" alt="Invitation for the lease of three (3) commercial spaces of the Engineering complex" /></a></div><div class="srp-content-box"><h4 class="srp-post-title"><a class="srp-post-title-link" href="http://www.must.edu.ph/blog/invitation-for-the-lease-of-three-3-commercial-spaces-of-the-engineering-complex/" title="Invitation for the lease of three (3) commercial spaces of the Engineering complex">Invitation for the lease of three (3) commercial spaces of the Engineering complex</a></h4><p class="srp-post-date">September 2nd, 2016</p></div></div></div><div id="wdg_specialrecentpostsfree-6-srp-singlepost-3" class="srp-widget-singlepost"><div class="srp-post-content-container"><div class="srp-thumbnail-box"><a class="srp-post-thumbnail-link" href="http://www.must.edu.ph/blog/traffick-advisory-august-27-28/" title="Traffic Advisory August 27-28"><img src="http://www.must.edu.ph/wp-content/plugins/special-recent-posts/cache/srpthumb-p120041-100x100-no.jpg" class="srp-post-thumbnail" alt="Traffic Advisory August 27-28" /></a></div><div class="srp-content-box"><h4 class="srp-post-title"><a class="srp-post-title-link" href="http://www.must.edu.ph/blog/traffick-advisory-august-27-28/" title="Traffic Advisory August 27-28">Traffic Advisory August 27-28</a></h4><p class="srp-post-date">August 26th, 2016</p></div></div></div></div><!-- END Special Recent Posts FREE Edition v2.0.4 --></div><div id="text-8" class="fparticles widget_text">			<div class="textwidget"><a href="http://www.must.edu.ph/?cat=51" style="color:red;text-decoration: underline">See all Announcement</a>
+<hr></div>
+		</div>									
+			<!--END #primary .hfeed-->
+			</div>
+
+		<div id="secondary" class="aside">
+			<!--div id="mustubutton">&nbsp;</div-->
+			<div id="mustutils">
+				<div class="menu-must-utils-menu-container"><ul id="menu-must-utils-menu" class="menu"><li id="menu-item-119402" class="mnugrad menu-item menu-item-type-custom menu-item-object-custom menu-item-119402"><a href="http://goo.gl/forms/0F3fSMUp4i">Graduate Tracer</a></li>
+<li id="menu-item-119394" class="mnusis menu-item menu-item-type-custom menu-item-object-custom menu-item-119394"><a href="http://utilities.must.edu.ph/must_sis/">sis</a></li>
+<li id="menu-item-119395" class="mnuvc menu-item menu-item-type-custom menu-item-object-custom menu-item-119395"><a href="http://www.must.edu.ph/cms">cms</a></li>
+<li id="menu-item-119396" class="mnupq menu-item menu-item-type-custom menu-item-object-custom menu-item-119396"><a href="http://search.proquest.com/login">proquest</a></li>
+<li id="menu-item-119397" class="mnuopac menu-item menu-item-type-custom menu-item-object-custom menu-item-119397"><a href="http://webopac.must.edu.ph/webopac/main">opac</a></li>
+<li id="menu-item-119398" class="mnumustmail menu-item menu-item-type-custom menu-item-object-custom menu-item-119398"><a href="https://mail.google.com/a/must.edu.ph">must mail</a></li>
+<li id="menu-item-117" class="showmoreitems menu-item menu-item-type-custom menu-item-object-custom menu-item-117"><a href="#">All Utilities</a></li>
+<li id="menu-item-119399" class="mnueso hided menu-item menu-item-type-custom menu-item-object-custom menu-item-119399"><a href="http://utilities.must.edu.ph/must_esonline/">ES online</a></li>
+<li id="menu-item-119401" class="mnuhrms hided menu-item menu-item-type-custom menu-item-object-custom menu-item-119401"><a href="http://hrms.must.edu.ph/login.aspx?ReturnUrl=%2f">HRMS</a></li>
+</ul></div>			</div>
+			<div id="text-5" class="widget widget_text"><h2 class="widgettitle">MUST Core Values</h2>			<div class="textwidget"><div class="corevals">
+<b>M</b>oral Uprightness  |  <b>U</b>nselfish Dedication <br />
+<b>S</b>ocial Responsibility  |  <b>T</b>otal Quality Management
+</div></div>
+		</div><div id="text-2" class="widget widget_text">			<div class="textwidget"><a href="http://www.must.edu.ph/?page_id=750"><img src="/wp-content/themes/must-theme/img/transparency.png" /></a></div>
+		</div><div id="text-4" class="widget widget_text">			<div class="textwidget"><a href="http://www.must.edu.ph/wp-content/uploads/2016/01/CitizensCharter.pdf"><img src="/wp-content/themes/must-theme/img/CITIZENS CHARTER.png" /></a></div>
+		</div><div id="text-7" class="widget widget_text">			<div class="textwidget"><a href="http://www.must.edu.ph/wp-content/uploads/2016/07/merged_document-1.pdf"><img src="http://www.must.edu.ph/wp-content/uploads/2014/10/citizenscharter2.png" /></a></div>
+		</div>
+			<div class="sbmenu">
+				<div class="menu-sidebar-menu-container"><ul id="menu-sidebar-menu" class="menu"><li id="menu-item-1147" class="sbmenu-bac menu-item menu-item-type-custom menu-item-object-custom menu-item-1147"><a href="/bids-and-awards">Bids and Awards</a></li>
+<li id="menu-item-9" class="sbmenu-jobs menu-item menu-item-type-custom menu-item-object-custom menu-item-9"><a href="http://www.must.edu.ph/?page_id=1230">Job Opportunities</a></li>
+<li id="menu-item-117785" class="sbmenu-mjst menu-item menu-item-type-custom menu-item-object-custom menu-item-117785"><a href="http://www.must.edu.ph/mjst">Mindanao Journal of Science and Technology</a></li>
+<li id="menu-item-119047" class="sbmenu-enrol menu-item menu-item-type-post_type menu-item-object-page menu-item-119047"><a href="http://www.must.edu.ph/enrolment-requirements/">Enrolment</a></li>
+<li id="menu-item-119157" class="sbmenu-scholar menu-item menu-item-type-post_type menu-item-object-page menu-item-119157"><a href="http://www.must.edu.ph/scholarship-information/">Scholarship</a></li>
+</ul></div>			</div>
+		<!--END #secondary .aside-->
+		</div>					
+		<!--END #content-->
+		</div>
+			
+
+	<!--END .container-->
+	</div> 
+		
+		
+		<!--BEGIN .footer-->
+		<div class="footer fcontainer">
+			<div class="fuller">
+				<div class="botmenu"><a href="/?page_id=817" target="_new" class="urgent">Problems? Report to Web Team</a>|<a href="/?page_id=1096">Contact Us</a>|<a href="/?page_id=122">Privacy Policy</a>|<a href="/?page_id=123">Disclaimers</a>|<a href="/?page_id=109">Sitemap</a></div>
+				<div class="botadd">
+					<span class="title">Mindanao University of Science and Technology</span> <br />
+					formerly Mindanao Polytechnic State College<br />
+					Claro M. Recto Avenue, <a href="http://utilities.must.edu.ph/must_utilities_admin/home.aspx">Lapasan</a><br />
+					9000 Cagayan de Oro City, <a href="/wp-admin/">Philippines</a><br />
+					Tel: +63.88.856.1738, Fax: +63.88.856.4696<br />
+					<a href="https://www.google.com/maps/preview#!q=Mindanao+University+of+Science+and+Technology&data=!1m4!1m3!1d1436!2d124.6562253!3d8.4859354!2m1!1e3!4m28!2m15!1m13!1s0x0%3A0xe1327eefb60223d3!3m8!1m3!1d523!2d124.6562253!3d8.4859354!3m2!1i1366!2i677!4f35!4m2!3d8.4855306!4d124.6559215!6scagayan+de+oro!5m11!1m10!1scagayan+de+oro!4m8!1m3!1d22991204!2d-95.677068!3d37.0625!3m2!1i1366!2i677!4f13.1&fid=7" target="_new">MUST on Google Maps</a> | <a href="http://ninorey.jandayan.net">Designed by Ninonins</a>
+				</div>
+			</div>
+			
+			<div class="footerimg">&nbsp;</div>
+			
+		<!--END .footer-->
+		</div>
+	
+<!--END body-->
+</body>
+<!--END html(kthxbye)-->
 </html>
