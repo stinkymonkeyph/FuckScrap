@@ -43,7 +43,7 @@ class WordpressDetect:
             self.has_login_path = True
 
     def path_install_check(self):
-        url_check = requests.get(self.wordpress_login)
+        url_check = requests.get(self.wordpress_install)
         if url_check.status_code == 200:
             self.is_wordpress_site = True
             self.has_install_path = True
